@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: "AI for Earth Sciences"
-tagline: "26 April 2020 in Pacific Daylight Time"
-tagline: "@ICLR2020 Virtual Conference"
+tagline: "Virtual Conference"
+tagline: "@NeurIPS2020"
 github:
   is_project_page: false
 kramdown:
