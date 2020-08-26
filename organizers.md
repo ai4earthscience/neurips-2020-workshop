@@ -39,6 +39,12 @@ Web: [johanna.github.io](johannah.github.io)
 Aaron Courville  
 Associate Professor at Mila and Université de Montréal  
 Web: [https://mila.quebec/en/person/aaron-courville/](https://mila.quebec/en/person/aaron-courville/)  
+---
 
+<img src="images/mayur.jpg" alt="aaron" width="100"/>  
+
+Mayur Mudigonda  
+Head of AI, Terrafuse; Research Affiliate, Berkeley National Lab  
+Web: [https://mudigonda.github.io/](https://mudigonda.github.io/)  
 
 [back](./)
