@@ -9,7 +9,7 @@ description: committee
 [S. Karthik Mukkavilli](https://www.linkedin.com/in/karthikmukkavilli/), Chair - AI for Earth Sciences (McGill, US DoE Labs, Mila)   
 [Kelly Kochanski](https://www.kochanski.org/kelly/), PhD Candidate at CU Boulder  
 [Johanna Hansen](https://johannah.github.io/), PhD Candidate at McGill University 
-[Karthik Kashinath], Climate informatics and AI Scientist, Berkeley Lab at National Energy Research Scientific Computing Center (NERSC)  
+[Karthik Kashinath](https://www.nersc.gov/about/nersc-staff/data-analytics-services/karthik-kashinath/), Climate informatics and AI Scientist, Berkeley Lab at National Energy Research Scientific Computing Center (NERSC)  
 [Vipin Kumar](https://www-users.cs.umn.edu/~kumar001/), Chaired Professor at Minnesota in Computer Science and Engineering    
 [Amy McGovern](http://www.mcgovern-fagg.org/amy/), Presidential Professor in the School of Computer Science at the University of Oklahoma and an adjunct professor in the School of Meteorology  
 [Paul D. Miller, aka DJ Spooky](http://djspooky.com/),  Artist in Residence at Google and National Geographic Emerging Explorer  
