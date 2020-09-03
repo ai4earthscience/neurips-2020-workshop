@@ -9,7 +9,7 @@ We call for papers demonstrating novel machine learning techniques in remote sen
 
 ## Details 
 
-Workshop Date: Saturday, April 12th PDT   
+Workshop Date: Saturday, December 12th PDT   
 Paper deadline: October 7th (4pg limit, excluding references/appendix)  
 Notification: Oct 30th  
 Location: Virtual  
