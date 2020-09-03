@@ -3,9 +3,9 @@ layout: default
 title: AI for Earth Sciences
 ---
 ---
-This workshop seeks to bring cutting edge geoscientific and planetary challenges to the fore for the machine learning communities. We seek machine learning interest from major areas encompassed by Earth sciences. 
+This workshop seeks to discuss work at the interesection of earth science and machine learning, bringing together scientists working on important geoscientific and planetary challenge together with machine learning specialists. This workshop encompasses both applied and theoretical work from both fields. 
 
-We call for papers demonstrating machine learning techniques in fields related to earth systems science including, but not limited to: hydrolic modeling, sensing, geophysics, meteorology. We especially welcome hybrid models with physics or human-guided learning systems and new labeled datasets. Please see [Session Info](https://ai4earthscience/neurips-2020-workshop/sessions.md) for more detailed information and examples of applicable work. 
+We call for papers demonstrating machine learning techniques in fields related to earth systems science including, but not limited to: hydrolic modeling, sensing, geophysics, meteorology. We especially welcome new models with physics-constrained or human-guided learning systems and new labeled datasets. Please see [Session Info](https://ai4earthscience/neurips-2020-workshop/sessions.md) for more detailed information and examples of applicable work. 
 
 ## Details 
 
