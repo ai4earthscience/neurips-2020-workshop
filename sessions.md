@@ -8,7 +8,7 @@ description: org
 
 ---  
 
-### Atmosphere and Climate  
+### Atmosphere  
 
 * [McGovern, A. et al, Using Machine Learning And Model Interpretation And Visualization Techniques To Gain Physical Insights In Atmospheric Science](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth16.pdf)  
 * [Mudigonda, M. et al, Climatenet: Bringing The Power Of Deep Learning To Weather And Climate Sciences Via Open Datasets And Architectures](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth21.pdf)  
