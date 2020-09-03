@@ -50,7 +50,7 @@ Web: [https://mudigonda.github.io/](https://mudigonda.github.io/)
 
 ---  
 
-<img src="images/ndudek.jpg" alt="natasha" width="100"/>  
+<img src="images/dudek_headshot.jpg" alt="natasha" width="100"/>  
 
 Natasha Dudek   
 Postdoc at McGill, Mila   
