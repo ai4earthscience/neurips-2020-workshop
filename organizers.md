@@ -48,8 +48,9 @@ Postdoc at McGill, Mila
 
 
 [Amy McGovern](http://www.mcgovern-fagg.org/amy/)
-Presidential Professor in the School of Computer Science at the University of Oklahoma and an adjunct professor in the School of Meteorology  
+Presidential Professor in the School of Computer Science at the University of Oklahoma and an adjunct professor in the School of Meteorology   
 [@profamymcgovern](https://twitter.com/profamymcgovern)
+
 ---  
 
 <img src="images/tom.jpg" alt="tom" width="100"/>  
