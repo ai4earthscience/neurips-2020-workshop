@@ -48,4 +48,10 @@ Mayur Mudigonda
 Head of AI, Terrafuse; Research Affiliate, Berkeley National Lab  
 Web: [https://mudigonda.github.io/](https://mudigonda.github.io/)  
 
+---  
+
+Natasha Dudek  
+Postdoc at Mila   
+
+
 [back](./)
