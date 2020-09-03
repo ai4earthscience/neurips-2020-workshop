@@ -11,12 +11,11 @@ description: org
 ### Atmosphere and Climate  
 
 * [McGovern, A. et al, Using Machine Learning And Model Interpretation And Visualization Techniques To Gain Physical Insights In Atmospheric Science](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth16.pdf)  
-* [Climatenet](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth21.pdf)  
+* [Mudigonda, M. et al, Climatenet: Bringing The Power Of Deep Learning To Weather And Climate Sciences Via Open Datasets And Architectures](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth21.pdf)  
 
 ### Water   
 
 * [Kochanski, K. et al, Surrogate Sea Ice Model Enables Efficient Tuning](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth26.pdf)   
-
 * [Moshe, Z. et al, Hydronets: Leveraging River Structure for Hydrologic Modeling](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth04.pdf)  
 
 ### Solid Earth   
@@ -25,7 +24,6 @@ description: org
 ### Ecology    
 
 * [Manderson, T. et al, Robotic Coral Reef Health Assessment Using Automated Image Analysis](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21698)  
-
 * [Kalmbach, A. et al, Phytoplankton Hotspot Prediction With an Unsupervised Spatial
 Community Model](https://arxiv.org/pdf/1703.07309.pdf)  
 
@@ -33,10 +31,9 @@ Community Model](https://arxiv.org/pdf/1703.07309.pdf)
 
 * [Mohan, A. et al, Embedding Hard Physical Constraints In Convolutional Neural Networks For 3d Turbulence](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth14.pdf)  
 
-### Sensing      
+### Sensing and Sampling       
 
 * [Peters, B. et al, Fully Reversible Neural Networks For Large-scale Surface And Sub-surface Characterization Via Remote Sensing](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth24.pdf)   
-
 * [Hansen, J. et al, Coverage Optimization with Non-Actuated, Floating Mobile Sensors
 using Iterative Trajectory Planning in Marine Flow Fields](https://www.cim.mcgill.ca/~mrl/pubs/jhansen/IROS2018.pdf)
 
