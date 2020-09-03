@@ -3,9 +3,9 @@ layout: default
 title: AI for Earth Sciences
 ---
 ---
-AI for Earth sciences seeks to bring cutting edge geoscientific and planetary challenges to the fore for the machine learning communities. We seek machine learning interest from major areas encompassed by Earth sciences which include, atmospheric physics, hydrologic sciences, cryosphere science, oceanography, geology, planetary sciences, space weather, geo-health (i.e.  water, land and air pollution), volcanism, seismology, biogeosciences and integrated assessment models. We also seek interest in AI applied to energy for renewable energy meteorology, thermodynamics and heat transfer problems. 
+This workshop seeks to bring cutting edge geoscientific and planetary challenges to the fore for the machine learning communities. We seek machine learning interest from major areas encompassed by Earth sciences. 
 
-We call for papers demonstrating novel machine learning techniques in remote sensing for meteorology and geosciences, generative Earth system modeling, and transfer learning from geophysics and numerical simulations and uncertainty in Earth science learning representations. We also seek theoretical developments in interpretable machine learning in meteorology and geoscientific models, hybrid models with Earth science knowledge guided machine learning, representation  learning  from  graphs  and  manifolds  in  spatiotemporal  models  and  dimensionality reduction in Earth sciences. In addition, we seek Earth science applications from vision, robotics, multi-agent systems and reinforcement learning. New labelled Earth science datasets and visualizations with machine learning is also of particular interest.
+We call for papers demonstrating machine learning techniques in fields related to earth systems science including, but not limited to: hydrolic modeling, sensing, geophysics, meteorology. We especially welcome hybrid models with physics or human-guided learning systems and new labeled datasets. Please see [Session Info](https://github.com/ai4earthscience/neurips-2020-workshop/blob/master/sessions.md) for more detailed information and examples of applicable work. 
 
 ## Details 
 
