@@ -23,7 +23,7 @@ PhD at CU Boulder
 
 <img src="images/jhansen.png" alt="jhansen" width="100"/>  
 
-[Johanna Hansen](johannah.github.io) 
+[Johanna Hansen](https://johannah.github.io) 
 PhD Candidate at McGill University  
 [@johanbanan](https://twitter.com/johanbanan)  
 
