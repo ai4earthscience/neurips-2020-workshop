@@ -10,7 +10,7 @@ description: org
 
 S. Karthik Mukkavilli        
 Chair - AI for Earth Sciences  
-McGill, US DoE Labs, Mila  
+US DoE Labs 
 Slack: @mukkavis  
 Twitter: [@DrMukkavilli](https://twitter.com/DrMukkavilli)    
 
@@ -42,7 +42,7 @@ Web: [https://mila.quebec/en/person/aaron-courville/](https://mila.quebec/en/per
 
 --- 
 
-<img src="images/mayur.jpg" alt="aaron" width="100"/>  
+<img src="images/mayur.jpg" alt="mayur" width="100"/>  
 
 Mayur Mudigonda  
 Head of AI, Terrafuse; Research Affiliate, Berkeley National Lab  
@@ -50,8 +50,10 @@ Web: [https://mudigonda.github.io/](https://mudigonda.github.io/)
 
 ---  
 
-Natasha Dudek  
-Postdoc at Mila   
+<img src="images/ndudek.jpg" alt="natasha" width="100"/>  
 
+Natasha Dudek   
+Postdoc at McGill, Mila   
+Web: [natasha-dudek](https://www.linkedin.com/in/natasha-dudek/)  
 
 [back](./)
