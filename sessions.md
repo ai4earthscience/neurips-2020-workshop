@@ -72,12 +72,13 @@ description: org
 
 ---  
 
-## Climate Dynamics    
+## Climate Issues      
 
 <b>Example topics of interest include:</b> 
 
 * Climate change       
 * Extreme weather  
+* Energy meteorology 
 
 ---  
 
