@@ -83,7 +83,7 @@ description: org
 <b>Example topics of interest include:</b>   
 
 * Remote sensing  
-* In-situ sensing and sampling systems (including sampling robots)   
+* In-situ sensing and sampling systems (including observational robots)   
 * Data transformation, interpolation, and transformation techniques  
 
 <b>Example articles:</b>   
