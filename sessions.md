@@ -94,7 +94,7 @@ description: org
 
 * Remote sensing  
 * In-situ sensing and sampling systems (including observational robots)   
-* Data transformation, interpolation, and transformation techniques  
+* Data interpolation and transformation techniques  
 
 <b>Example articles:</b>   
 
