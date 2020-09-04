@@ -10,7 +10,7 @@ description: org
 
 ## Atmosphere  
 
-**Example topics of interest include:  
+<b>Example topics of interest include:</b> 
 
 * Weather prediction and extreme events 
 * Climate modeling  
