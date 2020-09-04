@@ -80,11 +80,11 @@ description: org
 
 ---  
 
-## Simulations, Physics, and Theory Guided ML in Earth Science   
+## Simulations, Physics, and ML Theory in Earth Science   
 
 <b>Example topics of interest include:</b>   
 
-* Unique architectures which address problems in earth-science   
+* Architectures which address unique problems in earth-science   
 * Simulating dynamic earth processes  
 * Transfer learning for challenging earth-science datasets  
 * Physics-informed learning  
