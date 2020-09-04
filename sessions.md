@@ -63,7 +63,7 @@ description: org
 
 <b>Example articles:</b>   
 
-[Jimenez, P., WRF-Solar: Description and clear-sky assessment of an augmented NWP model for solar power prediction](https://journals.ametsoc.org/bams/article/97/7/1249/69904)  
+* [Jimenez, P., WRF-Solar: Description and clear-sky assessment of an augmented NWP model for solar power prediction](https://journals.ametsoc.org/bams/article/97/7/1249/69904)  
 
 --- 
 
