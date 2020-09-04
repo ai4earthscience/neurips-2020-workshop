@@ -15,7 +15,8 @@ description: org
 * Meteorology   
 * Atmospheric science  
 * Extreme weather  
-* Climate dynamics          
+* Climate dynamics      
+* Air quality  
 
 <b>Example articles:</b>  
 
@@ -75,7 +76,7 @@ description: org
 * Species distributions  
 * Biodiversity  
 * Ecosystem processes (primary production, nutrient cycling, niche construction, etc) and their interaction with species' ecology  
-* Human health  
+* Human health and the environment    
 
 ---  
 
