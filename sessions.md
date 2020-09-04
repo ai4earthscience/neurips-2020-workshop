@@ -67,7 +67,7 @@ description: org
 
 --- 
 
-## Life Supporting Systems   
+## Ecology     
 
 <b>Example topics of interest include:</b>   
 
@@ -75,8 +75,8 @@ description: org
 * Natural habitat destruction 
 * Species distributions  
 * Biodiversity  
-* Human health  
 * Ecosystem processes (primary production, nutrient cycling, niche construction, etc) and their interaction with species' ecology  
+* Human health  
 
 ---  
 
