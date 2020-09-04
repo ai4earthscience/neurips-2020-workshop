@@ -70,7 +70,7 @@ description: org
 <b>Example topics of interest include:</b>   
 
 * Mathematical ecology
-* Natural habitat destruction 
+* Natural habitats  
 * Species distributions  
 * Biodiversity  
 * Ecosystem processes (primary production, nutrient cycling, niche construction, etc) and their interaction with species' ecology  
