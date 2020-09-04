@@ -69,12 +69,14 @@ description: org
 
 <b>Example topics of interest include:</b>   
 
-* Mathematical ecology
+* Mathematical ecology  
 * Natural habitats  
 * Species distributions  
 * Biodiversity  
 * Ecosystem processes (primary production, nutrient cycling, niche construction, etc) and their interaction with species' ecology  
 * Human health and the environment    
+
+<b>Example articles:</b>   
 
 * [Wood, C. et al, Precision mapping of snail habitat provides a powerful indicator of human schistosomiasis transmission](https://www.pnas.org/content/116/46/23182)   
 
