@@ -15,8 +15,7 @@ description: org
 * Meteorology   
 * Atmospheric science  
 * Extreme weather  
-* Climate dynamics         
-* Extreme weather   
+* Climate dynamics          
 
 <b>Example articles:</b>  
 
