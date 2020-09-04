@@ -33,13 +33,14 @@ description: org
 
 * [Moshe, Z. et al, Hydronets: Leveraging River Structure for Hydrologic Modeling](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth04.pdf)  
 
-## Ice   
+## Cryosphere  
 
 <b>Example topics of interest include:</b>   
  
-* Cryosphere  
+* Snow   
 * Glaciers  
-* Ice sheets
+* Sea ice  
+* Ice sheets  
 
 <b>Example articles:</b>   
 
@@ -111,20 +112,17 @@ using Iterative Trajectory Planning in Marine Flow Fields](https://www.cim.mcgil
 * The impact of earch-science learning systems on society    
 * Public engagement and data collection efforts  
 * Environmental justice  
-* Sustainability  
+* Sustainability    
+* Renewable energy 
+
+--- 
 
 ## Datasets  
 <b>Example topics of interest include:</b>   
 
-* New earth science datasets   
+* Earth science datasets   
 * Data labeling techniques  
 
-## Energy  
 
-<b>Example topics of interest include:</b>   
-
-* Thermodynamics  
-* Heat transfer  
-* Solar prediciton  
 
 
