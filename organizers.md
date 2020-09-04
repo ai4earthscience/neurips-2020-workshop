@@ -59,8 +59,8 @@ Head of AI, Terrafuse; Research Affiliate, Berkeley Lab
 
 <img src="images/amy.jpg" alt="amy" width="100"/>  
 
-[Amy McGovern](http://www.mcgovern-fagg.org/amy/)  [@profamymcgovern](https://twitter.com/profamymcgovern)  
-Presidential Professor of Computer Science and Adjunct Prof. of Meteorology, University of Oklahoma   
+[Amy McGovern](http://www.mcgovern-fagg.org/amy/)   
+Presidential Professor of Computer Science and Adjunct Prof. of Meteorology, University of Oklahoma [@profamymcgovern](https://twitter.com/profamymcgovern)    
 
 ---   
 
