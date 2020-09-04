@@ -61,8 +61,6 @@ description: org
 * Energy and meteorology 
 * Renewable energy systems     
 
-<b>Example articles:</b>   
-
 --- 
 
 ## Ecology     
