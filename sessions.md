@@ -21,6 +21,8 @@ description: org
 <b>Example articles:</b>  
 
 * [McGovern, A. et al, Using Machine Learning And Model Interpretation And Visualization Techniques To Gain Physical Insights In Atmospheric Science](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth16.pdf)  
+* [Manepalli, A. et al, Generalization Properties Of Machine Learning Based Weather Model Downscaling](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth25.pdf)  
+* [Beucler, T. et al, Towards Physically-consistent, Data-driven Models of Convection](https://arxiv.org/pdf/2002.08525)  
 
 ---  
 
@@ -101,6 +103,7 @@ description: org
 
 <b>Example articles:</b>   
 
+* [Neumann, M. et al, In-domain Representation Learning For Remote Sensing](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth10.pdf)  
 * [Peters, B. et al, Fully Reversible Neural Networks For Large-scale Surface And Sub-surface Characterization Via Remote Sensing](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth24.pdf)   
 * [Hansen, J. et al, Coverage Optimization with Non-Actuated, Floating Mobile Sensors
 using Iterative Trajectory Planning in Marine Flow Fields](https://www.cim.mcgill.ca/~mrl/pubs/jhansen/IROS2018.pdf)
@@ -116,6 +119,9 @@ using Iterative Trajectory Planning in Marine Flow Fields](https://www.cim.mcgil
 * Environmental justice  
 * Sustainability    
 
+<b>Example articles:</b>   
+* [Donges, J. et al, Earth system modeling with endogenous and dynamic human societies: the copan: CORE open World–Earth modeling framework](https://esd.copernicus.org/articles/11/395/2020/)
+
 --- 
 
 ## Benchmark Datasets  
@@ -123,6 +129,10 @@ using Iterative Trajectory Planning in Marine Flow Fields](https://www.cim.mcgil
 
 * Earth science datasets  
 * Techniques for data collection and labeling (crowdsourcing, intelligent agents, etc)   
+
+<b>Example articles:</b>   
+* [Kapp-Schwoerer, L. et al, Climatenet: Bringing The Power Of Deep Learning To Weather And Climate Sciences Via Open Datasets And Architectures](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth21.pdf)  
+
 
 
 
