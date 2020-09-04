@@ -10,15 +10,15 @@ description: org
 
 <img src="images/karthik.jpg" alt="karthik" width="100"/>
 
-[S. Karthik Mukkavilli](https://www.linkedin.com/in/karthikmukkavilli/), Workshop Chair, [@DrMukkavilli](https://twitter.com/DrMukkavilli) 
-Project Scientist US DOE Exascale Computing, UC Irvine; Research Affiliate - Berkeley Lab, McGill  
+[S. Karthik Mukkavilli](https://www.linkedin.com/in/karthikmukkavilli/), Workshop Chair,   
+Project Scientist US DOE Exascale Computing, UC Irvine; Research Affiliate - Berkeley Lab, McGill [@DrMukkavilli](https://twitter.com/DrMukkavilli)
 
 ---
 
 <img src="images/jhansen.png" alt="jhansen" width="100"/>  
 
-[Johanna Hansen](https://johannah.github.io) [@johanbanan](https://twitter.com/johanbanan) 
-PhD Candidate at McGill, School of Computer Science, Mobile Robotics Lab  
+[Johanna Hansen](https://johannah.github.io)  
+PhD Candidate at McGill, School of Computer Science, Mobile Robotics Lab [@johanbanan](https://twitter.com/johanbanan)
 
 ---
 
@@ -52,15 +52,15 @@ Climate Informacist and AI Scientist, NERSC and Berkeley Lab
 
 <img src="images/mayur.jpg" alt="mayur" width="100"/>  
 
-[Mayur Mudigonda](https://mudigonda.github.io/) [@mayur](https://twitter.com/moop03888913?lang=en) 
-Head of AI, Terrafuse; Research Affiliate, Berkeley Lab   
+[Mayur Mudigonda](https://mudigonda.github.io/) 
+Head of AI, Terrafuse; Research Affiliate, Berkeley Lab [@mayur](https://twitter.com/moop03888913?lang=en)    
 
 ---  
 
 <img src="images/amy.jpg" alt="amy" width="100"/>  
 
-[Amy McGovern](http://www.mcgovern-fagg.org/amy/) [@profamymcgovern](https://twitter.com/profamymcgovern) 
-Presidential Professor of Computer Science and Adjuct Prof. of Meteorology, University of Oklahoma   
+[Amy McGovern](http://www.mcgovern-fagg.org/amy/)    
+Presidential Professor of Computer Science and Adjunct Prof. of Meteorology, University of Oklahoma [@profamymcgovern](https://twitter.com/profamymcgovern)   
 
 ---   
 
