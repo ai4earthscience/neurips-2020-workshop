@@ -60,7 +60,7 @@ description: org
 * Species distributions  
 * Biodiversity  
 * Human health  
-* Ecosystem process (primary production, nutrient cycling, niche construction, etc) and their interaction with species' ecology  
+* Ecosystem processes (primary production, nutrient cycling, niche construction, etc) and their interaction with species' ecology  
 
 ---  
 
