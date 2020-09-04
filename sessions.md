@@ -118,13 +118,14 @@ using Iterative Trajectory Planning in Marine Flow Fields](https://www.cim.mcgil
 
 <b>Example topics of interest include:</b>   
 
-* The impact of earch-science learning systems on [society](https://hai.stanford.edu/research/human-impact)    
+* The impact of earth-science learning systems on society    
 * Public engagement 
 * Environmental justice  
 * Sustainability    
 
 <b>Example articles:</b>   
-* [Donges, J. et al, Earth system modeling with endogenous and dynamic human societies: the copan: CORE open World–Earth modeling framework](https://esd.copernicus.org/articles/11/395/2020/)
+* [Donges, J. et al, Earth system modeling with endogenous and dynamic human societies: the copan: CORE open World–Earth modeling framework](https://esd.copernicus.org/articles/11/395/2020/)  
+* [Standford HAI](https://hai.stanford.edu/research/human-impact)   
 
 --- 
 
@@ -136,6 +137,7 @@ using Iterative Trajectory Planning in Marine Flow Fields](https://www.cim.mcgil
 * Techniques for data collection and labeling (crowdsourcing, intelligent agents, etc)   
 
 <b>Example articles:</b>   
+
 * [Kapp-Schwoerer, L. et al, Climatenet: Bringing The Power Of Deep Learning To Weather And Climate Sciences Via Open Datasets And Architectures](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth21.pdf)  
 
 
