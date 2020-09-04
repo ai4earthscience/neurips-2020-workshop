@@ -59,7 +59,7 @@ description: org
 
 * Dynamic energy in the environment (wind, solar, tidal)  
 * Energy and meteorology 
-* Forecasting for renewable energy systems     
+* Renewable energy systems     
 
 <b>Example articles:</b>   
 
