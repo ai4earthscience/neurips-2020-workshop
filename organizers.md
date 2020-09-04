@@ -10,8 +10,8 @@ description: org
 
 <img src="images/karthik.jpg" alt="karthik" width="100"/>
 
-[S. Karthik Mukkavilli](https://www.linkedin.com/in/karthikmukkavilli/), Workshop Chair,   
-Project Scientist US DOE Exascale Computing, UC Irvine; Research Affiliate - Berkeley Lab, McGill [@DrMukkavilli](https://twitter.com/DrMukkavilli)
+[S. Karthik Mukkavilli](https://www.linkedin.com/in/karthikmukkavilli/), Workshop Chair, [@DrMukkavilli](https://twitter.com/DrMukkavilli)  
+Project Scientist US DOE Exascale Computing, UC Irvine; Research Affiliate - Berkeley Lab, McGill 
 
 ---
 
@@ -24,43 +24,43 @@ PhD Candidate at McGill, School of Computer Science, Mobile Robotics Lab [@johan
 
 <img src="images/kelly.jpeg" alt="kelly" width="100"/>  
 
-[Kelly Kochanski](https://www.kochanski.org/kelly/) 
+[Kelly Kochanski](https://www.kochanski.org/kelly/)  
 Computational Science Graduate Fellow, CU Boulder, Core Team - Climate Change AI    
 
 ---
 
 <img src="images/dudek_headshot.jpg" alt="natasha" width="100"/>  
 
-[Natasha Dudek](https://www.linkedin.com/in/natasha-dudek/) 
+[Natasha Dudek](https://www.linkedin.com/in/natasha-dudek/)  
 Postdoc at McGill - Mila, Deep Learning in Bioinformatics   
 
 ---
 
 <img src="images/tom.jpg" alt="tom" width="100"/>  
 
-[Tom Beucler](http://tbeucler.scripts.mit.edu/tbeucler/) 
+[Tom Beucler](http://tbeucler.scripts.mit.edu/tbeucler/)  
 Project Scientist, UC Irvine and Columbia University 
 
 ---
 
 <img src="images/kashinath.jpg" alt="kashinath" width="100"/>  
 
-[Karthik Kashinath](https://www.nersc.gov/about/nersc-staff/data-analytics-services/karthik-kashinath/) 
+[Karthik Kashinath](https://www.nersc.gov/about/nersc-staff/data-analytics-services/karthik-kashinath/)  
 Climate Informacist and AI Scientist, NERSC and Berkeley Lab    
 
 ---  
 
 <img src="images/mayur.jpg" alt="mayur" width="100"/>  
 
-[Mayur Mudigonda](https://mudigonda.github.io/) 
-Head of AI, Terrafuse; Research Affiliate, Berkeley Lab [@mayur](https://twitter.com/moop03888913?lang=en)    
+[Mayur Mudigonda](https://mudigonda.github.io/)  
+Head of AI, Terrafuse; Research Affiliate, Berkeley Lab   
 
 ---  
 
 <img src="images/amy.jpg" alt="amy" width="100"/>  
 
-[Amy McGovern](http://www.mcgovern-fagg.org/amy/)    
-Presidential Professor of Computer Science and Adjunct Prof. of Meteorology, University of Oklahoma [@profamymcgovern](https://twitter.com/profamymcgovern)   
+[Amy McGovern](http://www.mcgovern-fagg.org/amy/)  [@profamymcgovern](https://twitter.com/profamymcgovern)  
+Presidential Professor of Computer Science and Adjunct Prof. of Meteorology, University of Oklahoma   
 
 ---   
 
