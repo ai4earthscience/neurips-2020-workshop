@@ -123,8 +123,8 @@ using Iterative Trajectory Planning in Marine Flow Fields](https://www.cim.mcgil
 
 <b>Example topics of interest include:</b>   
 
-** Thermodynamics  
-** Heat transfer  
-** Solar prediciton  
+*Thermodynamics  
+*Heat transfer  
+*Solar prediciton  
 
 
