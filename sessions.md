@@ -87,7 +87,7 @@ description: org
 * Unique architectures which address problems in earth-science   
 * Simulating dynamic earth processes  
 * Transfer learning for challenging earth-science datasets  
-* Human-in-the-loop systems  
+* Human-in-the-loop sampling  
 
 <b>Examples articles:</b>   
 
