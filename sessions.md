@@ -39,13 +39,13 @@ description: org
 
 ---  
 
-## Solid Earth   
+## Land   
 
 <b>Example topics of interest include:</b>   
 
 * Geophysics  
 * Mineral discovery  
-* Seismology
+* Seismology  
 
 <b>Example articles:</b>   
 
