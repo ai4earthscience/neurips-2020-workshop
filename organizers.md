@@ -69,11 +69,11 @@ Presidential Professor of Computer Science and Adjunct Prof. of Meteorology, Uni
 [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/), Chaired Professor at McGill School of Computer Science, VP Samsung AI Research, Monreal  
 [Vipin Kumar](https://www-users.cs.umn.edu/~kumar001/), Chaired Professor at Minnesota in Computer Science and Engineering    
 [Pierre Gentine](https://eee.columbia.edu/faculty/pierre-gentine), Associate Professor of Earth and Environmental Engineering, Columbia University    
-[Mary C Hill](https://geo.ku.edu/hill-mary-c), Professor of Geology at University of Kansas    
+[Mary C. Hill](https://geo.ku.edu/hill-mary-c), Professor of Geology at University of Kansas    
 [Paul D. Miller, aka DJ Spooky](http://djspooky.com/), Artist in Residence at Google and National Geographic Emerging Explorer  
 [Trooper Sanders](https://twitter.com/troopersanders?lang=en), CEO at Benefits Data Trust     
 [Chad Frischmann](https://www.drawdown.org/staff/chad-frischmann), VP & Research Director at Drawdown    
-[Daniel Merson Kammen](https://en.wikipedia.org/wiki/Daniel_Kammen), Distinguished Professor, Energy and Resources Group, UC Berkeley 
+[Daniel M. Kammen](https://en.wikipedia.org/wiki/Daniel_Kammen), Distinguished Professor, Energy and Resources Group, UC Berkeley 
 
 
 
