@@ -39,7 +39,7 @@ description: org
 
 ---  
 
-## Land   
+## Solid Earth   
 
 <b>Example topics of interest include:</b>   
 
@@ -57,13 +57,11 @@ description: org
 
 <b>Example topics of interest include:</b> 
 
-* Dynamic energy in the environment   
+* Energy in the environment   
 * Energy and meteorology 
 * Renewable energy systems     
 
 <b>Example articles:</b>   
-
-* [Jimenez, P., WRF-Solar: Description and clear-sky assessment of an augmented NWP model for solar power prediction](https://journals.ametsoc.org/bams/article/97/7/1249/69904)  
 
 --- 
 
@@ -116,7 +114,7 @@ using Iterative Trajectory Planning in Marine Flow Fields](https://www.cim.mcgil
 <b>Example topics of interest include:</b>   
 
 * The impact of earch-science learning systems on society    
-* Public engagement and data collection efforts  
+* Public engagement 
 * Environmental justice  
 * Sustainability    
 
@@ -125,9 +123,8 @@ using Iterative Trajectory Planning in Marine Flow Fields](https://www.cim.mcgil
 ## Benchmark Datasets  
 <b>Example topics of interest include:</b>   
 
-* Earth science datasets   
-* Data labeling techniques  
-
+* Earth science datasets  
+* Data collection and labeling (crowdsourcing, intelligent agents, etc)   
 
 
 
