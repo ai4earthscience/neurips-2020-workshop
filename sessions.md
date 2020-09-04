@@ -4,7 +4,7 @@ title: AI for Earth Sciences
 description: org
 ---  
 
-## The following are our anticipated workshop tracks with example publications: 
+## The following are example topics of interest for workshop submissions: 
 
 ---  
 
