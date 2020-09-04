@@ -44,7 +44,7 @@ description: org
 
 * Geophysics  
 * Mineral discovery  
-* Techtonic activity prediction  
+* Techtonic activity  
 
 <b>Example articles:</b>   
 
