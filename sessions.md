@@ -14,7 +14,6 @@ description: org
 
 * Weather prediction and extreme events 
 * Climate modeling  
-* Atmospheric science
 
 <b>Example articles:</b>  
 
@@ -52,11 +51,12 @@ description: org
 
 ---  
 
-## Ecology & GeoHealth  
+## Life Supporting Systems   
 
 <b>Example topics of interest include:</b>   
 
-* Natural habitat destruction and the emergence of novel zoonotic pathogens  
+* Mathematical ecology
+* Natural habitat destruction 
 * Species distributions  
 * Biodiversity  
 * Human health  
@@ -64,7 +64,7 @@ description: org
 
 ---  
 
-## Simulation and Modeling  
+## Simulations, Physics, and Theory Guided ML    
 
 <b>Example topics of interest include:</b>   
 
@@ -101,3 +101,4 @@ using Iterative Trajectory Planning in Marine Flow Fields](https://www.cim.mcgil
 * The impact of earch-science learning systems on society    
 * Public engagement and data collection efforts  
 * Environmental justice  
+* Sustainability  
