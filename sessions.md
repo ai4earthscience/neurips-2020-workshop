@@ -16,8 +16,7 @@ description: org
 * Atmospheric science  
 * Extreme weather  
 * Climate dynamics         
-* Extreme weather  
-* Energy meteorology 
+* Extreme weather   
 
 <b>Example articles:</b>  
 
@@ -53,6 +52,16 @@ description: org
 * [Mousavi, S. et al, Hierarchical Attentive Modeling Of Earthquake Signals](https://www.researchgate.net/publication/343542274_HIERARCHICAL_ATTENTIVE_MODELING_OF_EARTH-_QUAKE_SIGNALS)
 
 ---  
+
+## Energy  
+
+<b>Example topics of interest include:</b> 
+
+* Energy within the earth system  
+* Dynamic energy in the environment (wind, solar, tidal)  
+* Renewable energy systems  
+
+--- 
 
 ## Life Supporting Systems   
 
@@ -105,7 +114,6 @@ using Iterative Trajectory Planning in Marine Flow Fields](https://www.cim.mcgil
 * Public engagement and data collection efforts  
 * Environmental justice  
 * Sustainability    
-* Renewable energy 
 
 --- 
 
