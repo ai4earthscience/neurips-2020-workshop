@@ -122,7 +122,7 @@ using Iterative Trajectory Planning in Marine Flow Fields](https://www.cim.mcgil
 <b>Example topics of interest include:</b>   
 
 * Earth science datasets  
-* Data collection and labeling (crowdsourcing, intelligent agents, etc)   
+* Techniques for data collection and labeling (crowdsourcing, intelligent agents, etc)   
 
 
 
