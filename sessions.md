@@ -61,6 +61,10 @@ description: org
 * Energy and meteorology 
 * Forecasting for renewable energy systems     
 
+<b>Example articles:</b>   
+
+[Jimenez, P., WRF-Solar: Description and clear-sky assessment of an augmented NWP model for solar power prediction](https://journals.ametsoc.org/bams/article/97/7/1249/69904)  
+
 --- 
 
 ## Life Supporting Systems   
