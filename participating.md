@@ -9,6 +9,6 @@ Thank you for your interest in the #ai4earth workshop at NeurIPS! You may partic
 
 For questions, message us on #asktheorganizers on out [slack](https://join.slack.com/t/ai4earth/shared_invite/zt-hfa514gw-PN5kb_x1r2~bEB42hbDA_Q). 
 
-Follow our [organizers](https://ai4earthscience.github.io/neurips-2020-workshop/#organizers) on twitter for late-breaking news. 
+Follow our [organizers](https://ai4earthscience.github.io/neurips-2020-workshop/organizers.html) on twitter for late-breaking news. 
 
 More details to come!  
