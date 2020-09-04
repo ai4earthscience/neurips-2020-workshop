@@ -57,8 +57,8 @@ description: org
 
 <b>Example topics of interest include:</b> 
 
-* Energy within the earth system  
 * Dynamic energy in the environment (wind, solar, tidal)  
+* Energy and meteorology 
 * Renewable energy systems  
 
 --- 
