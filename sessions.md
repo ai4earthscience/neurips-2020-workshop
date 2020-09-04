@@ -8,17 +8,17 @@ description: org
 
 ---  
 
-## Atmosphere  
+## Air
 
 <b>Example topics of interest include:</b> 
 
-* Weather prediction and extreme events 
-* Climate modeling  
+* Meteorology    
+* Climate science  
+* Extreme weather  
 
 <b>Example articles:</b>  
 
 * [McGovern, A. et al, Using Machine Learning And Model Interpretation And Visualization Techniques To Gain Physical Insights In Atmospheric Science](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth16.pdf)  
-* [Mudigonda, M. et al, Climatenet: Bringing The Power Of Deep Learning To Weather And Climate Sciences Via Open Datasets And Architectures](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth21.pdf)  
 
 ---  
 
@@ -28,13 +28,23 @@ description: org
 
 * Hydrology  
 * Oceanography  
+
+<b>Example articles:</b>   
+
+* [Moshe, Z. et al, Hydronets: Leveraging River Structure for Hydrologic Modeling](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth04.pdf)  
+
+## Ice   
+
+<b>Example topics of interest include:</b>   
+ 
 * Cryosphere  
+* Glaciers  
+
 
 <b>Example articles:</b>   
 
 * [Kochanski, K. et al, Surrogate Sea Ice Model Enables Efficient Tuning](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth26.pdf)   
-* [Moshe, Z. et al, Hydronets: Leveraging River Structure for Hydrologic Modeling](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth04.pdf)  
-
+ 
 ---  
 
 ## Solid Earth   
@@ -43,7 +53,7 @@ description: org
 
 * Geophysics  
 * Mineral discovery  
-* Techtonic activity  
+* Seismology
 
 <b>Example articles:</b>   
 
@@ -102,3 +112,19 @@ using Iterative Trajectory Planning in Marine Flow Fields](https://www.cim.mcgil
 * Public engagement and data collection efforts  
 * Environmental justice  
 * Sustainability  
+
+## Datasets  
+<b>Example topics of interest include:</b>   
+
+* New earth science datasets   
+* Data labeling techniques  
+
+## Energy  
+
+<b>Example topics of interest include:</b>   
+
+** Thermodynamics  
+** Heat transfer  
+** Solar prediciton  
+
+
