@@ -60,13 +60,13 @@ Head of AI, Terrafuse; Research Affiliate, Berkeley Lab
 <img src="images/amy.jpg" alt="amy" width="100"/>  
 
 [Amy McGovern](http://www.mcgovern-fagg.org/amy/) [@profamymcgovern](https://twitter.com/profamymcgovern)  
-Presidential Professor of Computer Science and Adjunct Prof. of Meteorology, University of Oklahoma     
+Presidential Prof. in Computer Science and Adjunct Prof. in Meteorology, University of Oklahoma     
 
 ---   
 
 ## Steering Committee
 [Aaron Courville](https://mila.quebec/en/person/aaron-courville/), Professor at Mila and Université de Montréal  
-[Gregory Dudek](http://www.cim.mcgill.ca/~dudek/), Chaired Professor at McGill School of Computer Science, VP Samsung AI Research, Monreal  
+[Gregory Dudek](http://www.cim.mcgill.ca/~dudek/), Chaired Professor at McGill in Computer Science, VP Samsung AI Research, Monreal  
 [Vipin Kumar](https://www-users.cs.umn.edu/~kumar001/), Chaired Professor at Minnesota in Computer Science and Engineering    
 [Pierre Gentine](https://eee.columbia.edu/faculty/pierre-gentine), Associate Professor of Earth and Environmental Engineering, Columbia University    
 [Mary C. Hill](https://geo.ku.edu/hill-mary-c), Professor of Geology at University of Kansas    
