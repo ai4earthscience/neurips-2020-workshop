@@ -9,34 +9,58 @@ description: org
 ---  
 
 ### Atmosphere  
-
+Example topics of interest include:  
+* Weather prediction  
+* Climate modeling  
+* Atmospheric 
+Example articles:  
 * [McGovern, A. et al, Using Machine Learning And Model Interpretation And Visualization Techniques To Gain Physical Insights In Atmospheric Science](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth16.pdf)  
 * [Mudigonda, M. et al, Climatenet: Bringing The Power Of Deep Learning To Weather And Climate Sciences Via Open Datasets And Architectures](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth21.pdf)  
 
 ### Water   
+Example topics of interest include:  
 
+Example articles:  
 * [Kochanski, K. et al, Surrogate Sea Ice Model Enables Efficient Tuning](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth26.pdf)   
 * [Moshe, Z. et al, Hydronets: Leveraging River Structure for Hydrologic Modeling](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth04.pdf)  
 
 ### Solid Earth   
+Example topics of interest include:  
+* Geophysics  
+* 
+Example articles:  
 * [Mousavi, S. et al, Hierarchical Attentive Modeling Of Earthquake Signals](https://www.researchgate.net/publication/343542274_HIERARCHICAL_ATTENTIVE_MODELING_OF_EARTH-_QUAKE_SIGNALS)
 
-### Ecology    
+### Ecology & GeoHealth  
+Example topics of interest include:  
+* Natural habitat destruction and the emergence of novel zoonotic pathogens  
+* Species distributions  
+* Biodiversity  
+* Human health  
+* Ecosystem process (primary production, nutrient cycling, niche construction, etc) and their interaction with species' ecology  
 
-* [Manderson, T. et al, Robotic Coral Reef Health Assessment Using Automated Image Analysis](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21698)  
-* [Kalmbach, A. et al, Phytoplankton Hotspot Prediction With an Unsupervised Spatial
-Community Model](https://arxiv.org/pdf/1703.07309.pdf)  
+### Simulation and Modeling  
+Example topics of interest include:  
+* Unique architectures which address earth-science data  
+* Simulating earth processes  
+* Transfer learning for challenging earth-science datasets  
 
-### Simulations and Modeling  
-
+Examples articles:  
 * [Mohan, A. et al, Embedding Hard Physical Constraints In Convolutional Neural Networks For 3d Turbulence](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth14.pdf)  
 
 ### Sensing and Sampling       
+Example topics of interest include:  
+* Remote sensing  
+* In-situ sensing and sampling systems (including sampling robots)   
+* Data transformation, interpolation, and transformation techniques  
 
+Example articles:  
 * [Peters, B. et al, Fully Reversible Neural Networks For Large-scale Surface And Sub-surface Characterization Via Remote Sensing](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth24.pdf)   
 * [Hansen, J. et al, Coverage Optimization with Non-Actuated, Floating Mobile Sensors
 using Iterative Trajectory Planning in Marine Flow Fields](https://www.cim.mcgill.ca/~mrl/pubs/jhansen/IROS2018.pdf)
 
 ### People-Earth    
-
-
+Example topics of interest include: 
+* The impact of earch-science learning systems on society    
+* Public engagement and data collection efforts  
+* Environmental justice  
