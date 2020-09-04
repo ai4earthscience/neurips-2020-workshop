@@ -36,10 +36,8 @@ description: org
 
 <b>Example topics of interest include:</b>   
  
-* Snow   
 * Glaciers  
 * Sea ice  
-* Ice sheets  
 
 <b>Example articles:</b>   
 
