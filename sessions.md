@@ -80,9 +80,10 @@ description: org
 
 <b>Example topics of interest include:</b>   
 
-* Unique architectures which address earth-science data  
-* Simulating earth processes  
+* Unique architectures which address problems in earth-science   
+* Simulating dynamic earth processes  
 * Transfer learning for challenging earth-science datasets  
+* Human-in-the-loop systems  
 
 <b>Examples articles:</b>   
 
