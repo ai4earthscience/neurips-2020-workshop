@@ -10,7 +10,7 @@ description: org
 
 <img src="images/karthik.jpg" alt="karthik" width="100"/>
 
-[S. Karthik Mukkavilli](https://www.linkedin.com/in/karthikmukkavilli/), Workshop Chair, [@DrMukkavilli](https://twitter.com/DrMukkavilli)  
+[S. Karthik Mukkavilli](https://www.linkedin.com/in/karthikmukkavilli/), Chair - AI for Earth Sciences Workshops, [@DrMukkavilli](https://twitter.com/DrMukkavilli)  
 Project Scientist US DOE Exascale Computing, UC Irvine; Research Affiliate - Berkeley Lab, McGill 
 
 ---
