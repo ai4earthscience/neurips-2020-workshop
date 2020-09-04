@@ -122,7 +122,7 @@ using Iterative Trajectory Planning in Marine Flow Fields](https://www.cim.mcgil
 
 --- 
 
-## Datasets  
+## Benchmark Datasets  
 <b>Example topics of interest include:</b>   
 
 * Earth science datasets   
