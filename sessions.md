@@ -31,22 +31,13 @@ description: org
 
 * Hydrology  
 * Oceanography  
+* Cryosphere  
 
 <b>Example articles:</b>   
 
 * [Moshe, Z. et al, Hydronets: Leveraging River Structure for Hydrologic Modeling](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth04.pdf)  
-
-## Cryosphere  
-
-<b>Example topics of interest include:</b>   
- 
-* Glaciers  
-* Sea ice  
-
-<b>Example articles:</b>   
-
 * [Kochanski, K. et al, Surrogate Sea Ice Model Enables Efficient Tuning](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth26.pdf)   
- 
+
 ---  
 
 ## Solid Earth   
