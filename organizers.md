@@ -15,7 +15,7 @@ Project Scientist US DOE Exascale Computing, UC Irvine; Research Affiliate - Ber
 
 ---
 
-<img src="images/johanna.jpg" alt="jhansen" width="100"/>  
+<img src="images/jhansen.jpg" alt="jhansen" width="100"/>  
 
 [Johanna Hansen](https://johannah.github.io) [@johanbanan](https://twitter.com/johanbanan)  
 PhD Candidate at McGill, School of Computer Science, Mobile Robotics Lab 
