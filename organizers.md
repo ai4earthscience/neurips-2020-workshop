@@ -22,7 +22,7 @@ PhD Candidate at McGill, School of Computer Science, Mobile Robotics Lab
 
 ---
 
-<img src="images/kelly.jpeg" alt="kochanski" width="100"/>  
+<img src="images/kelly.jpg" alt="kochanski" width="100"/>  
 
 [Kelly Kochanski](https://www.kochanski.org/kelly/)  
 Computational Science Graduate Fellow, CU Boulder, Core Team - Climate Change AI    
