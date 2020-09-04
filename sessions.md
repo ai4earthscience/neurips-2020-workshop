@@ -12,8 +12,12 @@ description: org
 
 <b>Example topics of interest include:</b> 
 
-* Meteorology    
+* Meteorology   
+* Atmospheric science  
 * Extreme weather  
+* Climate dynamics         
+* Extreme weather  
+* Energy meteorology 
 
 <b>Example articles:</b>  
 
@@ -69,16 +73,6 @@ description: org
 * Biodiversity  
 * Human health  
 * Ecosystem processes (primary production, nutrient cycling, niche construction, etc) and their interaction with species' ecology  
-
----  
-
-## Climate Issues      
-
-<b>Example topics of interest include:</b> 
-
-* Climate change       
-* Extreme weather  
-* Energy meteorology 
 
 ---  
 
