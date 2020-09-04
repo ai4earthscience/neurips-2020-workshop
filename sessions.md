@@ -76,6 +76,8 @@ description: org
 * Ecosystem processes (primary production, nutrient cycling, niche construction, etc) and their interaction with species' ecology  
 * Human health and the environment    
 
+* [Wood, C. et al, Precision mapping of snail habitat provides a powerful indicator of human schistosomiasis transmission](https://www.pnas.org/content/116/46/23182)   
+
 ---  
 
 ## Simulations, Physics, and ML Theory in Earth Science   
@@ -114,7 +116,7 @@ using Iterative Trajectory Planning in Marine Flow Fields](https://www.cim.mcgil
 
 <b>Example topics of interest include:</b>   
 
-* The impact of earch-science learning systems on society    
+* The impact of earch-science learning systems on [society](https://hai.stanford.edu/research/human-impact)    
 * Public engagement 
 * Environmental justice  
 * Sustainability    
@@ -125,6 +127,7 @@ using Iterative Trajectory Planning in Marine Flow Fields](https://www.cim.mcgil
 --- 
 
 ## Benchmark Datasets  
+
 <b>Example topics of interest include:</b>   
 
 * Earth science datasets  
