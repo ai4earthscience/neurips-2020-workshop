@@ -76,7 +76,7 @@ description: org
 
 ---  
 
-## Simulations, Physics, and Theory Guided ML    
+## Simulations, Physics, and Theory Guided ML in Earth Science   
 
 <b>Example topics of interest include:</b>   
 
