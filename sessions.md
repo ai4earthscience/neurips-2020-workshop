@@ -38,6 +38,7 @@ description: org
 
 * [Moshe, Z. et al, Hydronets: Leveraging River Structure for Hydrologic Modeling](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth04.pdf)  
 * [Kochanski, K. et al, Surrogate Sea Ice Model Enables Efficient Tuning](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth26.pdf)   
+* [Kratzert, F., Towards Learning Universal, Regional, and Local Hydrological Behaviors via Machine-Learning Applied to Large-Sample Datasets](https://arxiv.org/abs/1907.08456)  
 
 ---  
 
@@ -63,6 +64,10 @@ description: org
 * Energy and meteorology 
 * Renewable energy systems     
 
+<b>Example articles:</b>   
+
+* [Verstraeten, T. et al, Multi-Agent Thompson Sampling for Bandit Applications with Sparse Neighbourhood Structures](https://www.nature.com/articles/s41598-020-62939-3)  
+
 --- 
 
 ## Ecology     
@@ -79,6 +84,7 @@ description: org
 <b>Example articles:</b>   
 
 * [Wood, C. et al, Precision mapping of snail habitat provides a powerful indicator of human schistosomiasis transmission](https://www.pnas.org/content/116/46/23182)   
+* [Van Houtan, K. et al, Sentiment Analysis of Conservation Studies Captures Successes of Species Reintroductions](https://www.sciencedirect.com/science/article/pii/S2666389920300052)  
 
 ---  
 
@@ -139,6 +145,8 @@ using Iterative Trajectory Planning in Marine Flow Fields](https://www.cim.mcgil
 <b>Example articles:</b>   
 
 * [Kapp-Schwoerer, L. et al, Climatenet: Bringing The Power Of Deep Learning To Weather And Climate Sciences Via Open Datasets And Architectures](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth21.pdf)  
+* [Rasp, S. et al, WeatherBench: A benchmark dataset for data-driven weather forecasting](https://arxiv.org/abs/2002.00469)  
+
 
 
 
