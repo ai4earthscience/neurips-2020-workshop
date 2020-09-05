@@ -100,6 +100,9 @@ description: org
 <b>Examples articles:</b>   
 
 * [Mohan, A. et al, Embedding Hard Physical Constraints In Convolutional Neural Networks For 3d Turbulence](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth14.pdf)  
+* [Cranmer, M. et al, Lagrangian Neural Networks](https://arxiv.org/pdf/2003.04630.pdf)  
+* [Sinai, Y., Learning data-driven discretizations for partial differential equations](https://research.google/pubs/pub48338/)  
+* [Cranmer, M. et al, Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/pdf/2006.11287.pdf)  
 
 ---  
 
