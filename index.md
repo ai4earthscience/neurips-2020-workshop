@@ -18,7 +18,7 @@ Papers are to be no more than 4 pages (excluding references and appendix) and sh
 
 # Participating in the #ai4earth workshop
 
-Register for this virtual workshop at [#NeurIPS2020](https://nips.cc/Register/view-registration)
+Register for this virtual workshop on the NeurIPS [website](https://nips.cc/Register/view-registration)
 
 ## Ways to Contact Us  
 
@@ -26,4 +26,4 @@ Register for this virtual workshop at [#NeurIPS2020](https://nips.cc/Register/vi
 
 - Follow our [organizers](https://ai4earthscience.github.io/neurips-2020-workshop/organizers.html) on twitter for late-breaking news. 
 
-- Send inquiries to ai4earthscience[at]gmail[dot]com
+- Send emails to ai4earthscience[at]gmail[dot]com
