@@ -17,11 +17,11 @@ Submission Link: [CMT](https://cmt3.research.microsoft.com/AI4EARTHNEURIPS2020)
  
 Papers are to be no more than 4 pages (excluding references and appendix) and should be presented in the [NeurIPS format](https://nips.cc/Conferences/2020/PaperInformation/StyleFiles).
 
-# Participating in the #ai4earth workshop
+## Participating:
 
 Register for this virtual workshop on the NeurIPS [website](https://nips.cc/Register/view-registration)
 
-## Ways to Contact Us  
+## Ways to Contact Us:  
 
 - For questions, message us on #asktheorganizers on our [slack](https://join.slack.com/t/ai4earth/shared_invite/zt-hfa514gw-PN5kb_x1r2~bEB42hbDA_Q). 
 
