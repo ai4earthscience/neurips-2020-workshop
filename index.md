@@ -15,7 +15,7 @@ Notification: Oct 30th
 Location: Virtual  
 Submission Link: [CMT](https://cmt3.research.microsoft.com/AI4EARTHNEURIPS2020)  
  
-Papers are to be no more than 4 pages (excluding references and appendix) and should be presented in the [NeurIPS format](https://nips.cc/Conferences/2020/PaperInformation/StyleFiles).
+Papers are to be no more than 4 pages (excluding references and appendix) and should be presented in the [NeurIPS format](https://nips.cc/Conferences/2020/PaperInformation/StyleFiles). Reviews will be double blind. 
 
 ## Participating:
 
