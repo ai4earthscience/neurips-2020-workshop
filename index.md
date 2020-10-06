@@ -10,7 +10,7 @@ This workshop seeks to discuss work at the intersection of earth science and mac
 We call for papers demonstrating machine learning techniques in fields related to earth-systems science, including, but not limited to: atmospheric science, water systems, geoscience, ecology, sensing, and human-earth interaction. The organizers especially invite submissions which demonstrate new models that address special needs within the earth science community such as small datasets, physics-constraints, and/or human-guided learning systems. The workshop will feature a special track devoted to new earth-science datasets. Please see [Session Info](https://ai4earthscience.github.io/neurips-2020-workshop/sessions) for more detailed information and examples of applicable work. 
 
 Workshop Date: Saturday, December 12th PDT   
-Paper deadline: October 10th midnight PDT      
+Paper deadline: October 10th 23:59 (midnight) PDT - Deadline extended due to CMT       
 Notification: Oct 30th  
 Location: Virtual  
 Submission Link: [CMT](https://cmt3.research.microsoft.com/AI4EARTHNEURIPS2020)  
