@@ -17,7 +17,7 @@ Location: Virtual
 
 Register for this virtual workshop on the NeurIPS [website](https://nips.cc/Register/view-registration). 
 
-Speakers and Authors, please reference [the speakers page](https://ai4earthscience.github.io/neurips-2020-workshop/authors.md) for up-to-date information on your submissions and talks. 
+Speakers and Authors, please reference [the speakers page](https://ai4earthscience.github.io/neurips-2020-workshop/speakers) for up-to-date information on your submissions and talks. 
 
 
 ## Ways to Contact Us:  
