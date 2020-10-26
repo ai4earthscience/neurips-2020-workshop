@@ -9,17 +9,16 @@ Topics include demonstrating machine learning techniques in fields related to ea
 
 Please see [Session Info](https://ai4earthscience.github.io/neurips-2020-workshop/sessions) for more detailed information and examples of applicable work. 
 
-Workshop Date: Saturday, December 12th PDT   
-~~Paper deadline: October 10th 23:59 (midnight) PDT - Deadline extended due to CMT~~       
-Notification: Oct 30th  
+Workshop Date: Saturday, December 12th PDT           
 Location: Virtual  
-Submission Link: [CMT](https://cmt3.research.microsoft.com/AI4EARTHNEURIPS2020)  
- 
-Papers are to be no more than 4 pages (excluding references and appendix) and should be presented in the [NeurIPS format](https://raw.githubusercontent.com/ai4earthscience/neurips-2020-workshop/master/misc/neurips_2020.sty). Reviews are double blind. 
 
+ 
 ## Participating:
 
 Register for this virtual workshop on the NeurIPS [website](https://nips.cc/Register/view-registration). 
+
+Speakers and Authors, please reference [the speakers page](https://ai4earthscience.github.io/neurips-2020-workshop/authors.md) for up-to-date information on your submissions and talks. 
+
 
 ## Ways to Contact Us:  
 
