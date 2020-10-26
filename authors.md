@@ -11,13 +11,13 @@ Please update your .sty files in latex to the [this version](https://github.com/
 Alternatively, you may do this manually by replacing lines 73:81 in your current .sty file with: 
 
 `
-\else
-  \if@neuripsfinal
-    \newcommand{\@noticestring}{%
-     AI for Earth Sciences Workshop at NeurIPS \@neuripsyear.%
-    }
-  \else
-    \newcommand{\@noticestring}{%
-      Submitted to the AI for Earth Sciences Workshop at NeurIPS \@neuripsyear. Do not distribute.%
-    }
+\else  
+  \if@neuripsfinal  
+    \newcommand{\@noticestring}{%  
+     AI for Earth Sciences Workshop at NeurIPS \@neuripsyear.%  
+    }  
+  \else  
+    \newcommand{\@noticestring}{%  
+      Submitted to the AI for Earth Sciences Workshop at NeurIPS \@neuripsyear. Do not distribute.%  
+    }  
 `
