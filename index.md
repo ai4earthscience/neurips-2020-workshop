@@ -19,6 +19,8 @@ Register for this virtual workshop on the NeurIPS [website](https://nips.cc/Regi
 
 Speakers and Authors, please reference [the speakers page](https://ai4earthscience.github.io/neurips-2020-workshop/speakers) for up-to-date information on your submissions and talks. 
 
+Check out our [Tentative Schedule](https://www.nips.cc/Conferences/2020/ScheduleMultitrack?event=16105#:~:text=NeurIPS%202020&text=Our%20workshop%20proposal%20AI%20for,learning%20and%20deep%20learning%20communities) to learn more about streaming times and Q&A sessions. 
+
 
 ## Ways to Contact Us:  
 
