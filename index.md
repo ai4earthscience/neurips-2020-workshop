@@ -11,7 +11,7 @@ Please see [Session Info](https://ai4earthscience.github.io/neurips-2020-worksho
 
 Workshop Date: Saturday, December 12th PDT           
 Location: Virtual  
-
+[Tentative Schedule](https://www.nips.cc/Conferences/2020/ScheduleMultitrack?event=16105#:~:text=NeurIPS%202020&text=Our%20workshop%20proposal%20AI%20for,learning%20and%20deep%20learning%20communities)
  
 ## Participating:
 
