@@ -12,7 +12,7 @@
   
   
   
-<details open> <summary></summary>mystuff</details>
+<details open> <summary>Abstract</summary>mystuff</details>
 
 ## Sensors and Sampling
  | Start | End | Type | Speaker | Title |   
@@ -29,7 +29,4 @@
 ## Sensors and Sampling
  | Start | End | Type | Speaker | Title |   
  | ---- | ---- | --------- | ---------------- | -------- |  
- | 6:55 | 6:58 | Intro | Johanna Hansen | <details open>stuff main
-  <summary></summary>
-  stuff
-  </details>  |
+ | 6:55 | 6:58 | Intro | Johanna Hansen | <details open> <summary>Abstract</summary>mystuff</details>  |
