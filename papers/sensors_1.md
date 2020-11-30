@@ -4,6 +4,20 @@ title: AI for Earth Sciences
 description: org
 ---
 
+## Sensors and Sampling
+
+| Start | End | Type | Speaker | Title and Info |   
+| ---- | ---- | --------- | ------------- | ----------------- | 
+| 6:55 | 6:58 | Intro | Johanna Hansen | Session Overview and Introduction |  
+| 6:58 | 7:22 | Keynote | [Yogesh Girdhar](http://warp.whoi.edu/) | [Curious Robots for Scientific Sampling](#yogesh-girdhar) |    
+| 7:22 | 7:35 | Invited Talk | [Hannah Kerner](https://hannah-rae.github.io/) |  [Eyes in the sky without boots on the ground: Using satellites and machine learning to monitor agriculture and food security during COVID-19](#hannah-kerner) |  
+| 7:35 | 7:58 | Invited Talk | [Renaud Detry](http://renaud-detry.net/)  | [Autonomous robot manipulation for planetary science: Mars Sample Return & Climbing Lava Tubes](#renaud-detry) |   
+| 7:58 | 8:06 | Invited Paper | [Alzayat Saleh & Issam Hadj Laradji](https://github.com/alzayats/DeepFish) | [DeepFish: A realistic fish‑habitat dataset to evaluate algorithms for underwater visual analysis](Alzayat-Saleh) |     
+| 8:06 | 8:17 | Invited Paper | [Jean-Francois Tremblay](https://norlab.ulaval.ca/research/montmorencydataset) | [Automatic three‐dimensional mapping for tree diameter measurements in inventory operations](#jean-francois-tremblay) |     
+| 8:17 | 8:30 | Lightning Talks |  Contributed |  |   
+| 8:30 | 8:55 | Q&A | Roundtable Discussion Speakers | Live Zoom Session |   
+
+
 
 # Sensors and Sampling
 ##  Yogesh Girdhar
