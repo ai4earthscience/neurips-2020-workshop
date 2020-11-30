@@ -1,7 +1,7 @@
 | Start | End | Session | Session Chair | 
 | ---- | ---- | --------- | ---------------- |  
 | 06:45 | 06:55 |  Opening Remarks | S. Karthik Mukkavilli | 
-| 06:55 | 08:55 | [Sensors and Sampling](#06:55-Sensors-and-Sampling) | Johanna Hansen |  
+| 06:55 | 08:55 | [Sensors and Sampling](#Sensors-and-Sampling) | Johanna Hansen |  
 | 08:55 | 10:55 | [Ecology] | Natasha Dudek |   
 
 
@@ -10,7 +10,7 @@
   stuff
   </details>
 
-## 06:55 Sensors and Sampling
+## Sensors and Sampling
  | Start | End | Type | Speaker | Title |   
  | ---- | ---- | --------- | ---------------- | -------- |  
  | 6:55 | 6:58 | Intro | Johanna Hansen | Session Overview and Inroduction |  
