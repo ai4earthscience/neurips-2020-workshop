@@ -18,10 +18,10 @@
  | Start | End | Type | Speaker | Title | Abstract |    
  | ---- | ---- | --------- | ---------------- | -------- |  
  | 6:55 | 6:58 | Intro | Johanna Hansen | Session Overview and Inroduction |  --- | 
- | 6:58 | 7:22 | Keynote | Yogesh Girdhar | [Curious Robots for Scientific Sampling](http://warp.whoi.edu/) |  <details open> <summary>Abstract</summary>WARPLab's research focuses on both the science and systems of exploration robots in extreme, communication starved environments such as the deep sea. It aims to develop robotics and machine learning-based techniques to enable search, discovery, and mapping of natural phenomena that are difficult to observe and study due to various physical and information-theoretic challenges.
+ | 6:58 | 7:22 | Keynote | Yogesh Girdhar | [Curious Robots for Scientific Sampling](http://warp.whoi.edu/) |  <details open> <summary>Abstract</summary>WARPLab's research focuses on both the science and systems of exploration robots in extreme, communication starved environments such as the deep sea. It aims to develop robotics and machine learning-based techniques to enable search, discovery, and mapping of natural phenomena that are difficult to observe and study due to various physical and information-theoretic challenges. WARPLab is headed by Yogesh Girdhar, and is part of the Deep Submergence Laboratory (DSL), and the Applied Ocean Physics & Engineering (AOPE) department at Woods Hole Oceanographic Institution.</details> |  
 
-WARPLab is headed by Yogesh Girdhar, and is part of the Deep Submergence Laboratory (DSL), and the Applied Ocean Physics & Engineering (AOPE) department at Woods Hole Oceanographic Institution.</details> |  
-
+ | Start | End | Type | Speaker | Title | Abstract |    
+ | ---- | ---- | --------- | ---------------- | -------- |  
  | 7:22 | 7:35 | Invited Talk | Hannah Kerner | Eyes in the sky without boots on the ground: Using satellites and machine learning to monitor agriculture and food security during COVID-19 | <details open> <summary>Abstract</summary>mystuff</details>  |  
  
   | Start | End | Type | Speaker | Title | Abstract |    
