@@ -16,7 +16,7 @@
 | 7:58 | 8:06 | Invited Paper | Alzayat Saleh & Issam Hadj Laradji | [DeepFish: A realistic fish‑habitat dataset to evaluate algorithms for underwater visual analysis](https://ai4earthscience.github.io/neurips-2020-workshop/papers/sensors_4.md) |     
 | 8:06 | 8:17 | Invited Paper | Jean-Francois Tremblay | [Automatic three‐dimensional mapping for tree diameter measurements in inventory operations](https://ai4earthscience.github.io/neurips-2020-workshop/papers/sensors_5.md) |     
 | 8:17 | 8:30 | Posters |  Stream on-demand lightning talks | [Post questions to slack for Q&A](https://ai4earthscience.github.io/neurips-2020-workshop/papers/sensors_6.md) |   
-| 8:30 | 8:55 | Q&A | Roundtable Discussion Speakers | Live Zoom Session, Submit questions via slack]((https://ai4earthscience.github.io/neurips-2020-workshop/papers/sensors_7.md) |   
+| 8:30 | 8:55 | Q&A | Roundtable Discussion Speakers | [Live Zoom Session](https://ai4earthscience.github.io/neurips-2020-workshop/papers/sensors_7.md) |   
 
 
 
