@@ -9,6 +9,10 @@
   <summary></summary>
   stuff
   </details>
+  
+  
+  
+<details open> <summary></summary>mystuff</details>
 
 ## Sensors and Sampling
  | Start | End | Type | Speaker | Title |   
