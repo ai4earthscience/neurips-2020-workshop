@@ -14,5 +14,5 @@
     | ~~7:43~~ | ~~8:06~ | Invited Talk | Renaud Detry | Autonomous robot manipulation for planetary science: Mars Sample Return & Climbing Lava Tubes |  
   | ~~8:06~~ | ~~8:14~~ | Invited Paper | Alzayat Saleh & Issam Hadj Laradji | DeepFish: A realistic fish‑habitat dataset to evaluate algorithms for underwater visual analysis |  
   | ~~8:14~~ | ~~8:23~~ | Invited Paper | Jean-Francois Tremblay | Automatic three‐dimensional mapping for tree diameter measurements in inventory operations |  
-  | ~~8:30~~ | ~~8:55~~ |  | Q&A | Roundtable Discussion with Speakers and Authors |  
+  | ~~8:30~~ | ~~8:55~~ | Q&A | Roundtable Discussion with Speakers and Authors | Live Zoom Session - Submit questions via slack |
   </details>
