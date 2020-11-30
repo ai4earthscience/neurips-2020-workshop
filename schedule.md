@@ -14,7 +14,10 @@
  | Start | End | Type | Speaker | Title |   
  | ---- | ---- | --------- | ---------------- | -------- |  
  | 6:55 | 6:58 | Intro | Johanna Hansen | Session Overview and Inroduction |  
- | 6:58 | 7:22 | Keynote | Yogesh Girdhar | Curious Robots for Scientific Sampling |    
+ | 6:58 | 7:22 | Keynote | Yogesh Girdhar | Curious Robots for Scientific Sampling |  <details open>stuff main
+  <summary></summary>
+  stuff
+  </details> | 
  | 7:22 | 7:35 | Invited Talk | Hannah Kerner | Eyes in the sky without boots on the ground: Using satellites and machine learning to monitor agriculture and food security during COVID-19 |  
   | 7:35 | 7:58 | Invited Talk | Renaud Detry | Autonomous robot manipulation for planetary science: Mars Sample Return & Climbing Lava Tubes |  
   | 7:58 | 8:06 | Invited Paper | Alzayat Saleh & Issam Hadj Laradji | DeepFish: A realistic fish‑habitat dataset to evaluate algorithms for underwater visual analysis |  
