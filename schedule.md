@@ -23,8 +23,14 @@
 WARPLab is headed by Yogesh Girdhar, and is part of the Deep Submergence Laboratory (DSL), and the Applied Ocean Physics & Engineering (AOPE) department at Woods Hole Oceanographic Institution.</details> |  
 
  | 7:22 | 7:35 | Invited Talk | Hannah Kerner | Eyes in the sky without boots on the ground: Using satellites and machine learning to monitor agriculture and food security during COVID-19 | <details open> <summary>Abstract</summary>mystuff</details>  |  
+ 
+  | Start | End | Type | Speaker | Title | Abstract |    
+ | ---- | ---- | --------- | ---------------- | -------- |  
   | 7:35 | 7:58 | Invited Talk | Renaud Detry | Autonomous robot manipulation for planetary science: Mars Sample Return & Climbing Lava Tubes | <details open> <summary>Abstract</summary>mystuff</details>  |  
-  | 7:58 | 8:06 | Invited Paper | Alzayat Saleh & Issam Hadj Laradji | DeepFish: A realistic fish‑habitat dataset to evaluate algorithms for underwater visual analysis |  <details open> <summary>Abstract</summary>mystuff</details>  |
+  | 7:58 | 8:06 | Invited Paper | Alzayat Saleh & Issam Hadj Laradji | DeepFish: A realistic fish‑habitat dataset to evaluate algorithms for underwater visual analysis |  <details open> <summary>Abstract</summary>mystuff</details>  |  
+  
+   | Start | End | Type | Speaker | Title | Abstract |    
+ | ---- | ---- | --------- | ---------------- | -------- |  
   | 8:06 | 8:17 | Invited Paper | Jean-Francois Tremblay | Automatic three‐dimensional mapping for tree diameter measurements in inventory operations | <details open> <summary>Abstract</summary>mystuff</details>  |    
   | 8:17 | 8:30 | Posters | Contributed | Stream on-demand lightning talks | Post questions to slack for Q&A |   
   | 8:30 | 8:55 | Q&A | Roundtable Discussion Speakers | Live Zoom Session  | Submit questions via slack |   
@@ -32,4 +38,4 @@ WARPLab is headed by Yogesh Girdhar, and is part of the Deep Submergence Laborat
 ## Sensors and Sampling
  | Start | End | Type | Speaker | Title |   
  | ---- | ---- | --------- | ---------------- | -------- |  
- | 6:55 | 6:58 | Intro | Johanna Hansen | <details open> <summary>Abstract</summary>mystuff</details>  |
+ | 6:55 | 6:58 | Intro | Johanna Hansen | <details closed> <summary>Abstract</summary>mystuff</details>  |
