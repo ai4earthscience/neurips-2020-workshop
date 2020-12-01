@@ -38,7 +38,6 @@
     <th>Speakers/Authors</th>
     <th>Details</th>
   </tr>
-</html>
 <tr>
                   <td style="text-align:center">0</td>
                   <td style="text-align:center">6:55</td>
@@ -122,7 +121,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   <td style="text-align:center">Q/A And Discussion</td>
                   <td style="text-align:center">Johanna Hansen</td>
                   <td style="text-align:justify">Live disccusion and Q&A with the speakers</td>
-                  </tr>
+                  </tr></html>
 
 
 #### [Return to top](#Overview-Schedule)
@@ -150,7 +149,6 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
     <th>Speakers/Authors</th>
     <th>Details</th>
   </tr>
-</html>
 <tr>
                   <td style="text-align:center">0</td>
                   <td style="text-align:center">8:55</td>
@@ -214,7 +212,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   <td style="text-align:center">Q/A And Discussion</td>
                   <td style="text-align:center">Natasha Dudek</td>
                   <td style="text-align:justify">Live disccusion and Q&A with the speakers</td>
-                  </tr>
+                  </tr></html>
 
 
 #### [Return to top](#Overview-Schedule)
@@ -242,7 +240,6 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
     <th>Speakers/Authors</th>
     <th>Details</th>
   </tr>
-</html>
 <tr>
                   <td style="text-align:center">1</td>
                   <td style="text-align:center">11:00</td>
@@ -299,7 +296,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   <td style="text-align:center">A Comparison Of Data-Driven Models For Predicting Stream Water Temperature</td>
                   <td style="text-align:center">Weierbach, Helen*; Varadharajan, Charuleka; Lima, Aranildo; Faybishenko, Boris; Hendrix, Val; Christianson, Danielle</td>
                   <td style="text-align:justify"><p style="display:inline";>Changes to the Earth's climate are expected to negatively impact water resources in the future. It is important to have accurate modelling of river flow and water quality to make optimal decisions for water management. <details style="display:inline;"closed><summary>More</summary>Machine learning and deep learning models have become promising methods for making such hydrological predictions. Using these models, however, requires careful consideration both of data constraints and of model complexity for a given problem. Here, we use machine learning models to predict monthly water temperature records at three  monitoring locations in the Northwestern United States with long-term datasets, using meteorological data as predictors. We fit four models for comparison: a Multiple Linear Regression, a Random Forest Regression, a Support Vector Regression and a baseline persistence model. We show that all models are reasonably able to predict mean monthly stream temperatures with root mean-squared errors (RMSE) ranging from 0.63-0.91 degrees Celsius. Of the four models, the Support Vector Regression performs the best with an error of 0.63 degrees Celsius. However, all models perform poorly on extreme values of water temperature. We identify the need for machine learning approaches to predicting extreme values for variables such as water temperature, since it has significant implications for stream ecosystems and biota..</details></p></td>
-                  </tr>
+                  </tr></html>
 
 
 #### [Return to top](#Overview-Schedule)
@@ -330,7 +327,6 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
 </html>
 
 
-
 #### [Return to top](#Overview-Schedule)
 
   
@@ -356,7 +352,6 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
     <th>Speakers/Authors</th>
     <th>Details</th>
   </tr>
-</html>
 <tr>
                   <td style="text-align:center">0</td>
                   <td style="text-align:center">13:25</td>
@@ -442,7 +437,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   <td style="text-align:center">Optimising Placement Of Pollution Sensors In Windy Environments</td>
                   <td style="text-align:center">Hellan, Sigrid Passano*; Lucas, Christopher; Goddard, Nigel</td>
                   <td style="text-align:justify"><p style="display:inline";>Air pollution is one of the most important causes of mortality in the world. Monitoring air pollution is useful to learn more about the link between health and pollutants, and to identify areas for intervention. <details style="display:inline;"closed><summary>More</summary>Such monitoring is expensive, so it is important to place sensors as efficiently as possible. Bayesian optimisation has proven useful in choosing sensor locations, but typically relies on kernel functions that neglect the statistical structure of air pollution, such as the tendency of pollution to propagate in the prevailing wind direction. We describe two new wind-informed kernels and investigate their advantage for the task of actively learning locations of maximum pollution using Bayesian optimisation..</details></p></td>
-                  </tr>
+                  </tr></html>
 
 
 #### [Return to top](#Overview-Schedule)
@@ -470,7 +465,6 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
     <th>Speakers/Authors</th>
     <th>Details</th>
   </tr>
-</html>
 <tr>
                   <td style="text-align:center">1</td>
                   <td style="text-align:center">15:30</td>
@@ -527,7 +521,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   <td style="text-align:center">Semantic Segmentation Of Medium-Resolution Satellite Imagery Using Conditional Generative Adversarial Networks</td>
                   <td style="text-align:center">Kulkarni, Aditya; Mohandoss, Tharun; Northrup, Dan; Mwebaze, Ernest; Alemohammad, Hamed*</td>
                   <td style="text-align:justify"><p style="display:inline";>Semantic segmentation of satellite imagery is a common approach to identify patterns and detect changes around the planet. Most of the state-of-the-art semantic segmentation models are trained in a fully supervised way using Convolutional Neural Network (CNN). <details style="display:inline;"closed><summary>More</summary>The generalization property of CNN is poor for satellite imagery because the data can be very diverse in terms of landscape types, image resolutions, and scarcity of labels for different geographies and seasons. Hence, the performance of CNN doesn't translate well to images from unseen regions or seasons. Inspired by Conditional Generative Adversarial Networks (CGAN) based approach of image-to-image translation for high-resolution satellite imagery, we propose a CGAN framework for land cover classification using medium-resolution Sentinel-2 imagery. We find that the CGAN model outperforms the CNN model of similar complexity by a significant margin on an unseen imbalanced test dataset..</details></p></td>
-                  </tr>
+                  </tr></html>
 
 
 #### [Return to top](#Overview-Schedule)
@@ -558,7 +552,6 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
 </html>
 
 
-
 #### [Return to top](#Overview-Schedule)
 
   
@@ -584,7 +577,6 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
     <th>Speakers/Authors</th>
     <th>Details</th>
   </tr>
-</html>
 <tr>
                   <td style="text-align:center">1</td>
                   <td style="text-align:center">19:05</td>
@@ -648,7 +640,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   <td style="text-align:center">Monarchnet: Differentiating Monarch Butterflies From Those With Similar Appearances</td>
                   <td style="text-align:center">Chen, Thomas Y*</td>
                   <td style="text-align:justify"><p style="display:inline";>In recent years, the monarch butterfly’s iconic migration patterns have come under threat from a number of factors, from climate change to pesticide use. To track trends in their populations, scientists as well as citizen scientists must identify individuals accurately. <details style="display:inline;"closed><summary>More</summary>This is key because there exist other species of butterfly, such as viceroy butterflies, that are "look-alikes," having similar phenotypes. To tackle this problem and to aid in more efficient identification, we present MonarchNet, the first comprehensive dataset consisting of butterfly imagery for monarchs and five look-alike species. We train a baseline deep-learning classification model to serve as a tool for differentiating monarch butterflies and its various look-alikes. We seek to contribute to the study of biodiversity and butterfly ecology by providing a novel method for computational classification of these particular butterfly species. The ultimate aim is to help scientists track monarch butterfly population and migration trends in the most precise manner possible..</details></p></td>
-                  </tr>
+                  </tr></html>
 
 
 #### [Return to top](#Overview-Schedule)
