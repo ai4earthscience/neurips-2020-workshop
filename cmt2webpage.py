@@ -101,7 +101,6 @@ table = """
     <th>Speakers/Authors</th>
     <th>Details</th>
   </tr>
-</html>
 """
 
 abs_ids = list(abstracts['Paper ID'].astype(np.int))
@@ -172,7 +171,7 @@ for xx, session in enumerate(sessions):
        
 
         fo.write(line)
-    fo.write("\n\n\n")
+    fo.write("</html>\n\n\n")
     fo.write("#### [Return to top](#Overview-Schedule)\n\n  ")
     #fo.close()
 
