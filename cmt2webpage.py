@@ -76,16 +76,16 @@ top = """
 #</style>
 #</head>
 #<body>
-
+#<style>
+#table, th, td {
+#  border: 1px solid black;
+#  border-collapse: collapse;
+#}
 
 table = """
 <html>
 <head>
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
+
 <table style="width:90%">
   <colgroup>
   <col span="1" style="width: 2%;">
