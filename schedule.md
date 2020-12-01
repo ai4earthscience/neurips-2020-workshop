@@ -534,7 +534,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
 
   
 
-## Solid-Earth  
+## Earth  
 
 
   
@@ -555,7 +555,49 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
     <th>Speakers/Authors</th>
     <th>Details</th>
   </tr>
-</html>
+<tr>
+                  <td style="text-align:center">0</td>
+                  <td style="text-align:center">18:00</td>
+                  <td style="text-align:center">Introduction</td>
+                  <td style="text-align:center">Introduction</td>
+                  <td style="text-align:center">Kelly Kochanski</td>
+                  <td style="text-align:justify">Short introduction to the session</td>
+                  </tr><tr>
+                  <td style="text-align:center">1</td>
+                  <td style="text-align:center">18:05</td>
+                  <td style="text-align:center">Spotlight Talk</td>
+                  <td style="text-align:center">Soft Attention Convolutional Neural Networks For Rare Event Detection In Sequences</td>
+                  <td style="text-align:center">Kulkarni, Mandar*; Abubakar, Aria; Mangsuli, Purnaprajnya</td>
+                  <td style="text-align:justify"><p style="display:inline";>Automated event detection in the sequences is an important aspect of temporal data analytics. The events can be in the form of peaks, changes in data distribution, changes of spectral characteristics etc. <details style="display:inline;"closed><summary>More</summary> In this work, we propose a Soft-Attention Convolutional Neural Network (CNN) based approach for rare event detection in sequences. For the purpose of demonstration, we experiment with well logs where we aim to detect events depicting the changes in the geological layers (a.k.a. well tops/markers).  Well logs (single or multivariate) are inputted to a soft attention CNN and a model is trained to locate the marker position. Attention mechanism enables the machine to relatively scale relevant log features for the task. Experimental results show that our approach is able to locate rare events with high precision..</details></p></td>
+                  </tr><tr>
+                  <td style="text-align:center">2</td>
+                  <td style="text-align:center">18:20</td>
+                  <td style="text-align:center">Regular Talk</td>
+                  <td style="text-align:center">An End-To-End Earthquake Monitoring Method For Joint Earthquake Detection And Association Using Deep Learning</td>
+                  <td style="text-align:center">Zhu, Weiqiang*; Tai, Kai Sheng; Mousavi, S.Mostafa; Bailis, Peter D; Beroza, Gregory</td>
+                  <td style="text-align:justify"><p style="display:inline";>Earthquake monitoring through seismometer networks typically involves a pipeline consisting of detection, phase picking, association, and localization stages. We introduce an earthquake detection and localization method based on a novel end-to-end deep neural network architecture that maps collections of raw seismic waveforms to proposed event times and epicenter locations. <details style="display:inline;"closed><summary>More</summary>Unlike traditional approaches to this task, our method does not rely on hand-designed time series features or rules for combining predictions across multiple stations. We evaluate our proposed method on data from the 2019 Ridgecrest earthquake sequence, demonstrating its effectiveness when compared with four state-of-the-art earthquake catalogs..</details></p></td>
+                  </tr><tr>
+                  <td style="text-align:center">3</td>
+                  <td style="text-align:center">18:30</td>
+                  <td style="text-align:center">Regular Talk</td>
+                  <td style="text-align:center">Single-Station Earthquake Location Using Deep Neural Networks</td>
+                  <td style="text-align:center">Mousavi, S.Mostafa*</td>
+                  <td style="text-align:justify"><p style="display:inline";>In seismology, earthquake location is commonly done based on observed arrival times at multiple stations using a velocity model for the region and through an iterative inversion process. This makes the location estimation of earthquakes that are sparsely recorded - either because they are small or because stations are widely separated - difficult. <details style="display:inline;"closed><summary>More</summary>Here, we present a fast approach based on deep neural networks to directly locate earthquakes using single-station observations. We use a multi-task temporal convolutional neural network in a Bayesian framework to learn epicentral distance and P travel time from 1-minute seismograms along with their epistemic and aleatory uncertainties. We design a separate multi-input  network using standard convolutional layers to estimate the back-azimuth angle and its epistemic uncertainty. Using this information, we estimate the epicenter, origin time, and depth along with their confidence intervals..</details></p></td>
+                  </tr><tr>
+                  <td style="text-align:center">4</td>
+                  <td style="text-align:center">18:40</td>
+                  <td style="text-align:center">Lightning talk</td>
+                  <td style="text-align:center">Framework For Automatic Globally Optimal Well Log Correlation</td>
+                  <td style="text-align:center">Datskiv, Oleh*; Veselovska , Mariia; Struk, Andrii; Bondarenko , Oleh; Maksymenko , Mykola; Karpiv, Volodymyr</td>
+                  <td style="text-align:justify"><p style="display:inline";>Well correlation based on well-logging data is a reliable tool that geological scientists use to interpret and deduce underground sedimentary morphology. Traditional methods are not fully-automated and require additional inputs from the experts to perform well correlation, which complicates the whole process and makes it time-consuming. <details style="display:inline;"closed><summary>More</summary>Well-log data is often noisy and incomplete  which significantly reduces performance of well correlation and the accuracy of geological interpretation. To address this issue, we present a framework for the global pattern correlation that is fully automated and does not require additional inputs from the user. Our framework efficiently handles imperfect data with multi-log curve integration. Global optimality in the proposed framework is achieved through adapting Hungarian algorithm to the assignment problem of well log correlation. Finally, we assess performance of the framework on real-world datasets..</details></p></td>
+                  </tr><tr>
+                  <td style="text-align:center">6</td>
+                  <td style="text-align:center">---</td>
+                  <td style="text-align:center">On-demand</td>
+                  <td style="text-align:center">Nowcasting Solar Irradiance Over Oahu</td>
+                  <td style="text-align:center">Hart, Kyle; Torri, Giuseppe; Sadowski, Peter*</td>
+                  <td style="text-align:justify"><p style="display:inline";>We use satellite data from GOES-17 and deep learning to predict solar radiance with a 10-60 minute forecast horizon. Neural networks were trained on data covering the the Hawaiian islands from 2019, and tested on 2020 data. <details style="display:inline;"closed><summary>More</summary>Our 10-minute forecasts of solar radiance achieve an RMSE of 31 watt meter^-2 steradian^-1 micrometer^-1, a significant improvement over a simple persistence model benchmark (45 watt meter^-2 steradian^-1 micrometer^-1} on the same data). These results suggest that the approach could potentially be used by energy companies to more efficiently manage power-generators..</details></p></td>
+                  </tr></html>
 </table>
 
 
