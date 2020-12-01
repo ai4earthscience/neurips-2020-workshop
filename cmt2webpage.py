@@ -48,9 +48,9 @@ top = """
 | 06:45 | 06:55 |  Opening Remarks | S. Karthik Mukkavilli |  
 | 06:55 | 08:55 | [Sensors and Sampling](#Sensors) | Johanna Hansen |  | 08:55 | 10:55 | [Ecology](#Ecology) | Natasha Dudek |   
 | 10:55 | 12:45 | [Water](#Water) | S. Karthik Mukkavilli |   
-| 12:45 | 13:25 | Keynote and Q&A: Milind Tambe | S. Karthik Mukkavilli |   
+| 12:45 | 13:25 | Keynote by Milind Tambe | S. Karthik Mukkavilli |   
 | 13:25 | 15:25 | [Atmosphere](#Atmosphere) | Tom Beucler | | 15:25 | 17:20 | [Simulations, Physics-guided, and ML Theory](#ML-Theory) | Karthik Kashinath |  
-| 17:20 | 18:00 | People-Earth | Mayur Mudigonda |  
+| 17:20 | 18:00 | People-Earth Discussion | Mayur Mudigonda |  
 | 18:00 | 19:00 | [Solid Earth](#Earth) | Kelly Kochanski |  
 | 19:00 | 20:55 | [Datasets](#Datasets) | Karthik Kashinath |  
 | 20:55 | 21:00 | Closing Remarks | Organizers |   
@@ -114,7 +114,7 @@ fo.write(top)
 
 for xx, session in enumerate(sessions):
     #fo = open('sessions/{}.html'.format(session.lower()), 'w') 
-    fo.write("#{}  \n\n\n  ".format(session))
+    fo.write("# {}  \n\n\n  ".format(session.title()))
     fo.write(table)
     session_talks = papers.loc[papers['Primary Subject Area'] == session]
     order = sorted(list(session_talks['Order'].to_numpy().astype(np.int)))
@@ -171,7 +171,7 @@ for xx, session in enumerate(sessions):
 
         fo.write(line)
     fo.write(" \n\n\n  ")
-    fo.write("## [Return to top](#Schedule)\n\n  ")
+    fo.write("#### [Return to top](#Schedule)\n\n  ")
     #fo.close()
 
 
