@@ -81,10 +81,10 @@ top = """
 #  border: 1px solid black;
 #  border-collapse: collapse;
 #}
-#<html>
 #<head>
 
 table = """
+<html>
 <table style="width:90%">
   <colgroup>
   <col span="1" style="width: 2%;">
@@ -101,6 +101,7 @@ table = """
     <th>Speakers/Authors</th>
     <th>Details</th>
   </tr>
+</html>
 """
 
 abs_ids = list(abstracts['Paper ID'].astype(np.int))
