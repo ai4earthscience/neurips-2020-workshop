@@ -45,15 +45,15 @@ top = """
 | Start | End | Session | Session Chair |  
 | ---- | ---- | --------- | ---------------- |  
 | 06:45 | 06:55 | Opening Remarks                  | S. Karthik Mukkavilli |  
-| 06:55 | 08:55 | [Sensors and Sampling](#Sensors) | Johanna Hansen |  
-| 08:55 | 10:55 | [Ecology](#Ecology)              | Natasha Dudek |   
-| 10:55 | 12:45 | [Water](#Water)                  | S. Karthik Mukkavilli |   
+| 06:55 | 08:55 | [Sensors and Sampling](#sensors) | Johanna Hansen |  
+| 08:55 | 10:55 | [Ecology](#ecology)              | Natasha Dudek |   
+| 10:55 | 12:45 | [Water](#water)                  | S. Karthik Mukkavilli |   
 | 12:45 | 13:25 | [Keynote: Milind Tambe](https://teamcore.seas.harvard.edu/people/milind-tambe)  | S. Karthik Mukkavilli |   
-| 13:25 | 15:25 | [Atmosphere](#Atmosphere)        | Tom Beucler |  
-| 15:25 | 17:20 | [ML Theory](#ML-Theory) | Karthik Kashinath |  
+| 13:25 | 15:25 | [Atmosphere](#atmosphere)        | Tom Beucler |  
+| 15:25 | 17:20 | [ML Theory](#theory) | Karthik Kashinath |  
 | 17:20 | 18:00 | People-Earth Roundtable          | Mayur Mudigonda |  
-| 18:00 | 19:00 | [Solid Earth](#Earth)            | Kelly Kochanski |  
-| 19:00 | 20:55 | [Datasets](#Datasets)            | Karthik Kashinath |  
+| 18:00 | 19:00 | [Solid Earth](#earth)            | Kelly Kochanski |  
+| 19:00 | 20:55 | [Datasets](#datasets)            | Karthik Kashinath |  
 | 20:55 | 21:00 | Closing Remarks                  | Organizers |   
 
 ## [Link to join our slack for live Q&A](https://join.slack.com/t/ai4earth/shared_invite/zt-jkg0i982-VYRAd0HbjCG_6970Hcqfwg)  
@@ -119,7 +119,7 @@ fo.write(top)
 for xx, session in enumerate(sessions):
     #fo = open('sessions/{}.html'.format(session.lower()), 'w') 
     session_name = session.title()
-    fo.write("\n\n## {}  \n\n\n  ".format(session_name.lower()))
+    fo.write("\n\n## {}  \n\n\n  ".format(session_name))
     fo.write(table)
     session_talks = papers.loc[papers['Primary Subject Area'] == session]
     order = sorted(list(session_talks['Order'].to_numpy().astype(np.int)))
@@ -180,7 +180,7 @@ for xx, session in enumerate(sessions):
         fo.write(line)
     #fo.write("</html>\n")
     fo.write("</table>\n\n\n")
-    fo.write("#### [Return to overview schedule](#overview-schedule)\n\n  ")
+    fo.write("### [Return to overview schedule](#overview-schedule)\n\n  ")
     #fo.close()
 
 
