@@ -15,6 +15,9 @@
 | 19:00 | 20:55 | [Datasets](#Datasets)            | Karthik Kashinath |  
 | 20:55 | 21:00 | Closing Remarks                  | Organizers |   
 
+## [Link to join our slack for live Q&A](https://join.slack.com/t/ai4earth/shared_invite/zt-jkg0i982-VYRAd0HbjCG_6970Hcqfwg)  
+
+
 ---
 
 
@@ -122,7 +125,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   <td style="text-align:center">Discussion</td>
                   <td style="text-align:center">Q/A And Discussion</td>
                   <td style="text-align:center">Johanna Hansen</td>
-                  <td style="text-align:left">Live discussion and Q&A with the speakers</td>
+                  <td style="text-align:left"><p style="display:inline";>Live discussion and Q&A with the speakers. Post questions to slack to hear from our speakers. <details style="display:inline;"closed><summary>More</summary>.</details></p></td>
                   </tr></table>
 
 
@@ -213,7 +216,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   <td style="text-align:center">Discussion</td>
                   <td style="text-align:center">Q/A And Discussion</td>
                   <td style="text-align:center">Natasha Dudek</td>
-                  <td style="text-align:left">Live discussion and Q&A with the speakers</td>
+                  <td style="text-align:left"><p style="display:inline";>Live discussion and Q&A with the speakers. Post questions to slack to hear from our speakers. <details style="display:inline;"closed><summary>More</summary>.</details></p></td>
                   </tr></table>
 
 
@@ -403,7 +406,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   <td style="text-align:center">Discussion</td>
                   <td style="text-align:center">Q/A And Discussion</td>
                   <td style="text-align:center">Tom Beucler</td>
-                  <td style="text-align:left">Live discussion and Q&A with the speakers</td>
+                  <td style="text-align:left"><p style="display:inline";>Live discussion and Q&A with the speakers. Post questions to slack to hear from our speakers. <details style="display:inline;"closed><summary>More</summary>.</details></p></td>
                   </tr><tr>
                   <td style="text-align:center">8</td>
                   <td style="text-align:center">---</td>
@@ -515,7 +518,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   <td style="text-align:center">Discussion</td>
                   <td style="text-align:center">Q/A And Discussion</td>
                   <td style="text-align:center">Karthik Kashinath</td>
-                  <td style="text-align:left">Live discussion and Q&A with the speakers</td>
+                  <td style="text-align:left"><p style="display:inline";>Live discussion and Q&A with the speakers. Post questions to slack to hear from our speakers. <details style="display:inline;"closed><summary>More</summary>.</details></p></td>
                   </tr><tr>
                   <td style="text-align:center">11</td>
                   <td style="text-align:center">---</td>
@@ -669,7 +672,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   <td style="text-align:center">Discussion</td>
                   <td style="text-align:center">Q/A And Discussion</td>
                   <td style="text-align:center">Karthik Kashinath</td>
-                  <td style="text-align:left">Live discussion and Q&A with the speakers</td>
+                  <td style="text-align:left"><p style="display:inline";>Live discussion and Q&A with the speakers. Post questions to slack to hear from our speakers. <details style="display:inline;"closed><summary>More</summary>.</details></p></td>
                   </tr><tr>
                   <td style="text-align:center">8</td>
                   <td style="text-align:center">---</td>
