@@ -82,7 +82,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   <td style="text-align:center">7:58</td>
                   <td style="text-align:center">Invited Paper</td>
                   <td style="text-align:center">Deepfish: A Realistic Fish‑Habitat Dataset To Evaluate Algorithms For Underwater Visual Analysis</td>
-                  <td style="text-align:center">Alzayat Saleh, Issam H. Laradji, Dmitry A. Konovalov, David Vazquez, Michaelbradley, And Marcus Sheaves</td>
+                  <td style="text-align:center">Saleh, Alzayat And Laradji, Issam H. And Konovalov, Dmitry A. And Bradley, Michael And Vazquez, David And Sheaves, Marcus</td>
                   <td style="text-align:left"><p style="display:inline";>Deepfish<details style="display:inline;"closed><summary>More</summary>details</details></p></td>
                   </tr><tr>
                   <td style="text-align:center">5</td>
