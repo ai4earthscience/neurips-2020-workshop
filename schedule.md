@@ -308,34 +308,6 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
 
   
 
-## Keynote  
-
-
-  
-<html>
-<table>
-  <colgroup>
-  <col span="1" style="width: 1%;">
-  <col span="1" style="width: 2%;">
-  <col span="1" style="width: 5%;">
-  <col span="1" style="width: 20%;">
-  <col span="1" style="width: 15%;">
-  </colgroup>
-  <tr>
-    <th>#</th>
-    <th>Start Time</th>
-    <th>Type</th>
-    <th>Title</th>
-    <th>Speakers</th>
-    <th>Details</th>
-  </tr>
-</table>
-
-
-#### [Return to overview schedule](#Overview-Schedule)
-
-  
-
 ## Atmosphere  
 
 
@@ -373,6 +345,13 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   <td style="text-align:left">Michael Pritchard’s expertise is in next generation climate simulation, using new algorithms (cloud superparameterization) and new computing techniques (machine learning) to study clouds and their interaction with climate and weather, in high fidelity
 </td>
                   </tr><tr>
+                  <td style="text-align:center">2</td>
+                  <td style="text-align:center">13:55</td>
+                  <td style="text-align:center">Session Keynote</td>
+                  <td style="text-align:center">Identifying Opportunities For Skillful Weather Prediction With Interpretable Neural Networks</td>
+                  <td style="text-align:center">Barnes, Elizabeth A*; Mayer, Kirsten; Toms, Benjamin; Martin, Zane; Gordon, Emily</td>
+                  <td style="text-align:left"><p style="display:inline";>The atmosphere is chaotic. <details style="display:inline;"closed><summary>More</summary>This fundamental property of the climate system makes forecasting weather incredibly challenging: it's impossible to expect weather models to ever provide perfect predictions of the Earth system beyond timescales of approximately 2 weeks. Instead, atmospheric scientists look for specific states of the climate system that lead to more predictable behaviour than others. Here, we demonstrate how neural networks can be used, not only to leverage these states to make skillful predictions, but moreover to identify the climatic conditions that lead to enhanced predictability. Furthermore, we employ a neural network interpretability method called ``layer-wise relevance propagation'' to create heatmaps of the regions in the input most relevant for a network's output. For Earth scientists, these relevant regions for the neural network's prediction are by far the most important product of our study: they provide scientific insight into the physical mechanisms that lead to enhanced weather predictability. While we demonstrate our approach for the atmospheric science domain, this methodology is applicable to a large range of geoscientific problems..</details></p></td>
+                  </tr><tr>
                   <td style="text-align:center">3</td>
                   <td style="text-align:center">14:20</td>
                   <td style="text-align:center">Spotlight Talk</td>
@@ -393,13 +372,6 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   <td style="text-align:center">Towards Data-Driven Physics-Informed Global Precipitation Forecasting From Satellite Imagery</td>
                   <td style="text-align:center">Zantedeschi, Valentina*; De Martini, Daniele; Tong, Catherine; Schroeder De Witt, Christian A; Bilinski, Piotr; Kalaitzis, Alfredo; Chantry, Matthew; Watson-Parris, Duncan</td>
                   <td style="text-align:left"><p style="display:inline";>Under the effects of global warming, extreme events such as floods and droughts are increasing in frequency and intensity. <details style="display:inline;"closed><summary>More</summary>This trend directly affects communities and make all the more urgent widening the access to accurate precipitation forecasting systems for disaster preparedness. Nowadays, weather forecasting relies on numerical models necessitating massive computing resources that most developing countries cannot afford.   Machine learning approaches are still in their infancy but already show the promise for democratizing weather predictions, by leveraging any data source and requiring less compute. In this work, we propose a methodology for data-driven and physics-aware global precipitation forecasting from satellite imagery.  To fully take advantage of the available data, we design the system as three elements: 1. The atmospheric state is estimated from recent satellite data.  2. The atmospheric state is propagated forward in time.  3. The atmospheric state is used to derive the precipitation intensity within a nearby time interval. In particular, our use of stochastic methods for forecasting the atmospheric state represents a novel application in this domain..</details></p></td>
-                  </tr><tr>
-                  <td style="text-align:center">6</td>
-                  <td style="text-align:center">13:55</td>
-                  <td style="text-align:center">Session Keynote</td>
-                  <td style="text-align:center">Identifying Opportunities For Skillful Weather Prediction With Interpretable Neural Networks</td>
-                  <td style="text-align:center">Barnes, Elizabeth A*; Mayer, Kirsten; Toms, Benjamin; Martin, Zane; Gordon, Emily</td>
-                  <td style="text-align:left"><p style="display:inline";>The atmosphere is chaotic. <details style="display:inline;"closed><summary>More</summary>This fundamental property of the climate system makes forecasting weather incredibly challenging: it's impossible to expect weather models to ever provide perfect predictions of the Earth system beyond timescales of approximately 2 weeks. Instead, atmospheric scientists look for specific states of the climate system that lead to more predictable behaviour than others. Here, we demonstrate how neural networks can be used, not only to leverage these states to make skillful predictions, but moreover to identify the climatic conditions that lead to enhanced predictability. Furthermore, we employ a neural network interpretability method called ``layer-wise relevance propagation'' to create heatmaps of the regions in the input most relevant for a network's output. For Earth scientists, these relevant regions for the neural network's prediction are by far the most important product of our study: they provide scientific insight into the physical mechanisms that lead to enhanced weather predictability. While we demonstrate our approach for the atmospheric science domain, this methodology is applicable to a large range of geoscientific problems..</details></p></td>
                   </tr><tr>
                   <td style="text-align:center">7</td>
                   <td style="text-align:center">14:55</td>

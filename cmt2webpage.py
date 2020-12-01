@@ -34,7 +34,6 @@ papers.loc[papers['Primary Subject Area'] == 'Sensors & Sampling', 'Primary Subj
 sessions = ['Sensors', 
             'Ecology', 
             'Water', 
-            'Keynote',
             'Atmosphere', 
             'Theory',
             'Earth', 
