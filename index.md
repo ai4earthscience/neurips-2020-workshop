@@ -9,7 +9,10 @@ This workshop seeks to discuss work at the intersection of earth science and mac
 
 Topics include demonstrating machine learning techniques in fields related to earth-systems science across 8 sessions:
 
-# Overview Schedule
+## Join our [slack for live Q&A](https://join.slack.com/t/ai4earth/shared_invite/zt-jkg0i982-VYRAd0HbjCG_6970Hcqfwg)
+
+## Overview Schedule
+
 | Start | End | Session | Session Chair |  
 | ---- | ---- | --------- | ---------------- |  
 | 06:45 | 06:55 | Opening Remarks                  | S. Karthik Mukkavilli |  
