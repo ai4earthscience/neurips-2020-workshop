@@ -83,7 +83,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   <td style="text-align:center">Invited Paper</td>
                   <td style="text-align:center">Deepfish: A Realistic Fish‑Habitat Dataset To Evaluate Algorithms For Underwater Visual Analysis</td>
                   <td style="text-align:center">Saleh, Alzayat And Laradji, Issam H. And Konovalov, Dmitry A. And Bradley, Michael And Vazquez, David And Sheaves, Marcus</td>
-                  <td style="text-align:left"><p style="display:inline";>Deepfish<details style="display:inline;"closed><summary>More</summary>details</details></p></td>
+                  <td style="text-align:left">Visual analysis of complex fish habitats is an important step towards sustainable fisheries for human consumption and environmental protection.Deep Learning methods have shown great promise for scene analysis when trained on large-scale datasets.However, current datasets for fish analysis tend to focus on the classification task within constrained, plain environments which do not capture the complexity of underwater fish habitats.To address this limitation, we present DeepFish as a benchmark suite with a large-scale dataset to train and test methods for several computer vision tasks.The dataset consists of approximately 40 thousand images collected underwater from 20 habitats in the marine-environments of tropical Australia.</td>
                   </tr><tr>
                   <td style="text-align:center">5</td>
                   <td style="text-align:center">8:06</td>
