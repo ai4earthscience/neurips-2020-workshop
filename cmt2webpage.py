@@ -135,7 +135,7 @@ for xx, session in enumerate(sessions):
                             if x.startswith(st_with):
                                 target_link = 'papers/ai4earth_neurips_2020_%02d.pdf' %paper_id
                                 shutil.copy2(x, target_link)
-                                title = '[{}]({})'.format(title, os.path.join(sitename,target_link))
+                                title = '<a href="{}">{}</>'.format(os.path.join(sitename,target_link), title)
                                 print(title)
                         # get the abstract
                         longform = abstracts[abstracts['Paper ID'] == paper_id]['Abstract'].to_numpy()[0]
