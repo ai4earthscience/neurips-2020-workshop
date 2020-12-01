@@ -81,11 +81,10 @@ top = """
 #  border: 1px solid black;
 #  border-collapse: collapse;
 #}
+#<html>
+#<head>
 
 table = """
-<html>
-<head>
-
 <table style="width:90%">
   <colgroup>
   <col span="1" style="width: 2%;">
