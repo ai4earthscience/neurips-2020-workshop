@@ -153,7 +153,7 @@ for xx, session in enumerate(sessions):
 
 
         spl_str = longform.split('. ')
-        brk =  1 
+        brk =  2
         if len(spl_str) > brk:
             st = '. '.join(spl_str[:brk]) + '.'
             en = '. '.join(spl_str[brk:]) + '.'
