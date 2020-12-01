@@ -30,14 +30,14 @@
   <col span="1" style="width: 3%;">
   <col span="1" style="width: 8%;">
   <col span="1" style="width: 30%;">
-  <col span="1" style="width: 20%;">
+  <col span="1" style="width: 15%;">
   </colgroup>
   <tr>
     <th>#</th>
     <th>Start Time</th>
     <th>Type</th>
     <th>Title</th>
-    <th>Speakers/Authors</th>
+    <th>Speakers</th>
     <th>Details</th>
   </tr>
 <tr>
@@ -141,14 +141,14 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
   <col span="1" style="width: 3%;">
   <col span="1" style="width: 8%;">
   <col span="1" style="width: 30%;">
-  <col span="1" style="width: 20%;">
+  <col span="1" style="width: 15%;">
   </colgroup>
   <tr>
     <th>#</th>
     <th>Start Time</th>
     <th>Type</th>
     <th>Title</th>
-    <th>Speakers/Authors</th>
+    <th>Speakers</th>
     <th>Details</th>
   </tr>
 <tr>
@@ -232,14 +232,14 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
   <col span="1" style="width: 3%;">
   <col span="1" style="width: 8%;">
   <col span="1" style="width: 30%;">
-  <col span="1" style="width: 20%;">
+  <col span="1" style="width: 15%;">
   </colgroup>
   <tr>
     <th>#</th>
     <th>Start Time</th>
     <th>Type</th>
     <th>Title</th>
-    <th>Speakers/Authors</th>
+    <th>Speakers</th>
     <th>Details</th>
   </tr>
 <tr>
@@ -316,14 +316,14 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
   <col span="1" style="width: 3%;">
   <col span="1" style="width: 8%;">
   <col span="1" style="width: 30%;">
-  <col span="1" style="width: 20%;">
+  <col span="1" style="width: 15%;">
   </colgroup>
   <tr>
     <th>#</th>
     <th>Start Time</th>
     <th>Type</th>
     <th>Title</th>
-    <th>Speakers/Authors</th>
+    <th>Speakers</th>
     <th>Details</th>
   </tr>
 </table>
@@ -344,14 +344,14 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
   <col span="1" style="width: 3%;">
   <col span="1" style="width: 8%;">
   <col span="1" style="width: 30%;">
-  <col span="1" style="width: 20%;">
+  <col span="1" style="width: 15%;">
   </colgroup>
   <tr>
     <th>#</th>
     <th>Start Time</th>
     <th>Type</th>
     <th>Title</th>
-    <th>Speakers/Authors</th>
+    <th>Speakers</th>
     <th>Details</th>
   </tr>
 <tr>
@@ -457,14 +457,14 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
   <col span="1" style="width: 3%;">
   <col span="1" style="width: 8%;">
   <col span="1" style="width: 30%;">
-  <col span="1" style="width: 20%;">
+  <col span="1" style="width: 15%;">
   </colgroup>
   <tr>
     <th>#</th>
     <th>Start Time</th>
     <th>Type</th>
     <th>Title</th>
-    <th>Speakers/Authors</th>
+    <th>Speakers</th>
     <th>Details</th>
   </tr>
 <tr>
@@ -541,14 +541,14 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
   <col span="1" style="width: 3%;">
   <col span="1" style="width: 8%;">
   <col span="1" style="width: 30%;">
-  <col span="1" style="width: 20%;">
+  <col span="1" style="width: 15%;">
   </colgroup>
   <tr>
     <th>#</th>
     <th>Start Time</th>
     <th>Type</th>
     <th>Title</th>
-    <th>Speakers/Authors</th>
+    <th>Speakers</th>
     <th>Details</th>
   </tr>
 <tr>
@@ -611,14 +611,14 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
   <col span="1" style="width: 3%;">
   <col span="1" style="width: 8%;">
   <col span="1" style="width: 30%;">
-  <col span="1" style="width: 20%;">
+  <col span="1" style="width: 15%;">
   </colgroup>
   <tr>
     <th>#</th>
     <th>Start Time</th>
     <th>Type</th>
     <th>Title</th>
-    <th>Speakers/Authors</th>
+    <th>Speakers</th>
     <th>Details</th>
   </tr>
 <tr>
