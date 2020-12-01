@@ -59,6 +59,25 @@ top = """
 
 """
 #<!DOCTYPE html>
+#th, td {
+#<html>
+#<head>
+#<style>
+#table, th, td {
+#  border: 1px solid black;
+#  border-collapse: collapse;
+#}
+#th, td {
+#  padding: 5px;
+#}
+#th {
+#  text-align: center 
+#}
+#</style>
+#</head>
+#<body>
+
+
 table = """
 <html>
 <head>
@@ -67,24 +86,6 @@ table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
 }
-th, td {
-<html>
-<head>
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-th, td {
-  padding: 5px;
-}
-th {
-  text-align: center 
-}
-</style>
-</head>
-<body>
-
 <table style="width:90%">
   <colgroup>
   <col span="1" style="width: 2%;">
