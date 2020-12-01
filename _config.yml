@@ -6,3 +6,4 @@ github:
   is_project_page: false
 kramdown:
     auto_ids: true
+markdown: GFM
