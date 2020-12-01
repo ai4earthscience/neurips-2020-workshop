@@ -3,19 +3,17 @@ layout: default
 title: AI for Earth Sciences
 ---
 ---
-
 ## Virtual Workshop Date: Saturday, December 12th PDT    
 
 This workshop seeks to discuss work at the intersection of earth science and machine learning, bringing together scientists working on important geoscientific and planetary challenges together with machine learning specialists. This workshop encompasses both applied and theoretical work from both fields. 
 
 Topics include demonstrating machine learning techniques in fields related to earth-systems science across 8 sessions:
 
-
 # Overview Schedule
 | Start | End | Session | Session Chair |  
 | ---- | ---- | --------- | ---------------- |  
 | 06:45 | 06:55 | Opening Remarks                  | S. Karthik Mukkavilli |  
-| 06:55 | 08:55 | [Sensors and Sampling](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#Sensors) | Johanna Hansen |  
+| 06:55 | 08:55 | [Sensors and Sampling](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#Sensors) | Johanna Hansen style="display:inline";>startstuff<details style="display:inline;"closed><summary>More</summary>abunchofstuff</details></p> |  
 | 08:55 | 10:55 | [Ecology](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#Ecology)              | Natasha Dudek |   
 | 10:55 | 12:45 | [Water](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#Water)                  | S. Karthik Mukkavilli |   
 | 12:45 | 13:25 | Keynote by Milind Tambe          | S. Karthik Mukkavilli |   
