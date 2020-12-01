@@ -49,10 +49,10 @@ top = """
 | 06:55 | 08:55 | [Sensors and Sampling](#Sensors) | Johanna Hansen |  
 | 08:55 | 10:55 | [Ecology](#Ecology)              | Natasha Dudek |   
 | 10:55 | 12:45 | [Water](#Water)                  | S. Karthik Mukkavilli |   
-| 12:45 | 13:25 | Keynote by Milind Tambe          | S. Karthik Mukkavilli |   
+| 12:45 | 13:25 | [Keynote: Milind Tambe](https://teamcore.seas.harvard.edu/people/milind-tambe)  | S. Karthik Mukkavilli |   
 | 13:25 | 15:25 | [Atmosphere](#Atmosphere)        | Tom Beucler |  
 | 15:25 | 17:20 | [ML Theory](#ML-Theory) | Karthik Kashinath |  
-| 17:20 | 18:00 | People-Earth Discussion          | Mayur Mudigonda |  
+| 17:20 | 18:00 | People-Earth Roundtable          | Mayur Mudigonda |  
 | 18:00 | 19:00 | [Solid Earth](#Earth)            | Kelly Kochanski |  
 | 19:00 | 20:55 | [Datasets](#Datasets)            | Karthik Kashinath |  
 | 20:55 | 21:00 | Closing Remarks                  | Organizers |   
