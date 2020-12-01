@@ -10,19 +10,19 @@ This workshop seeks to discuss work at the intersection of earth science and mac
 
 Topics include demonstrating machine learning techniques in fields related to earth-systems science across 8 sessions:
 
-# Overview Schedule
+## Overview Schedule
 | Start | End | Session | Session Chair |
 | ---- | ---- | --------- | ---------------- |
 | 06:45 | 06:55 |  Opening Remarks | S. Karthik Mukkavilli |
-| 06:55 | 08:55 | [Sensors and Sampling](#Sensors) | Johanna Hansen |
-| 08:55 | 10:55 | [Ecology](#Ecology) | Natasha Dudek |
-| 10:55 | 12:45 | [Water](#Water) | S. Karthik Mukkavilli |
+| 06:55 | 08:55 | [Sensors and Sampling](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#Sensors) | Johanna Hansen |
+| 08:55 | 10:55 | [Ecology](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#Ecology) | Natasha Dudek |
+| 10:55 | 12:45 | [Water](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#Water) | S. Karthik Mukkavilli |
 | 12:45 | 13:25 | Keynote by Milind Tambe | S. Karthik Mukkavilli |
-| 13:25 | 15:25 | [Atmosphere](#Atmosphere) | Tom Beucler |
-| 15:25 | 17:20 | [Simulations, Physics-guided, and ML Theory](#ML-Theory) | Karthik Kashinath |
+| 13:25 | 15:25 | [Atmosphere](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#Atmosphere) | Tom Beucler |
+| 15:25 | 17:20 | [Simulations, Physics-guided, and ML Theory](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#Theory) | Karthik Kashinath |
 | 17:20 | 18:00 | People-Earth Discussion | Mayur Mudigonda |
-| 18:00 | 19:00 | [Solid Earth](https://ai4earthscience.github.io/neurips-2020-workshop/schedule.md/Earth) | Kelly Kochanski |
-| 19:00 | 20:55 | [Datasets](https://ai4earthscience.github.io/neurips-2020-workshop/schedule.md/#Datasets) | Karthik Kashinath |
+| 18:00 | 19:00 | [Solid Earth](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#Earth) | Kelly Kochanski |
+| 19:00 | 20:55 | [Datasets](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#Datasets) | Karthik Kashinath |
 | 20:55 | 21:00 | Closing Remarks | Organizers |
 
 ## Participating:
