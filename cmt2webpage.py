@@ -74,7 +74,7 @@ table = """
   <colgroup>
   <col span="1" style="width: 1%;">
   <col span="1" style="width: 2%;">
-  <col span="1" style="width: 5%;">
+  <col span="1" style="width: 8%;">
   <col span="1" style="width: 20%;">
   <col span="1" style="width: 15%;">
   </colgroup>
