@@ -98,6 +98,7 @@ cam_readys = glob('papers/*CameraReady*.pdf')
 fo = open('schedule.md', 'w') 
 fo.write(top)
 tz = pytz.timezone('US/PAcific')
+sitename = 'https://ai4earthscience.github.io/neurips-2020-workshop/'
 for xx, session in enumerate(sessions):
     #fo = open('sessions/{}.html'.format(session.lower()), 'w') 
     session_name = session.title()
@@ -134,7 +135,7 @@ for xx, session in enumerate(sessions):
                             if x.startswith(st_with):
                                 target_link = 'papers/ai4earth_neurips_2020_%02d.pdf' %paper_id
                                 shutil.copy2(x, target_link)
-                                title = '[{}]({})'.format(title, target_link)
+                                title = '[{}]({})'.format(title, os.path.join(sitename,target_link))
                                 print(title)
                         # get the abstract
                         longform = abstracts[abstracts['Paper ID'] == paper_id]['Abstract'].to_numpy()[0]
