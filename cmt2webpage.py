@@ -141,7 +141,7 @@ for xx, session in enumerate(sessions):
                         # get the abstract
                         longform = abstracts[abstracts['Paper ID'] == paper_id]['Abstract'].to_numpy()[0]
 
-            author = talk['Author Names'].to_numpy()[0].title()
+            author = talk['Authors'].to_numpy()[0].title()
         except Exception as e: 
             print(e)
             embed()
