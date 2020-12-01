@@ -165,7 +165,7 @@ for xx, session in enumerate(sessions):
                   <td style="text-align:center">{}</td>
                   <td style="text-align:center">{}</td>
                   <td style="text-align:center">{}</td>
-                  <td style="text-align:justify">{}</td>
+                  <td style="text-align:left">{}</td>
                   </tr>""".format(ind, talk_time, talk_type,
                              title, 
                              author, longline)
