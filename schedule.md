@@ -134,9 +134,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   </tr></table>
 
 
-### [Return to overview schedule](#overview-schedule)
-
-### Jump to: [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
 
 
@@ -227,9 +225,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   </tr></table>
 
 
-### [Return to overview schedule](#overview-schedule)
-
-### Jump to: [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
 
 
@@ -313,9 +309,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   </tr></table>
 
 
-### [Return to overview schedule](#overview-schedule)
-
-### Jump to: [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
 
 
@@ -428,9 +422,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   </tr></table>
 
 
-### [Return to overview schedule](#overview-schedule)
-
-### Jump to: [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
 
 
@@ -514,9 +506,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   </tr></table>
 
 
-### [Return to overview schedule](#overview-schedule)
-
-### Jump to: [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
 
 
@@ -586,9 +576,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   </tr></table>
 
 
-### [Return to overview schedule](#overview-schedule)
-
-### Jump to: [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
 
 
@@ -679,7 +667,5 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   </tr></table>
 
 
-### [Return to overview schedule](#overview-schedule)
-
-### Jump to: [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 

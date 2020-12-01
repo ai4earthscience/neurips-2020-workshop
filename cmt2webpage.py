@@ -176,9 +176,8 @@ for xx, session in enumerate(sessions):
         fo.write(line)
     #fo.write("</html>\n")
     fo.write("</table>\n\n\n")
-    fo.write("### [Return to overview schedule](#overview-schedule)\n\n")
     session_jumps = ['[{}](#{})'.format(s, s.lower()) for s in sessions]
-    fo.write('### Jump to: {}\n\n'.format('  -  '.join(session_jumps)))
+    fo.write('### Jump to: [Overview](#overview-schedule)  -  {}\n\n'.format('  -  '.join(session_jumps)))
     #fo.close()
 
 
