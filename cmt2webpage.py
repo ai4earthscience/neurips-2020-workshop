@@ -173,7 +173,7 @@ for xx, session in enumerate(sessions):
        
 
         fo.write(line)
-    fo.write("</html>\n")
+    #fo.write("</html>\n")
     fo.write("</table>\n\n\n")
     fo.write("#### [Return to overview schedule](#Overview-Schedule)\n\n  ")
     #fo.close()
