@@ -51,7 +51,7 @@ top = """
 | 10:55 | 12:45 | [Water](#Water)                  | S. Karthik Mukkavilli |   
 | 12:45 | 13:25 | Keynote by Milind Tambe          | S. Karthik Mukkavilli |   
 | 13:25 | 15:25 | [Atmosphere](#Atmosphere)        | Tom Beucler |  
-| 15:25 | 17:20 | [Simulations, Physics-guided, and ML Theory](#ML-Theory) | Karthik Kashinath |  
+| 15:25 | 17:20 | [ML Theory](#ML-Theory) | Karthik Kashinath |  
 | 17:20 | 18:00 | People-Earth Discussion          | Mayur Mudigonda |  
 | 18:00 | 19:00 | [Solid Earth](#Earth)            | Kelly Kochanski |  
 | 19:00 | 20:55 | [Datasets](#Datasets)            | Karthik Kashinath |  
