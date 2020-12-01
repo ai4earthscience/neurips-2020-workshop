@@ -120,12 +120,12 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   <td style="text-align:center">Discussion</td>
                   <td style="text-align:center">Q/A And Discussion</td>
                   <td style="text-align:center">Johanna Hansen</td>
-                  <td style="text-align:justify">Live disccusion and Q&A with the speakers</td>
+                  <td style="text-align:justify">Live discussion and Q&A with the speakers</td>
                   </tr></html>
 </table>
 
 
-#### [Return to top](#Overview-Schedule)
+#### [Return to overview schedule](#Overview-Schedule)
 
   
 
@@ -212,12 +212,12 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   <td style="text-align:center">Discussion</td>
                   <td style="text-align:center">Q/A And Discussion</td>
                   <td style="text-align:center">Natasha Dudek</td>
-                  <td style="text-align:justify">Live disccusion and Q&A with the speakers</td>
+                  <td style="text-align:justify">Live discussion and Q&A with the speakers</td>
                   </tr></html>
 </table>
 
 
-#### [Return to top](#Overview-Schedule)
+#### [Return to overview schedule](#Overview-Schedule)
 
   
 
@@ -302,7 +302,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
 </table>
 
 
-#### [Return to top](#Overview-Schedule)
+#### [Return to overview schedule](#Overview-Schedule)
 
   
 
@@ -331,7 +331,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
 </table>
 
 
-#### [Return to top](#Overview-Schedule)
+#### [Return to overview schedule](#Overview-Schedule)
 
   
 
@@ -405,7 +405,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   <td style="text-align:center">Discussion</td>
                   <td style="text-align:center">Q/A And Discussion</td>
                   <td style="text-align:center">Tom Beucler</td>
-                  <td style="text-align:justify">Live disccusion and Q&A with the speakers</td>
+                  <td style="text-align:justify">Live discussion and Q&A with the speakers</td>
                   </tr><tr>
                   <td style="text-align:center">8</td>
                   <td style="text-align:center">---</td>
@@ -445,7 +445,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
 </table>
 
 
-#### [Return to top](#Overview-Schedule)
+#### [Return to overview schedule](#Overview-Schedule)
 
   
 
@@ -518,7 +518,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   <td style="text-align:center">Discussion</td>
                   <td style="text-align:center">Q/A And Discussion</td>
                   <td style="text-align:center">Karthik Kashinath</td>
-                  <td style="text-align:justify">Live disccusion and Q&A with the speakers</td>
+                  <td style="text-align:justify">Live discussion and Q&A with the speakers</td>
                   </tr><tr>
                   <td style="text-align:center">11</td>
                   <td style="text-align:center">---</td>
@@ -530,7 +530,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
 </table>
 
 
-#### [Return to top](#Overview-Schedule)
+#### [Return to overview schedule](#Overview-Schedule)
 
   
 
@@ -559,7 +559,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
 </table>
 
 
-#### [Return to top](#Overview-Schedule)
+#### [Return to overview schedule](#Overview-Schedule)
 
   
 
@@ -632,7 +632,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                   <td style="text-align:center">Discussion</td>
                   <td style="text-align:center">Q/A And Discussion</td>
                   <td style="text-align:center">Karthik Kashinath</td>
-                  <td style="text-align:justify">Live disccusion and Q&A with the speakers</td>
+                  <td style="text-align:justify">Live discussion and Q&A with the speakers</td>
                   </tr><tr>
                   <td style="text-align:center">8</td>
                   <td style="text-align:center">---</td>
@@ -651,6 +651,6 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
 </table>
 
 
-#### [Return to top](#Overview-Schedule)
+#### [Return to overview schedule](#Overview-Schedule)
 
   

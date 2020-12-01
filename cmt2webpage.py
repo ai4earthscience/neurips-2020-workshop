@@ -105,7 +105,7 @@ table = """
 
 abs_ids = list(abstracts['Paper ID'].astype(np.int))
 default_details = {'Introduction':'Short introduction to the session', 
-                   'Discussion':'Live disccusion and Q&A with the speakers'}
+                   'Discussion':'Live discussion and Q&A with the speakers'}
 
 long_length = int(len(default_details['Discussion']))
 
@@ -173,7 +173,7 @@ for xx, session in enumerate(sessions):
         fo.write(line)
     fo.write("</html>\n")
     fo.write("</table>\n\n\n")
-    fo.write("#### [Return to top](#Overview-Schedule)\n\n  ")
+    fo.write("#### [Return to overview schedule](#Overview-Schedule)\n\n  ")
     #fo.close()
 
 
