@@ -171,8 +171,8 @@ for xx, session in enumerate(sessions):
        
 
         fo.write(line)
-    fo.write(" \n\n\n  ")
-    fo.write("#### [Return to top](#Schedule)\n\n  ")
+    fo.write("\n\n\n")
+    fo.write("#### [Return to top](#Overview-Schedule)\n\n  ")
     #fo.close()
 
 
