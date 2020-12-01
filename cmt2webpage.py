@@ -160,7 +160,9 @@ for xx, session in enumerate(sessions):
             if 'Deepfish' in title: 
                 st = 'test'
                 en = 'end'
-            longline = """<p style="display:inline";>{}<details style="display:inline;"closed><summary>More</summary>{}</details></p>""".format(st, en)
+                longline = 'fake'
+            else:
+                longline = """<p style="display:inline";>{}<details style="display:inline;"closed><summary>More</summary>{}</details></p>""".format(st, en)
         else:
             longline = longform
 
