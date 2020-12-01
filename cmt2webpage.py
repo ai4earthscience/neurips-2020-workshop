@@ -152,11 +152,11 @@ for xx, session in enumerate(sessions):
             embed()
 
 
-        spl_str = longform.split('. ')
+        spl_str = longform.strip().split('. ')
         brk =  2
         if len(spl_str) > brk:
             st = '. '.join(spl_str[:brk]) + '.'
-            en = '. '.join(spl_str[brk:]) + '.'
+            en = '. '.join(spl_str[brk:]) 
             longline = """<p style="display:inline";>{} <details style="display:inline;"closed><summary>More</summary>{}</details></p>""".format(st, en)
         else:
             longline = longform
