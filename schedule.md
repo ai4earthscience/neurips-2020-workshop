@@ -19,13 +19,6 @@
 
 
   
-<html>
-<head>
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
 <table style="width:90%">
   <colgroup>
   <col span="1" style="width: 2%;">
@@ -134,13 +127,6 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
 
 
   
-<html>
-<head>
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
 <table style="width:90%">
   <colgroup>
   <col span="1" style="width: 2%;">
@@ -229,13 +215,6 @@ table, th, td {
 
 
   
-<html>
-<head>
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
 <table style="width:90%">
   <colgroup>
   <col span="1" style="width: 2%;">
@@ -317,13 +296,6 @@ table, th, td {
 
 
   
-<html>
-<head>
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
 <table style="width:90%">
   <colgroup>
   <col span="1" style="width: 2%;">
@@ -349,13 +321,6 @@ table, th, td {
 
 
   
-<html>
-<head>
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
 <table style="width:90%">
   <colgroup>
   <col span="1" style="width: 2%;">
@@ -466,13 +431,6 @@ table, th, td {
 
 
   
-<html>
-<head>
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
 <table style="width:90%">
   <colgroup>
   <col span="1" style="width: 2%;">
@@ -554,13 +512,6 @@ table, th, td {
 
 
   
-<html>
-<head>
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
 <table style="width:90%">
   <colgroup>
   <col span="1" style="width: 2%;">
@@ -586,13 +537,6 @@ table, th, td {
 
 
   
-<html>
-<head>
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
 <table style="width:90%">
   <colgroup>
   <col span="1" style="width: 2%;">
