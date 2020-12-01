@@ -157,7 +157,7 @@ for xx, session in enumerate(sessions):
         if len(spl_str) > brk:
             st = '. '.join(spl_str[:brk]) + '.'
             en = '. '.join(spl_str[brk:]) 
-            if 'Deepfish' in talk_title: 
+            if 'Deepfish' in title: 
                 st = 'test'
                 en = 'end'
             longline = """<p style="display:inline";>{}<details style="display:inline;"closed><summary>More</summary>{}</details></p>""".format(st, en)
