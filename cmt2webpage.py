@@ -109,7 +109,7 @@ for xx, session in enumerate(sessions):
     for ind in order:
         talk = session_talks.loc[session_talks['Order'] == ind]
         paper_id = talk['Paper ID'].to_numpy()[0]
-        talk_type = talk['Type'].to_numpy()[0]
+        talk_type = talk['Type'].to_numpy()[0].title()
         talk_time = talk['Time'].to_numpy()[0]
         if talk_time == 'On-demand':
             talk_time = '---'
