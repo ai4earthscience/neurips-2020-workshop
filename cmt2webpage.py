@@ -102,6 +102,7 @@ sitename = 'https://ai4earthscience.github.io/neurips-2020-workshop/'
 for xx, session in enumerate(sessions):
     #fo = open('sessions/{}.html'.format(session.lower()), 'w') 
     session_name = session.title()
+    fo.write("\n\n---".format(session_name))
     fo.write("\n\n## {}  \n\n\n  ".format(session_name))
     fo.write(table)
     session_talks = papers.loc[papers['Primary Subject Area'] == session]
@@ -174,7 +175,6 @@ for xx, session in enumerate(sessions):
        
 
         fo.write(line)
-    #fo.write("</html>\n")
     fo.write("</table>\n\n\n")
     session_jumps = ['[{}](#{})'.format(s, s.lower()) for s in sessions]
     fo.write('### Jump to: [Overview](#overview-schedule)  -  {}\n\n'.format('  -  '.join(session_jumps)))
