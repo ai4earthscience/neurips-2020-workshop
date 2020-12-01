@@ -15,9 +15,14 @@
 
 import pandas as pd
 import numpy as np
+from glob import glob
+import os
 from collections import OrderedDict
+import pytz
+from datetime import datetime
+from icalendar import vDatetime, Calendar, Event
+import shutil
 from IPython import embed
-
 p = pd.read_csv("AI4Earth_Papers_all.csv") # export from google doc which was from cmt
 a = pd.read_csv("abstracts.csv")
 abstracts = a[['Paper ID', 'Abstract', 'Paper Title']]
@@ -62,30 +67,6 @@ top = """
 ---
 
 """
-#<!DOCTYPE html>
-#th, td {
-#<html>
-#<head>
-#<style>
-#table, th, td {
-#  border: 1px solid black;
-#  border-collapse: collapse;
-#}
-#th, td {
-#  padding: 5px;
-#}
-#th {
-#  text-align: center 
-#}
-#</style>
-#</head>
-#<body>
-#<style>
-#table, th, td {
-#  border: 1px solid black;
-#  border-collapse: collapse;
-#}
-#<head>
 
 table = """
 <html>
@@ -112,10 +93,11 @@ default_details = {'Introduction':'Short introduction to the session',
                    'Discussion':'Live discussion and Q&A with the speakers. Post questions to slack to hear from our speakers. '}
 
 long_length = int(len(default_details['Discussion']))
-
+# paper have the ID\CameraReady in beginning of name
+cam_readys = glob('papers/*CameraReady*.pdf')
 fo = open('schedule.md', 'w') 
 fo.write(top)
-
+tz = pytz.timezone('US/PAcific')
 for xx, session in enumerate(sessions):
     #fo = open('sessions/{}.html'.format(session.lower()), 'w') 
     session_name = session.title()
@@ -144,6 +126,17 @@ for xx, session in enumerate(sessions):
                     longform = talk['Bio'].to_numpy()[0]
                 else:
                     if paper_id in abs_ids:
+                        # check to see if camera ready is available
+
+                        paper_id = int(paper_id)
+                        st_with = 'papers/{}'.format(paper_id)
+                        for x in cam_readys:
+                            if x.startswith(st_with):
+                                target_link = 'papers/ai4earth_neurips_2020_%02d.pdf' %paper_id
+                                shutil.copy2(x, target_link)
+                                title = '[{}]({})'.format(title, target_link)
+                                print(title)
+                        # get the abstract
                         longform = abstracts[abstracts['Paper ID'] == paper_id]['Abstract'].to_numpy()[0]
 
             author = talk['Author Names'].to_numpy()[0].title()
@@ -151,12 +144,14 @@ for xx, session in enumerate(sessions):
             print(e)
             embed()
 
-
+        # split long abstracts/bios in to visible and "more" after 2 sentences
+        # hacky 
         spl_str = longform.strip().split('. ')
         brk =  2
         if len(spl_str) > brk:
             st = '. '.join(spl_str[:brk]) + '.'
             en = '. '.join(spl_str[brk:]) 
+            # something about Deepfish messes up the html summary function 
             if 'Deepfish' in title: 
                 longline = '.' .join(spl_str)
             else:
