@@ -15,7 +15,9 @@
 
 ---
 
-# Sensors  
+
+
+## Sensors  
 
 
   
@@ -123,7 +125,9 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
 
   #### [Return to top](#Schedule)
 
-  # Ecology  
+  
+
+## Ecology  
 
 
   
@@ -211,7 +215,9 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
 
   #### [Return to top](#Schedule)
 
-  # Water  
+  
+
+## Water  
 
 
   
@@ -292,7 +298,9 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
 
   #### [Return to top](#Schedule)
 
-  # Keynote  
+  
+
+## Keynote  
 
 
   
@@ -317,7 +325,9 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
 
   #### [Return to top](#Schedule)
 
-  # Atmosphere  
+  
+
+## Atmosphere  
 
 
   
@@ -427,7 +437,9 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
 
   #### [Return to top](#Schedule)
 
-  # Theory  
+  
+
+## Theory  
 
 
   
@@ -508,7 +520,9 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
 
   #### [Return to top](#Schedule)
 
-  # Solid-Earth  
+  
+
+## Solid-Earth  
 
 
   
@@ -533,7 +547,9 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
 
   #### [Return to top](#Schedule)
 
-  # Datasets  
+  
+
+## Datasets  
 
 
   

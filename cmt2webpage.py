@@ -114,7 +114,8 @@ fo.write(top)
 
 for xx, session in enumerate(sessions):
     #fo = open('sessions/{}.html'.format(session.lower()), 'w') 
-    fo.write("# {}  \n\n\n  ".format(session.title()))
+    session_name = session.title()
+    fo.write("\n\n## {}  \n\n\n  ".format(session_name))
     fo.write(table)
     session_talks = papers.loc[papers['Primary Subject Area'] == session]
     order = sorted(list(session_talks['Order'].to_numpy().astype(np.int)))
