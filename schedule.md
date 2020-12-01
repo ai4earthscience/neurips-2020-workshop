@@ -15,7 +15,7 @@
 | 19:00 | 20:55 | [Datasets](#datasets)            | Karthik Kashinath |  
 | 20:55 | 21:00 | Closing Remarks                  | Organizers |   
 
-## [Link to join our slack for live Q&A](https://join.slack.com/t/ai4earth/shared_invite/zt-jkg0i982-VYRAd0HbjCG_6970Hcqfwg)  
+## [Join our slack for live Q&A](https://join.slack.com/t/ai4earth/shared_invite/zt-jkg0i982-VYRAd0HbjCG_6970Hcqfwg)  
 
 
 ---
