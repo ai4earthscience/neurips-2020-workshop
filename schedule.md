@@ -261,6 +261,13 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
     <th>Details</th>
   </tr>
 <tr>
+                      <td style="text-align:center">0</td>
+                      <td style="text-align:center">10:55</td>
+                      <td style="text-align:center">Introduction</td>
+                      <td style="text-align:center">Introduction</td>
+                      <td style="text-align:center">Karthik Mukkavilli (Berkeley Lab)</td>
+                      <td style="text-align:left">Short introduction to the session</td>
+                      </tr><tr>
                       <td style="text-align:center">1</td>
                       <td style="text-align:center">11:00</td>
                       <td style="text-align:center">Session Keynote</td>
@@ -295,6 +302,13 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">Efficient Reservoir Management Through Deep Reinforcement Learning</td>
                       <td style="text-align:center">Xinrun Wang (Nanyang Technological University)*; Tarun Nair ( Ashoka Trust for Research in Ecology and the Environment); Haoyang Li (Nanyang Technological University); Yuh Sheng Reuben Wong (Nanyang Technological University); Nachiket Kelkar (Ashoka Trust for Research in Ecology and the Environment</td>
                       <td style="text-align:left">Dams impact downstream river dynamics through flow regulation and disruption of upstream-downstream linkages. However, current dam operation is far from satisfactory due to the inability to respond the complicated and uncertain dynamics of the upstream-downstream system and various usages of the reservoir.<details style="display:inline;"closed><summary>More</summary>Even further, the insuitable dam operation can cause floods in downstream areas. Therefore, we leverage reinforcement learning (RL) methods to compute efficient dam operation guidelines in this work. Specifically, we build offline simulators with real data and different mathematical models for the upstream inflow, i.e., generalized least square (GLS) and dynamic linear model (DLM), then use the simulator to train the state-of-the-art RL algorithms, including DDPG, TD3 and SAC. Experiments show that the simulator with DLM can efficiently model the inflow dynamics in the upstream and the dam operation policies trained by RL algorithms significantly outperform the human-generated policy.</details></td>
+                      </tr><tr>
+                      <td style="text-align:center">6</td>
+                      <td style="text-align:center">12:20</td>
+                      <td style="text-align:center">Discussion</td>
+                      <td style="text-align:center">Q/A And Discussion</td>
+                      <td style="text-align:center">Karthik Mukkavilli (Berkeley Lab)</td>
+                      <td style="text-align:left">Live discussion and Q&A with the speakers. Post questions to slack to hear from our speakers.</td>
                       </tr><tr>
                       <td style="text-align:center">7</td>
                       <td style="text-align:center">---</td>
@@ -674,32 +688,32 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:left">Regularly updated and accurate land cover maps are essential for monitoring 14 of the 17 Sustainable Development Goals. Multispectral satellite imagery provide high-quality and valuable information at global scale that can be used to develop land cover classification models.<details style="display:inline;"closed><summary>More</summary>However, such a global application requires a geographically diverse training dataset. Here, we present LandCoverNet, a global training dataset for land cover classification based on Sentinel-2 observations at 10m spatial resolution. Land cover class labels are defined based on annual time-series of Sentinel-2, and verified by consensus among three human annotators.</details></td>
                       </tr><tr>
                       <td style="text-align:center">5</td>
+                      <td style="text-align:center">20:10</td>
+                      <td style="text-align:center">Regular Talk</td>
+                      <td style="text-align:center">Applying Machine Learning To Crowd-Sourced Data From Earthquake Detective</td>
+                      <td style="text-align:center">Omkar Ranadive (Northwestern University)*; Suzan van der Lee (Northwestern University)</td>
+                      <td style="text-align:left">We present the Earthquake Detective dataset - A crowdsourced set of labels on potentially triggered (PT) earthquakes and tremors. These events are those which may have been triggered by large magnitude and often distant earthquakes.<details style="display:inline;"closed><summary>More</summary>We apply Machine Learning to classify these PT seismic events and explore the challenges faced in segregating such low amplitude signals. The data set and code are available online.</details></td>
+                      </tr><tr>
+                      <td style="text-align:center">6</td>
                       <td style="text-align:center">20:20</td>
                       <td style="text-align:center">Lightning Talk</td>
                       <td style="text-align:center"><a href="https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_15.pdf">An Active Learning Pipeline To Detect Hurricane Washover In Post-Storm Aerial Images</a></td>
                       <td style="text-align:center">Evan Goldstein (University of North Carolina at Greensboro)*; Somya Mohanty (University of North Carolina at Greensboro); Shah Nafis Rafique (University of North Carolina at Greensboro); Jamison Valentine (University of North Carolina at Greensboro)</td>
                       <td style="text-align:left">We present an active learning pipeline to identify hurricane impacts to coastal landscapes. Previously unlabeled post-storm images are used in a three component workflow — first an online interface is used to crowd-source labels for imagery, second we develop a deep learning model from these labeled images, and third model predictions are displayed on an interactive map.<details style="display:inline;"closed><summary>More</summary>Both the labeler and interactive map allow coastal scientists to provide additional labels that will be used to develop a large labeled dataset and improve hurricane impact assessments.</details></td>
                       </tr><tr>
-                      <td style="text-align:center">6</td>
+                      <td style="text-align:center">7</td>
                       <td style="text-align:center">20:25</td>
                       <td style="text-align:center">Lightning Talk</td>
                       <td style="text-align:center"><a href="https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_27.pdf">Developing High Quality Training Samples For Deep Learning Based Local Climate Classification In Korea</a></td>
                       <td style="text-align:center">Minho Kim (Seoul National University)*; Doyeong Jeong (Seoul National University); Hyoungwoo Choi (Seoul National University); Yongil Kim (Seoul National University)</td>
                       <td style="text-align:left">Two out of three people will be living in urban areas by 2050, as projected by the United Nations, emphasizing the need for sustainable urban development and monitoring. Common urban footprint data provide high-resolution city extents but lack essential information on the distribution, pattern, and characteristics.<details style="display:inline;"closed><summary>More</summary>The Local Climate Zone (LCZ) offers an efficient and standardized framework that can delineate the internal structure and characteristics of urban areas. Global-scale LCZ mapping has been explored, but are limited by low accuracy, variable labeling quality, or domain adaptation challenges. Instead, this study developed a custom LCZ data to map key Korean cities using a multi-scale convolutional neural network. Results demonstrated that using a novel, custom LCZ data with deep learning can generate more accurate LCZ map results compared to conventional community-based LCZ mapping with machine learning as well as transfer learning of the global So2Sat dataset.</details></td>
                       </tr><tr>
-                      <td style="text-align:center">7</td>
+                      <td style="text-align:center">8</td>
                       <td style="text-align:center">20:30</td>
                       <td style="text-align:center">Discussion</td>
                       <td style="text-align:center">Q/A And Discussion</td>
                       <td style="text-align:center">Karthik Kashinath (Berkeley Lab)</td>
                       <td style="text-align:left">Live discussion and Q&A with the speakers. Post questions to slack to hear from our speakers.</td>
-                      </tr><tr>
-                      <td style="text-align:center">8</td>
-                      <td style="text-align:center">---</td>
-                      <td style="text-align:center">On-Demand</td>
-                      <td style="text-align:center">Applying Machine Learning To Crowd-Sourced Data From Earthquake Detective</td>
-                      <td style="text-align:center">Omkar Ranadive (Northwestern University)*; Suzan van der Lee (Northwestern University)</td>
-                      <td style="text-align:left">We present the Earthquake Detective dataset - A crowdsourced set of labels on potentially triggered (PT) earthquakes and tremors. These events are those which may have been triggered by large magnitude and often distant earthquakes.<details style="display:inline;"closed><summary>More</summary>We apply Machine Learning to classify these PT seismic events and explore the challenges faced in segregating such low amplitude signals. The data set and code are available online.</details></td>
                       </tr><tr>
                       <td style="text-align:center">9</td>
                       <td style="text-align:center">---</td>
