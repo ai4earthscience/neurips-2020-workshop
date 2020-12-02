@@ -11,7 +11,7 @@
 | 13:25 | 15:25 | [Atmosphere](#atmosphere)        | Tom Beucler |  
 | 15:25 | 17:20 | [ML Theory](#theory) | Karthik Kashinath |  
 | 17:20 | 18:00 | People-Earth Roundtable          | Mayur Mudigonda |  
-| 18:00 | 19:00 | [Solid Earth](#earth)            | Kelly Kochanski |  
+| 18:00 | 19:00 | [Solid Earth](#solid-earth)            | Kelly Kochanski |  
 | 19:00 | 20:55 | [Datasets](#datasets)            | Karthik Kashinath |  
 | 20:55 | 21:00 | Closing Remarks                  | Organizers |   
 
