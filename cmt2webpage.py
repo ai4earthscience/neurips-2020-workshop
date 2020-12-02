@@ -70,6 +70,7 @@ top = """
 
 table = """
 <html>
+<p style="display:inline";>
 <table>
   <colgroup>
   <col span="1" style="width: 1%;">
@@ -161,7 +162,8 @@ for xx, session in enumerate(sessions):
                 #elif 'Boots' in title: 
                 #    longline = '.' .join(spl_str)
                 #else:
-                longline = """<p style="display:inline";>{}<details style="display:inline;"closed><summary>More</summary>{}</details></p>""".format(st, en)
+                #longline = """<p style="display:inline";>{}<details style="display:inline;"closed><summary>More</summary>{}</details></p>""".format(st, en)
+                longline = """{}<details style="display:inline;"closed><summary>More</summary>{}</details>""".format(st, en)
             else:
                 longline = longform
 
@@ -183,9 +185,10 @@ for xx, session in enumerate(sessions):
         except Exception as e: 
             print(e)
             embed()
-    fo.write("</table>\n\n\n")
+    fo.write("</table>\n")
+    fo.write("</html>\n\n")
     session_jumps = ['[{}](#{})'.format(s, s.lower()) for s in sessions]
     fo.write('### Jump to: [Overview](#overview-schedule)  -  {}\n\n'.format('  -  '.join(session_jumps)))
-    #fo.close()
+fo.close()
 
 
