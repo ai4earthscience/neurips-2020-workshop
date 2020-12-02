@@ -137,15 +137,16 @@ for xx, session in enumerate(sessions):
                             if x.startswith(st_with):
                                 target_link = 'papers/ai4earth_neurips_2020_%02d.pdf' %paper_id
                                 shutil.copy2(x, target_link)
-                                title = '<a href="{}">{}</>'.format(os.path.join(sitename,target_link), title)
+                                title = '<a href="{}">{}</a>'.format(os.path.join(sitename,target_link), title)
                                 print(title)
                         # get the abstract
                         longform = abstracts[abstracts['Paper ID'] == paper_id]['Abstract'].to_numpy()[0]
 
             author = talk['Authors'].to_numpy()[0].replace('()', '')
-            #link = talk['Link'].to_numpy()[0]
-            #if type(link) == str:
-            #    author = '<a href="{}">{}</>'.format(link.strip(), author.strip())
+
+            link = talk['Link'].to_numpy()[0]
+            if type(link) == str:
+                author = '<a href="{}">{}</a>'.format(link.strip(), author.strip())
 
             # split long abstracts/bios in to visible and "more" after 2 sentences
             # hacky 
