@@ -24,6 +24,44 @@
 
 ---
 
+## Welcome  
+
+
+  
+<html>
+<p style="display:inline";>
+<table>
+  <colgroup>
+  <col span="1" style="width: 1%;">
+  <col span="1" style="width: 2%;">
+  <col span="1" style="width: 8%;">
+  <col span="1" style="width: 20%;">
+  <col span="1" style="width: 15%;">
+  </colgroup>
+  <tr>
+    <th>#</th>
+    <th>Start Time</th>
+    <th>Type</th>
+    <th>Title</th>
+    <th>Speakers</th>
+    <th>Details</th>
+  </tr>
+<tr>
+                      <td style="text-align:center">0</td>
+                      <td style="text-align:center">6:45</td>
+                      <td style="text-align:center">Introduction</td>
+                      <td style="text-align:center">Opening Remarks</td>
+                      <td style="text-align:center">Karthik Mukkavilli (Berkeley Lab)</td>
+                      <td style="text-align:left">Short introduction to the session</td>
+                      </tr></table>
+</html>
+
+### Jump to: [Overview](#overview-schedule)  -  [Welcome](#welcome)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)  -  [Closing](#closing)
+
+
+
+---
+
 ## Sensors  
 
 
@@ -99,7 +137,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">Break</td>
                       <td style="text-align:center">Break To View On-Demand Lightning Talks</td>
                       <td style="text-align:center">Ozkan, Chen, Fang, Pinto</td>
-                      <td style="text-align:left">Break to grab a coffee and check out our on-demand talks</td>
+                      <td style="text-align:left"></td>
                       </tr><tr>
                       <td style="text-align:center">7</td>
                       <td style="text-align:center">8:30</td>
@@ -138,7 +176,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule)  -  [Welcome](#welcome)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)  -  [Closing](#closing)
 
 
 
@@ -232,7 +270,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule)  -  [Welcome](#welcome)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)  -  [Closing](#closing)
 
 
 
@@ -333,7 +371,52 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule)  -  [Welcome](#welcome)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)  -  [Closing](#closing)
+
+
+
+---
+
+## Keynote  
+
+
+  
+<html>
+<p style="display:inline";>
+<table>
+  <colgroup>
+  <col span="1" style="width: 1%;">
+  <col span="1" style="width: 2%;">
+  <col span="1" style="width: 8%;">
+  <col span="1" style="width: 20%;">
+  <col span="1" style="width: 15%;">
+  </colgroup>
+  <tr>
+    <th>#</th>
+    <th>Start Time</th>
+    <th>Type</th>
+    <th>Title</th>
+    <th>Speakers</th>
+    <th>Details</th>
+  </tr>
+<tr>
+                      <td style="text-align:center">0</td>
+                      <td style="text-align:center">12:45</td>
+                      <td style="text-align:center">Keynote</td>
+                      <td style="text-align:center">Keynote: Milind Tambe  </td>
+                      <td style="text-align:center"><a href="https://teamcore.seas.harvard.edu/people/milind-tambe">Milind Tambe (Harvard, Google)</a></td>
+                      <td style="text-align:left">Milind Tambe is Gordon McKay Professor of Computer Science and Director of Center for Research on Computation and Society at Harvard University; he is also Director "AI for Social Good" at Google Research India. </td>
+                      </tr><tr>
+                      <td style="text-align:center">1</td>
+                      <td style="text-align:center">13:15</td>
+                      <td style="text-align:center">Discussion</td>
+                      <td style="text-align:center">Q/A And Discussion</td>
+                      <td style="text-align:center">Karthik Mukkavilli (Berkeley Lab)</td>
+                      <td style="text-align:left">Live discussion and Q&A with the speakers. Post questions to slack to hear from our speakers.</td>
+                      </tr></table>
+</html>
+
+### Jump to: [Overview](#overview-schedule)  -  [Welcome](#welcome)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)  -  [Closing](#closing)
 
 
 
@@ -449,7 +532,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule)  -  [Welcome](#welcome)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)  -  [Closing](#closing)
 
 
 
@@ -550,7 +633,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule)  -  [Welcome](#welcome)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)  -  [Closing](#closing)
 
 
 
@@ -630,7 +713,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule)  -  [Welcome](#welcome)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)  -  [Closing](#closing)
 
 
 
@@ -731,5 +814,43 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule)  -  [Welcome](#welcome)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)  -  [Closing](#closing)
+
+
+
+---
+
+## Closing  
+
+
+  
+<html>
+<p style="display:inline";>
+<table>
+  <colgroup>
+  <col span="1" style="width: 1%;">
+  <col span="1" style="width: 2%;">
+  <col span="1" style="width: 8%;">
+  <col span="1" style="width: 20%;">
+  <col span="1" style="width: 15%;">
+  </colgroup>
+  <tr>
+    <th>#</th>
+    <th>Start Time</th>
+    <th>Type</th>
+    <th>Title</th>
+    <th>Speakers</th>
+    <th>Details</th>
+  </tr>
+<tr>
+                      <td style="text-align:center">0</td>
+                      <td style="text-align:center">20:55</td>
+                      <td style="text-align:center">Closing</td>
+                      <td style="text-align:center">Closing Remarks</td>
+                      <td style="text-align:center">Karthik Mukkavilli (Berkeley Lab)</td>
+                      <td style="text-align:left">Closing & Thanks</td>
+                      </tr></table>
+</html>
+
+### Jump to: [Overview](#overview-schedule)  -  [Welcome](#welcome)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)  -  [Closing](#closing)
 

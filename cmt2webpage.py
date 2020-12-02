@@ -36,13 +36,13 @@ papers = papers[papers['Accept/Reject'] != 'reject']
 papers.loc[papers['Primary Subject Area'] == 'Sensors & Sampling', 'Primary Subject Area'] = 'Sensors'
 # dont merge since some dont have abstracts
 #papers = pd.merge(papers, abstracts, on='Paper ID')
-sessions = ['Sensors', 
+sessions = ['Welcome', 'Sensors', 
             'Ecology', 
-            'Water', 
+            'Water', 'Keynote', 
             'Atmosphere', 
             'Theory',
             'Earth', 
-            'Datasets']
+            'Datasets', 'Closing']
 
 top = """
 
@@ -92,7 +92,9 @@ table = """
 abs_ids = list(abstracts['Paper ID'].astype(np.int))
 default_details = {'Introduction':'Short introduction to the session', 
                    'Discussion':'Live discussion and Q&A with the speakers. Post questions to slack to hear from our speakers.', 
-                   'Break':'Break to grab a coffee and check out our on-demand talks'}
+                   'Welcome':'Welcome', 
+                   'Closing':'Closing & Thanks', 
+                   }
 
 long_length = int(len(default_details['Discussion']))
 # paper have the ID\CameraReady in beginning of name
@@ -149,11 +151,14 @@ for xx, session in enumerate(sessions):
             author = talk['Authors'].to_numpy()[0].replace('()', '')
 
             link = talk['Link'].to_numpy()[0]
+
             if type(link) == str:
                 author = '<a href="{}">{}</a>'.format(link.strip(), author.strip())
 
             # split long abstracts/bios in to visible and "more" after 2 sentences
             # hacky 
+            if type(longform) != type(''):
+                longform = ''
             spl_str = longform.strip().split('. ')
             brk =  2
             if len(spl_str) > brk:
