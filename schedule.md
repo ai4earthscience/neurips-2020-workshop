@@ -556,7 +556,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
 
 ---
 
-## Earth  
+## Solid Earth  
 
 
   
