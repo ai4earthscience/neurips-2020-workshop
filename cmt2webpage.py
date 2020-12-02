@@ -157,9 +157,7 @@ for xx, session in enumerate(sessions):
                 st = '. '.join(spl_str[:brk]) + '.'
                 en = '. '.join(spl_str[brk:]) 
                 # something about Deepfish messes up the html summary function 
-                if 'Deepfish' in title:
-                    longline = longform.strip() 
-                elif 'Boots' in title: 
+                if 'sensors' == session.lower():
                     longline = longform.strip() 
                 else:
                 #longline = """<p style="display:inline";>{}<details style="display:inline;"closed><summary>More</summary>{}</details></p>""".format(st, en)
