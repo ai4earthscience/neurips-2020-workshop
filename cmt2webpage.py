@@ -90,7 +90,8 @@ table = """
 
 abs_ids = list(abstracts['Paper ID'].astype(np.int))
 default_details = {'Introduction':'Short introduction to the session', 
-                   'Discussion':'Live discussion and Q&A with the speakers. Post questions to slack to hear from our speakers. '}
+                   'Discussion':'Live discussion and Q&A with the speakers. Post questions to slack to hear from our speakers.', 
+                   'Break':'Break to grab a coffee and check out our on-demand talks'}
 
 long_length = int(len(default_details['Discussion']))
 # paper have the ID\CameraReady in beginning of name
@@ -141,7 +142,7 @@ for xx, session in enumerate(sessions):
                         # get the abstract
                         longform = abstracts[abstracts['Paper ID'] == paper_id]['Abstract'].to_numpy()[0]
 
-            author = talk['Authors'].to_numpy()[0].title().replace('()', '')
+            author = talk['Authors'].to_numpy()[0].replace('()', '')
             link = talk['Link'].to_numpy()[0]
             if type(link) == str:
                 author = '<a href="{}">{}</>'.format(link, author)
