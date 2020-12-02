@@ -110,10 +110,7 @@ for xx, session in enumerate(sessions):
     #fo = open('sessions/{}.html'.format(session.lower()), 'w') 
     session_name = session.title()
     fo.write("\n\n---".format(session_name))
-    if session_name == 'Earth':
-        fo.write("\n\n## {}  \n\n\n  ".format('Solid Earth'))
-    else:
-        fo.write("\n\n## {}  \n\n\n  ".format(session_name))
+    fo.write("\n\n## {}  \n\n\n  ".format(session_name))
     fo.write(table)
     session_talks = papers.loc[papers['Primary Subject Area'] == session]
     order = sorted(list(session_talks['Order'].to_numpy().astype(np.int)))

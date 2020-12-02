@@ -56,7 +56,7 @@
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
 
 
@@ -176,7 +176,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
 
 
@@ -270,7 +270,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
 
 
@@ -371,7 +371,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
 
 
@@ -416,7 +416,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
 
 
@@ -532,7 +532,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
 
 
@@ -577,7 +577,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
 
 
@@ -678,13 +678,13 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
 
 
 ---
 
-## Solid Earth  
+## Earth  
 
 
   
@@ -706,59 +706,10 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
     <th>Speakers</th>
     <th>Details</th>
   </tr>
-<tr>
-                      <td style="text-align:center">0</td>
-                      <td style="text-align:center">18:00</td>
-                      <td style="text-align:center">Introduction</td>
-                      <td style="text-align:center">Introduction</td>
-                      <td style="text-align:center">Kelly Kochanski (Boulder)</td>
-                      <td style="text-align:left">Short introduction to the session</td>
-                      </tr><tr>
-                      <td style="text-align:center">1</td>
-                      <td style="text-align:center">18:05</td>
-                      <td style="text-align:center">Spotlight Talk</td>
-                      <td style="text-align:center"><a href="https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_08.pdf">Soft Attention Convolutional Neural Networks For Rare Event Detection In Sequences</a></td>
-                      <td style="text-align:center">Mandar Kulkarni (Schlumberger)*; Aria Abubakar (Schlumberger); Purnaprajnya Mangsuli (Schlumberger)</td>
-                      <td style="text-align:left">Automated event detection in the sequences is an important aspect of temporal data analytics. The events can be in the form of peaks, changes in data distribution, changes of spectral characteristics etc.<details style="display:inline;"closed><summary>More</summary> In this work, we propose a Soft-Attention Convolutional Neural Network (CNN) based approach for rare event detection in sequences. For the purpose of demonstration, we experiment with well logs where we aim to detect events depicting the changes in the geological layers (a.k.a. well tops/markers).  Well logs (single or multivariate) are inputted to a soft attention CNN and a model is trained to locate the marker position. Attention mechanism enables the machine to relatively scale relevant log features for the task. Experimental results show that our approach is able to locate rare events with high precision.</details></td>
-                      </tr><tr>
-                      <td style="text-align:center">2</td>
-                      <td style="text-align:center">18:20</td>
-                      <td style="text-align:center">Regular Talk</td>
-                      <td style="text-align:center"><a href="https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_29.pdf">An End-To-End Earthquake Monitoring Method For Joint Earthquake Detection And Association Using Deep Learning</a></td>
-                      <td style="text-align:center">Weiqiang Zhu (Stanford University)*; Kai Sheng Tai (Stanford University); s.mostafa mousavi (Stanford University); Peter D Bailis (Stanford University); Gregory Beroza (Stanford University)</td>
-                      <td style="text-align:left">Earthquake monitoring through seismometer networks typically involves a pipeline consisting of detection, phase picking, association, and localization stages. We introduce an earthquake detection and localization method based on a novel end-to-end deep neural network architecture that maps collections of raw seismic waveforms to proposed event times and epicenter locations.<details style="display:inline;"closed><summary>More</summary>Unlike traditional approaches to this task, our method does not rely on hand-designed time series features or rules for combining predictions across multiple stations. We evaluate our proposed method on data from the 2019 Ridgecrest earthquake sequence, demonstrating its effectiveness when compared with four state-of-the-art earthquake catalogs.</details></td>
-                      </tr><tr>
-                      <td style="text-align:center">3</td>
-                      <td style="text-align:center">18:30</td>
-                      <td style="text-align:center">Regular Talk</td>
-                      <td style="text-align:center"><a href="https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_33.pdf">Single-Station Earthquake Location Using Deep Neural Networks</a></td>
-                      <td style="text-align:center">S.Mostafa Mousavi (Stanford University)*</td>
-                      <td style="text-align:left">In seismology, earthquake location is commonly done based on observed arrival times at multiple stations using a velocity model for the region and through an iterative inversion process. This makes the location estimation of earthquakes that are sparsely recorded - either because they are small or because stations are widely separated - difficult.<details style="display:inline;"closed><summary>More</summary>Here, we present a fast approach based on deep neural networks to directly locate earthquakes using single-station observations. We use a multi-task temporal convolutional neural network in a Bayesian framework to learn epicentral distance and P travel time from 1-minute seismograms along with their epistemic and aleatory uncertainties. We design a separate multi-input  network using standard convolutional layers to estimate the back-azimuth angle and its epistemic uncertainty. Using this information, we estimate the epicenter, origin time, and depth along with their confidence intervals.</details></td>
-                      </tr><tr>
-                      <td style="text-align:center">4</td>
-                      <td style="text-align:center">18:40</td>
-                      <td style="text-align:center">Lightning Talk</td>
-                      <td style="text-align:center"><a href="https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_22.pdf">Framework For Automatic Globally Optimal Well Log Correlation</a></td>
-                      <td style="text-align:center">Oleh Datskiv (SoftServe)*; Mariia Veselovska  (SoftServe); Andrii Struk (SoftServe); Oleh Bondarenko  (SoftServe); Mykola Maksymenko  (SoftServe); Volodymyr Karpiv (SoftServe)</td>
-                      <td style="text-align:left">Well correlation based on well-logging data is a reliable tool that geological scientists use to interpret and deduce underground sedimentary morphology. Traditional methods are not fully-automated and require additional inputs from the experts to perform well correlation, which complicates the whole process and makes it time-consuming.<details style="display:inline;"closed><summary>More</summary>Well-log data is often noisy and incomplete  which significantly reduces performance of well correlation and the accuracy of geological interpretation. To address this issue, we present a framework for the global pattern correlation that is fully automated and does not require additional inputs from the user. Our framework efficiently handles imperfect data with multi-log curve integration. Global optimality in the proposed framework is achieved through adapting Hungarian algorithm to the assignment problem of well log correlation. Finally, we assess performance of the framework on real-world datasets.</details></td>
-                      </tr><tr>
-                      <td style="text-align:center">5</td>
-                      <td style="text-align:center">18:45</td>
-                      <td style="text-align:center">Discussion</td>
-                      <td style="text-align:center">Q/A And Discussion</td>
-                      <td style="text-align:center">Kelly Kochanski (Boulder)</td>
-                      <td style="text-align:left">Live discussion and Q&A with the speakers. Post questions to slack to hear from our speakers.</td>
-                      </tr><tr>
-                      <td style="text-align:center">6</td>
-                      <td style="text-align:center">---</td>
-                      <td style="text-align:center">On-Demand</td>
-                      <td style="text-align:center"><a href="https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_07.pdf">Nowcasting Solar Irradiance Over Oahu</a></td>
-                      <td style="text-align:center">Kyle Hart (University of Hawaii at Manoa); Giuseppe Torri (University of Hawaii at Manoa); Peter Sadowski (University of Hawaii at Manoa)*</td>
-                      <td style="text-align:left">We use satellite data from GOES-17 and deep learning to predict solar radiance with a 10-60 minute forecast horizon. Neural networks were trained on data covering the the Hawaiian islands from 2019, and tested on 2020 data.<details style="display:inline;"closed><summary>More</summary>Our 10-minute forecasts of solar radiance achieve an RMSE of 31 watt meter^-2 steradian^-1 micrometer^-1, a significant improvement over a simple persistence model benchmark (45 watt meter^-2 steradian^-1 micrometer^-1} on the same data). These results suggest that the approach could potentially be used by energy companies to more efficiently manage power-generators.</details></td>
-                      </tr></table>
+</table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
 
 
@@ -859,7 +810,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
 
 
@@ -897,5 +848,5 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
