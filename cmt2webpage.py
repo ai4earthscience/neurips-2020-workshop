@@ -44,7 +44,7 @@ sessions = ['Welcome',
             'Atmosphere', 
             'People-Earth',
             'Theory',
-            'Earth', 
+            'Solid-Earth', 
             'Datasets', 'Closing']
 
 top = """
