@@ -36,9 +36,11 @@ papers = papers[papers['Accept/Reject'] != 'reject']
 papers.loc[papers['Primary Subject Area'] == 'Sensors & Sampling', 'Primary Subject Area'] = 'Sensors'
 # dont merge since some dont have abstracts
 #papers = pd.merge(papers, abstracts, on='Paper ID')
-sessions = ['Welcome', 'Sensors', 
+sessions = ['Welcome', 
+           'Sensors', 
             'Ecology', 
-            'Water', 'Keynote', 
+            'Water', 
+            'Keynote', 
             'Atmosphere', 
             'People-Earth',
             'Theory',
@@ -54,7 +56,7 @@ top = """
 | 06:55 | 08:55 | [Sensors and Sampling](#sensors) | Johanna Hansen |  
 | 08:55 | 10:55 | [Ecology](#ecology)              | Natasha Dudek |   
 | 10:55 | 12:45 | [Water](#water)                  | S. Karthik Mukkavilli |   
-| 12:45 | 13:25 | [Keynote: Milind Tambe](https://teamcore.seas.harvard.edu/people/milind-tambe)  | S. Karthik Mukkavilli |   
+| 12:45 | 13:25 | [Keynote: Milind Tambe](#keynote)  | S. Karthik Mukkavilli |   
 | 13:25 | 15:25 | [Atmosphere](#atmosphere)        | Tom Beucler |  
 | 15:25 | 17:20 | [ML Theory](#theory) | Karthik Kashinath |  
 | 17:20 | 18:00 | [People-Earth](#people-earth)          | Mayur Mudigonda |  
