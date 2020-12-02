@@ -142,39 +142,40 @@ for xx, session in enumerate(sessions):
                         longform = abstracts[abstracts['Paper ID'] == paper_id]['Abstract'].to_numpy()[0]
 
             author = talk['Authors'].to_numpy()[0].title().replace('()', '')
-        except Exception as e: 
-            print(e)
-            embed()
 
-        # split long abstracts/bios in to visible and "more" after 2 sentences
-        # hacky 
-        spl_str = longform.strip().split('. ')
-        brk =  2
-        if len(spl_str) > brk:
-            st = '. '.join(spl_str[:brk]) + '.'
-            en = '. '.join(spl_str[brk:]) 
-            # something about Deepfish messes up the html summary function 
-            if 'Deepfish' in title: 
-                longline = '.' .join(spl_str)
+            # split long abstracts/bios in to visible and "more" after 2 sentences
+            # hacky 
+            spl_str = longform.strip().split('. ')
+            brk =  2
+            if len(spl_str) > brk:
+                st = '. '.join(spl_str[:brk]) + '.'
+                en = '. '.join(spl_str[brk:]) 
+                # something about Deepfish messes up the html summary function 
+                if 'Deepfish' in title: 
+                    longline = '.' .join(spl_str)
+                else:
+                    longline = """<p style="display:inline";>{}<details style="display:inline;"closed><summary>More</summary>{}</details></p>""".format(st, en)
             else:
-                longline = """<p style="display:inline";>{}<details style="display:inline;"closed><summary>More</summary>{}</details></p>""".format(st, en)
-        else:
-            longline = longform
+                longline = longform
 
-        line = """<tr>
-                  <td style="text-align:center">{}</td>
-                  <td style="text-align:center">{}</td>
-                  <td style="text-align:center">{}</td>
-                  <td style="text-align:center">{}</td>
-                  <td style="text-align:center">{}</td>
-                  <td style="text-align:left">{}</td>
-                  </tr>""".format(ind, talk_time, talk_type,
-                             title, 
-                             author, longline)
+            line = """<tr>
+                      <td style="text-align:center">{}</td>
+                      <td style="text-align:center">{}</td>
+                      <td style="text-align:center">{}</td>
+                      <td style="text-align:center">{}</td>
+                      <td style="text-align:center">{}</td>
+                      <td style="text-align:left">{}</td>
+                      </tr>""".format(ind, talk_time, talk_type,
+                                 title, 
+                                 author, longline)
 
        
 
-        fo.write(line)
+            fo.write(line)
+
+        except Exception as e: 
+            print(e)
+            embed()
     fo.write("</table>\n\n\n")
     session_jumps = ['[{}](#{})'.format(s, s.lower()) for s in sessions]
     fo.write('### Jump to: [Overview](#overview-schedule)  -  {}\n\n'.format('  -  '.join(session_jumps)))
