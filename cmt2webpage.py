@@ -158,7 +158,7 @@ for xx, session in enumerate(sessions):
                 # something about Deepfish messes up the html summary function 
                 if 'Deepfish' in title:
                     longline = '.' .join(spl_str)
-                elif 'Boots on the Ground' in title: 
+                elif 'Boots' in title: 
                     longline = '.' .join(spl_str)
                 else:
                     longline = """<p style="display:inline";>{}<details style="display:inline;"closed><summary>More</summary>{}</details></p>""".format(st, en)
