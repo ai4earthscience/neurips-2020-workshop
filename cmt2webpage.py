@@ -197,7 +197,7 @@ for xx, session in enumerate(sessions):
     fo.write("</table>\n")
     fo.write("</html>\n\n")
     session_jumps = ['[{}](#{})'.format(s, s.lower()) for s in sessions if s not in ['Welcome', 'Closing']]
-    fo.write('### Jump to: [Overview](#overview-schedule)  -  {}\n\n'.format('  -  '.join(session_jumps)))
+    fo.write('### Jump to: [Overview](#overview-schedule) - {}\n\n'.format('  -  '.join(session_jumps)))
 fo.close()
 
 
