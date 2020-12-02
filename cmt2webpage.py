@@ -156,12 +156,12 @@ for xx, session in enumerate(sessions):
                 st = '. '.join(spl_str[:brk]) + '.'
                 en = '. '.join(spl_str[brk:]) 
                 # something about Deepfish messes up the html summary function 
-                if 'Deepfish' in title:
-                    longline = '.' .join(spl_str)
-                elif 'Boots' in title: 
-                    longline = '.' .join(spl_str)
-                else:
-                    longline = """<p style="display:inline";>{}<details style="display:inline;"closed><summary>More</summary>{}</details></p>""".format(st, en)
+                #if 'Deepfish' in title:
+                #    longline = '.' .join(spl_str)
+                #elif 'Boots' in title: 
+                #    longline = '.' .join(spl_str)
+                #else:
+                longline = """<p style="display:inline";>{}<details style="display:inline;"closed><summary>More</summary>{}</details></p>""".format(st, en)
             else:
                 longline = longform
 
