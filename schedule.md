@@ -614,6 +614,13 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">Oleh Datskiv (SoftServe)*; Mariia Veselovska  (SoftServe); Andrii Struk (SoftServe); Oleh Bondarenko  (SoftServe); Mykola Maksymenko  (SoftServe); Volodymyr Karpiv (SoftServe)</td>
                       <td style="text-align:left">Well correlation based on well-logging data is a reliable tool that geological scientists use to interpret and deduce underground sedimentary morphology. Traditional methods are not fully-automated and require additional inputs from the experts to perform well correlation, which complicates the whole process and makes it time-consuming.<details style="display:inline;"closed><summary>More</summary>Well-log data is often noisy and incomplete  which significantly reduces performance of well correlation and the accuracy of geological interpretation. To address this issue, we present a framework for the global pattern correlation that is fully automated and does not require additional inputs from the user. Our framework efficiently handles imperfect data with multi-log curve integration. Global optimality in the proposed framework is achieved through adapting Hungarian algorithm to the assignment problem of well log correlation. Finally, we assess performance of the framework on real-world datasets.</details></td>
                       </tr><tr>
+                      <td style="text-align:center">5</td>
+                      <td style="text-align:center">18:45</td>
+                      <td style="text-align:center">Discussion</td>
+                      <td style="text-align:center">Q/A And Discussion</td>
+                      <td style="text-align:center">Kelly Kochanski (Boulder)</td>
+                      <td style="text-align:left">Live discussion and Q&A with the speakers. Post questions to slack to hear from our speakers.</td>
+                      </tr><tr>
                       <td style="text-align:center">6</td>
                       <td style="text-align:center">---</td>
                       <td style="text-align:center">On-Demand</td>
