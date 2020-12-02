@@ -3,7 +3,7 @@
 # Overview Schedule
 | Start | End | Session | Session Chair |  
 | ---- | ---- | --------- | ---------------- |  
-| 06:45 | 06:55 | Opening Remarks                  | S. Karthik Mukkavilli |  
+| 06:45 | 06:55 | [Opening Remarks](#welcome)                  | S. Karthik Mukkavilli |  
 | 06:55 | 08:55 | [Sensors and Sampling](#sensors) | Johanna Hansen |  
 | 08:55 | 10:55 | [Ecology](#ecology)              | Natasha Dudek |   
 | 10:55 | 12:45 | [Water](#water)                  | S. Karthik Mukkavilli |   
@@ -13,7 +13,7 @@
 | 17:20 | 18:00 | [People-Earth](#people-earth)          | Mayur Mudigonda |  
 | 18:00 | 19:00 | [Solid Earth](#solid-earth)            | Kelly Kochanski |  
 | 19:00 | 20:55 | [Datasets](#datasets)            | Karthik Kashinath |  
-| 20:55 | 21:00 | Closing Remarks                  | Organizers |   
+| 20:55 | 21:00 | [Closing Remarks](#closing)                  | Organizers |   
 
 ## [Join our slack for live Q&A](https://join.slack.com/t/ai4earth/shared_invite/zt-jkg0i982-VYRAd0HbjCG_6970Hcqfwg)  
 
