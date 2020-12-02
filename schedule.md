@@ -57,7 +57,7 @@
                       <td style="text-align:center">6:58</td>
                       <td style="text-align:center">Session Keynote</td>
                       <td style="text-align:center">Yogesh Girdhar</td>
-                      <td style="text-align:center"><a href="http://warp.whoi.edu">Yogesh Girdhar (WHOI)</></td>
+                      <td style="text-align:center">Yogesh Girdhar (WHOI)</td>
                       <td style="text-align:left"><p style="display:inline";>WARPLab's research focuses on both the science and systems of exploration robots in extreme, communication starved environments such as the deep sea. It aims to develop robotics and machine learning-based techniques to enable search, discovery, and mapping of natural phenomena that are difficult to observe and study due to various physical and information-theoretic challenges.<details style="display:inline;"closed><summary>More</summary>
 
 WARPLab is headed by Yogesh Girdhar, and is part of the Deep Submergence Laboratory (DSL), and the Applied Ocean Physics & Engineering (AOPE) department at Woods Hole Oceanographic Institution.</details></p></td>
@@ -66,7 +66,7 @@ WARPLab is headed by Yogesh Girdhar, and is part of the Deep Submergence Laborat
                       <td style="text-align:center">7:22</td>
                       <td style="text-align:center">Invited Talk</td>
                       <td style="text-align:center">Eyes In The Sky Without Boots On The Ground: Using Satellites And Machine Learning To Monitor Agriculture And Food Security During Covid-19</td>
-                      <td style="text-align:center"><a href="https://hannah-rae.github.io/)">Hannah Kerner (University of Maryland College Park)</></td>
+                      <td style="text-align:center">Hannah Kerner (University of Maryland College Park)</td>
                       <td style="text-align:left"><p style="display:inline";>Hannah Kerner is an Assistant Research Professor at the University of Maryland, College Park. Her research focuses on developing machine learning solutions for remote sensing applications in agricultural monitoring, food security, and Earth/planetary science.<details style="display:inline;"closed><summary>More</summary>She is the Machine Learning Lead and U.S. Domestic Co-Lead for NASA Harvest, NASA’s food security initiative run out of the University of Maryland.</details></p></td>
                       </tr><tr>
                       <td style="text-align:center">3</td>
@@ -74,8 +74,7 @@ WARPLab is headed by Yogesh Girdhar, and is part of the Deep Submergence Laborat
                       <td style="text-align:center">Invited Talk</td>
                       <td style="text-align:center">Autonomous Robot Manipulation For Planetary Science: Mars Sample Return & Climbing Lava Tubes
 </td>
-                      <td style="text-align:center"><a href="http://renaud-detry.net/
-">Renaud Detry (Jet Propulsion Lab)</></td>
+                      <td style="text-align:center">Renaud Detry (Jet Propulsion Lab)</td>
                       <td style="text-align:left"><p style="display:inline";>This talk will highlight work at NASA on robotic missions from a machine vision perspective. The discussion will focus on the science questions that NASA hopes to answer through returned samples from Mars and the challenges imposed on robotic systems used for scientific data collection.<details style="display:inline;"closed><summary>More</summary>
 
 Renaud Detry is the group leader for the Perception Systems group at NASA's Jet Propulsion Laboratory (JPL). Detry earned his Master's and Ph.D. degrees in computer engineering and robot learning from ULiege in 2006 and 2010. He served as a postdoc at KTH and ULiege between 2011 and 2015, before joining the Robotics and Mobility Section at JPL in 2016. His research interests are perception and learning for manipulation, robot grasping, and mobility, for terrestrial and planetary applications. At JPL, Detry leads the machine-vision team of the Mars Sample Return surface mission, and he leads and contributes to a variety of research projects related to industrial robot manipulation, orbital image understanding, in-space assembly, and autonomous wheeled or legged mobility for Mars, Europa, and Enceladus.</details></p></td>
@@ -84,16 +83,15 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">7:58</td>
                       <td style="text-align:center">Invited Paper</td>
                       <td style="text-align:center">Deepfish: A Realistic Fish‑Habitat Dataset To Evaluate Algorithms For Underwater Visual Analysis</td>
-                      <td style="text-align:center"><a href="https://github.com/alzayats/DeepFish">Alzayat Saleh (James Cook University), Issam Laradji, Dmitry Konovalov,  Michael Bradley, David Vazquez, Marcus Sheaves</></td>
+                      <td style="text-align:center">Alzayat Saleh (James Cook University), Issam Laradji, Dmitry Konovalov,  Michael Bradley, David Vazquez, Marcus Sheaves</td>
                       <td style="text-align:left">Visual analysis of complex fish habitats is an important step towards sustainable fisheries for human consumption and environmental protection.Deep Learning methods have shown great promise for scene analysis when trained on large-scale datasets.However, current datasets for fish analysis tend to focus on the classification task within constrained, plain environments which do not capture the complexity of underwater fish habitats.To address this limitation, we present DeepFish as a benchmark suite with a large-scale dataset to train and test methods for several computer vision tasks.The dataset consists of approximately 40 thousand images collected underwater from 20 habitats in the marine-environments of tropical Australia.</td>
                       </tr><tr>
                       <td style="text-align:center">5</td>
                       <td style="text-align:center">8:06</td>
                       <td style="text-align:center">Invited Paper</td>
                       <td style="text-align:center">Automatic 3D Mapping For Tree Diameter Measurements In Inventory Operations</td>
-                      <td style="text-align:center"><a href="https://norlab.ulaval.ca/research/montmorencydataset
-">Jean-Francois Tremblay (McGill), Martin Beland (U Laval), Francois Pomerleau (U Laval), Richard Gagnon, Philippe Giguere (U Laval)
-</></td>
+                      <td style="text-align:center">Jean-Francois Tremblay (McGill), Martin Beland (U Laval), Francois Pomerleau (U Laval), Richard Gagnon, Philippe Giguere (U Laval)
+</td>
                       <td style="text-align:left"><p style="display:inline";>Forestry is a major industry in many parts of the world, yet this potential domain of application area has been overlooked by the robotics community. For instance, forest inventory, a cornerstone of efficient and sustainable forestry, is still traditionally performed manually by qualified professionals.<details style="display:inline;"closed><summary>More</summary>The lack of automation in this particular task, consisting chiefly of measuring tree attributes, limits its speed, and, therefore, the area that can be economically covered. To this effect, we propose to use recent advancements in three‐dimensional mapping approaches in forests to automatically measure tree diameters from mobile robot observations. While previous studies showed the potential for such technology, they lacked a rigorous analysis of diameter estimation methods in challenging and large‐scale forest environments. Here, we validated multiple diameter estimation methods, including two novel ones, in a new publicly‐available dataset which includes four different forest sites, 11 trajectories, totaling 1458 tree observations, and 14,000 m2. From our extensive validation, we concluded that our mapping method is usable in the context of automated forest inventory, with our best diameter estimation method yielding a root mean square error of 3.45 cm for our whole dataset and 2.04 cm in ideal conditions consisting of mature forest with well‐spaced trees. Furthermore, we release this dataset to the public (https://norlab.ulaval.ca/research/montmorencydataset), to spur further research in robotic forest inventories. Finally, stemming from this large‐scale experiment, we provide recommendations for future deployments of mobile robots in a forestry context.</details></p></td>
                       </tr><tr>
                       <td style="text-align:center">6</td>
@@ -179,14 +177,14 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">9:00</td>
                       <td style="text-align:center">Keynote</td>
                       <td style="text-align:center">Dan Morris</td>
-                      <td style="text-align:center"><a href="https://www.microsoft.com/en-us/research/people/dan/">Dan Morris (Microsoft)</></td>
+                      <td style="text-align:center">Dan Morris (Microsoft)</td>
                       <td style="text-align:left">Program Director of Microsoft AI for Earth</td>
                       </tr><tr>
                       <td style="text-align:center">2</td>
                       <td style="text-align:center">9:25</td>
                       <td style="text-align:center">Session Keynote</td>
                       <td style="text-align:center">Giulio De Leo: Ml And Control Of Parasitic Diseases Of Poverty In Tropical And Subtropical Countries, With A Special Focus On Schistosomiasis</td>
-                      <td style="text-align:center"><a href="https://deleolab.stanford.edu/people">Giulio De Leo (Stanford)</></td>
+                      <td style="text-align:center">Giulio De Leo (Stanford)</td>
                       <td style="text-align:left"><p style="display:inline";>ML and control of parasitic diseases of poverty in tropical and subtropical countries, with a special focus on schistosomiasi. Giulio De Leo is a Professor at Stanford University and a Senior Fellow at Stanford Woods Institute for the Environment.<details style="display:inline;"closed><summary>More</summary>His lab works on theoretical ecology with a focus on disease ecology, marine conservation, and public health.</details></p></td>
                       </tr><tr>
                       <td style="text-align:center">3</td>
@@ -265,7 +263,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">11:00</td>
                       <td style="text-align:center">Session Keynote</td>
                       <td style="text-align:center">Pierre Gentine</td>
-                      <td style="text-align:center"><a href="https://gentinelab.eee.columbia.edu/people/pierre-gentine">Pierre Gentine (Columbia)</></td>
+                      <td style="text-align:center">Pierre Gentine (Columbia)</td>
                       <td style="text-align:left"><p style="display:inline";>Pierre Gentine is an Associate Professor in the department of Earth and Environmental Engineering in the School of Engineering and Applied Sciences. He is an Investigator in the Columbia Water Center and a director of the Graduate Program in Earth and Environmental Engineering.<details style="display:inline;"closed><summary>More</summary>Dr. Gentine investigates the continental hydrologic cycle though land-atmosphere interaction, boundary layer turbulence, convection, ecohydrology and remote sensing.</details></p></td>
                       </tr><tr>
                       <td style="text-align:center">2</td>
@@ -358,7 +356,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">13:30</td>
                       <td style="text-align:center">Session Keynote</td>
                       <td style="text-align:center">Michael Pritchard</td>
-                      <td style="text-align:center"><a href="https://sites.uci.edu/pritchard/">Michael Pritchard (University of California, Irvine)</></td>
+                      <td style="text-align:center">Michael Pritchard (University of California, Irvine)</td>
                       <td style="text-align:left">Michael Pritchard’s expertise is in next generation climate simulation, using new algorithms (cloud superparameterization) and new computing techniques (machine learning) to study clouds and their interaction with climate and weather, in high fidelity
 </td>
                       </tr><tr>
@@ -366,7 +364,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">13:55</td>
                       <td style="text-align:center">Session Keynote</td>
                       <td style="text-align:center"><a href="https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_11.pdf">Identifying Opportunities For Skillful Weather Prediction With Interpretable Neural Networks</></td>
-                      <td style="text-align:center"><a href="https://sites.google.com/rams.colostate.edu/barnesresearchgroup/home">Elizabeth A Barnes (Colorado State University)*; Kirsten Mayer (Colorado State University); Benjamin Toms (Intersphere, Inc.); Zane Martin (Colorado State University); Emily Gordon (Colorado State University)</></td>
+                      <td style="text-align:center">Elizabeth A Barnes (Colorado State University)*; Kirsten Mayer (Colorado State University); Benjamin Toms (Intersphere, Inc.); Zane Martin (Colorado State University); Emily Gordon (Colorado State University)</td>
                       <td style="text-align:left"><p style="display:inline";>The atmosphere is chaotic. This fundamental property of the climate system makes forecasting weather incredibly challenging: it's impossible to expect weather models to ever provide perfect predictions of the Earth system beyond timescales of approximately 2 weeks.<details style="display:inline;"closed><summary>More</summary>Instead, atmospheric scientists look for specific states of the climate system that lead to more predictable behaviour than others. Here, we demonstrate how neural networks can be used, not only to leverage these states to make skillful predictions, but moreover to identify the climatic conditions that lead to enhanced predictability. Furthermore, we employ a neural network interpretability method called ``layer-wise relevance propagation'' to create heatmaps of the regions in the input most relevant for a network's output. For Earth scientists, these relevant regions for the neural network's prediction are by far the most important product of our study: they provide scientific insight into the physical mechanisms that lead to enhanced weather predictability. While we demonstrate our approach for the atmospheric science domain, this methodology is applicable to a large range of geoscientific problems.</details></p></td>
                       </tr><tr>
                       <td style="text-align:center">3</td>
@@ -473,14 +471,14 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">15:30</td>
                       <td style="text-align:center">Session Keynote</td>
                       <td style="text-align:center">Stephan Mandt</td>
-                      <td style="text-align:center"><a href="http://www.stephanmandt.com/">Stephan Mandt (University of California, Irvine)</></td>
+                      <td style="text-align:center">Stephan Mandt (University of California, Irvine)</td>
                       <td style="text-align:left"><p style="display:inline";>Stephan Mandt is an Assistant Professor of Computer Science at the University of California, Irvine. From 2016 until 2018, he was a Senior Researcher and Head of the statistical machine learning group at Disney Research, first in Pittsburgh and later in Los Angeles.<details style="display:inline;"closed><summary>More</summary>He held previous postdoctoral positions at Columbia University and Princeton University. Stephan holds a Ph.D. in Theoretical Physics from the University of Cologne. He is a Fellow of the German National Merit Foundation, a Kavli Fellow of the U.S. National Academy of Sciences, and was a visiting researcher at Google Brain. Stephan regularly serves as an Area Chair for NeurIPS, ICML, AAAI, and ICLR, and is a member of the Editorial Board of JMLR. His research is currently supported by NSF, DARPA, Intel, and Qualcomm.</details></p></td>
                       </tr><tr>
                       <td style="text-align:center">3</td>
                       <td style="text-align:center">15:55</td>
                       <td style="text-align:center">Session Keynote</td>
                       <td style="text-align:center">Rose Yu</td>
-                      <td style="text-align:center"><a href="http://roseyu.com/">Rose Yu (University of California, San Diego)</></td>
+                      <td style="text-align:center">Rose Yu (University of California, San Diego)</td>
                       <td style="text-align:left"><p style="display:inline";>Rose Yu assistant professor at UC San Diego department of Computer Science and Engineering. She works on the theory and application of machine learning, especially for large-scale spatiotemporal data.<details style="display:inline;"closed><summary>More</summary>I am generally interested in optimization, deep learning, and spatiotemporal reasoning. I am particularly excited about the interplay between physics and machine learning. My work has been applied to learning dynamical systems in sustainability, health and physical sciences. For more details, see my curriculum vitae. For prospective students, please read this before emailing me.</details></p></td>
                       </tr><tr>
                       <td style="text-align:center">4</td>
@@ -645,7 +643,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">19:05</td>
                       <td style="text-align:center">Session Keynote</td>
                       <td style="text-align:center">Stephan Rasp</td>
-                      <td style="text-align:center"><a href="https://raspstephan.github.io/">Stephan Rasp (ClimateAI)</></td>
+                      <td style="text-align:center">Stephan Rasp (ClimateAI)</td>
                       <td style="text-align:left">Senior Data Scientist at ClimateAI</td>
                       </tr><tr>
                       <td style="text-align:center">2</td>
