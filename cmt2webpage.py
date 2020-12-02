@@ -145,8 +145,8 @@ for xx, session in enumerate(sessions):
             author = talk['Authors'].to_numpy()[0].replace('()', '')
 
             link = talk['Link'].to_numpy()[0]
-            if type(link) == str:
-                author = '<p><a href="{}">{}</a></p>'.format(link.strip(), author.strip())
+            #if type(link) == str:
+            #    author = '<p><a href="{}">{}</a></p>'.format(link.strip(), author.strip())
 
             # split long abstracts/bios in to visible and "more" after 2 sentences
             # hacky 
