@@ -143,9 +143,9 @@ for xx, session in enumerate(sessions):
                         longform = abstracts[abstracts['Paper ID'] == paper_id]['Abstract'].to_numpy()[0]
 
             author = talk['Authors'].to_numpy()[0].replace('()', '')
-            link = talk['Link'].to_numpy()[0]
-            if type(link) == str:
-                author = '<a href="{}">{}</>'.format(link.strip(), author.strip())
+            #link = talk['Link'].to_numpy()[0]
+            #if type(link) == str:
+            #    author = '<a href="{}">{}</>'.format(link.strip(), author.strip())
 
             # split long abstracts/bios in to visible and "more" after 2 sentences
             # hacky 
