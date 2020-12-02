@@ -105,7 +105,7 @@ WARPLab is headed by Yogesh Girdhar, and is part of the Deep Submergence Laborat
                       <td style="text-align:center">7:22</td>
                       <td style="text-align:center">Invited Talk</td>
                       <td style="text-align:center">Eyes In The Sky Without Boots On The Ground: Using Satellites And Machine Learning To Monitor Agriculture And Food Security During Covid-19</td>
-                      <td style="text-align:center"><a href="https://hannah-rae.github.io/)">Hannah Kerner (University of Maryland College Park)</a></td>
+                      <td style="text-align:center"><a href="https://hannah-rae.github.io/">Hannah Kerner (University of Maryland College Park)</a></td>
                       <td style="text-align:left">Hannah Kerner is an Assistant Research Professor at the University of Maryland, College Park. Her research focuses on developing machine learning solutions for remote sensing applications in agricultural monitoring, food security, and Earth/planetary science. She is the Machine Learning Lead and U.S. Domestic Co-Lead for NASA Harvest, NASA’s food security initiative run out of the University of Maryland.</td>
                       </tr><tr>
                       <td style="text-align:center">3</td>
