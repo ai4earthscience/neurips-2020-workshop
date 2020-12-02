@@ -22,7 +22,7 @@ Topics include demonstrating machine learning techniques in fields related to ea
 | 12:45 | 13:25 | [Keynote: Milind Tambe](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#keynote)         | S. Karthik Mukkavilli |   
 | 13:25 | 15:25 | [Atmosphere](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#atmosphere)        | Tom Beucler |  
 | 15:25 | 17:20 | [ML Theory](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#theory) | Karthik Kashinath |  
-| 17:20 | 18:00 | [People-Earth](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#people-earth]         | Mayur Mudigonda |  
+| 17:20 | 18:00 | [People-Earth](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#people-earth)         | Mayur Mudigonda |  
 | 18:00 | 19:00 | [Solid Earth](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#solid-earth)            | Kelly Kochanski |  
 | 19:00 | 20:55 | [Datasets](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#datasets)            | Karthik Kashinath |  
 | 20:55 | 21:00 | Closing Remarks                  | Organizers |   
