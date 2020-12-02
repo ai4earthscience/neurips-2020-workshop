@@ -40,6 +40,7 @@ sessions = ['Welcome', 'Sensors',
             'Ecology', 
             'Water', 'Keynote', 
             'Atmosphere', 
+            'People-Earth',
             'Theory',
             'Earth', 
             'Datasets', 'Closing']
@@ -56,7 +57,7 @@ top = """
 | 12:45 | 13:25 | [Keynote: Milind Tambe](https://teamcore.seas.harvard.edu/people/milind-tambe)  | S. Karthik Mukkavilli |   
 | 13:25 | 15:25 | [Atmosphere](#atmosphere)        | Tom Beucler |  
 | 15:25 | 17:20 | [ML Theory](#theory) | Karthik Kashinath |  
-| 17:20 | 18:00 | People-Earth Roundtable          | Mayur Mudigonda |  
+| 17:20 | 18:00 | [People-Earth](#people-earth)          | Mayur Mudigonda |  
 | 18:00 | 19:00 | [Solid Earth](#solid-earth)            | Kelly Kochanski |  
 | 19:00 | 20:55 | [Datasets](#datasets)            | Karthik Kashinath |  
 | 20:55 | 21:00 | Closing Remarks                  | Organizers |   
@@ -193,7 +194,7 @@ for xx, session in enumerate(sessions):
             embed()
     fo.write("</table>\n")
     fo.write("</html>\n\n")
-    session_jumps = ['[{}](#{})'.format(s, s.lower()) for s in sessions]
+    session_jumps = ['[{}](#{})'.format(s, s.lower()) for s in sessions if s not in ['Welcome', 'Closing']]
     fo.write('### Jump to: [Overview](#overview-schedule)  -  {}\n\n'.format('  -  '.join(session_jumps)))
 fo.close()
 

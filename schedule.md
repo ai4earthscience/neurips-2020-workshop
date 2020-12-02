@@ -10,7 +10,7 @@
 | 12:45 | 13:25 | [Keynote: Milind Tambe](https://teamcore.seas.harvard.edu/people/milind-tambe)  | S. Karthik Mukkavilli |   
 | 13:25 | 15:25 | [Atmosphere](#atmosphere)        | Tom Beucler |  
 | 15:25 | 17:20 | [ML Theory](#theory) | Karthik Kashinath |  
-| 17:20 | 18:00 | People-Earth Roundtable          | Mayur Mudigonda |  
+| 17:20 | 18:00 | [People-Earth](#people-earth)          | Mayur Mudigonda |  
 | 18:00 | 19:00 | [Solid Earth](#solid-earth)            | Kelly Kochanski |  
 | 19:00 | 20:55 | [Datasets](#datasets)            | Karthik Kashinath |  
 | 20:55 | 21:00 | Closing Remarks                  | Organizers |   
@@ -56,7 +56,7 @@
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Welcome](#welcome)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)  -  [Closing](#closing)
+### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
 
 
@@ -176,7 +176,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Welcome](#welcome)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)  -  [Closing](#closing)
+### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
 
 
@@ -270,7 +270,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Welcome](#welcome)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)  -  [Closing](#closing)
+### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
 
 
@@ -371,7 +371,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Welcome](#welcome)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)  -  [Closing](#closing)
+### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
 
 
@@ -416,7 +416,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Welcome](#welcome)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)  -  [Closing](#closing)
+### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
 
 
@@ -532,7 +532,52 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Welcome](#welcome)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)  -  [Closing](#closing)
+### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
+
+
+
+---
+
+## People-Earth  
+
+
+  
+<html>
+<p style="display:inline";>
+<table>
+  <colgroup>
+  <col span="1" style="width: 1%;">
+  <col span="1" style="width: 2%;">
+  <col span="1" style="width: 8%;">
+  <col span="1" style="width: 20%;">
+  <col span="1" style="width: 15%;">
+  </colgroup>
+  <tr>
+    <th>#</th>
+    <th>Start Time</th>
+    <th>Type</th>
+    <th>Title</th>
+    <th>Speakers</th>
+    <th>Details</th>
+  </tr>
+<tr>
+                      <td style="text-align:center">0</td>
+                      <td style="text-align:center">17:20</td>
+                      <td style="text-align:center">Introduction</td>
+                      <td style="text-align:center">Introduction</td>
+                      <td style="text-align:center">Mayur Mudigonda (Berkeley Lab)</td>
+                      <td style="text-align:left">Short introduction to the session</td>
+                      </tr><tr>
+                      <td style="text-align:center">1</td>
+                      <td style="text-align:center">17:25</td>
+                      <td style="text-align:center">Discussion</td>
+                      <td style="text-align:center">Q/A And Discussion</td>
+                      <td style="text-align:center">Mayur Mudigonda (Berkeley Lab)</td>
+                      <td style="text-align:left">Live discussion and Q&A with the speakers. Post questions to slack to hear from our speakers.</td>
+                      </tr></table>
+</html>
+
+### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
 
 
@@ -633,7 +678,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Welcome](#welcome)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)  -  [Closing](#closing)
+### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
 
 
@@ -713,7 +758,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Welcome](#welcome)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)  -  [Closing](#closing)
+### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
 
 
@@ -814,7 +859,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Welcome](#welcome)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)  -  [Closing](#closing)
+### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
 
 
@@ -852,5 +897,5 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule)  -  [Welcome](#welcome)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)  -  [Closing](#closing)
+### Jump to: [Overview](#overview-schedule)  -  [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Earth](#earth)  -  [Datasets](#datasets)
 
