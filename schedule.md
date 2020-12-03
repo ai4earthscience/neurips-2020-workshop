@@ -51,7 +51,7 @@
                       <td style="text-align:center">6:45</td>
                       <td style="text-align:center">Introduction</td>
                       <td style="text-align:center">Opening Remarks</td>
-                      <td style="text-align:center">Karthik Mukkavilli (Berkeley Lab)</td>
+                      <td style="text-align:center">Karthik Mukkavilli (UC Irvine)</td>
                       <td style="text-align:left">Short introduction to the session</td>
                       </tr></table>
 </html>
@@ -303,7 +303,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">10:55</td>
                       <td style="text-align:center">Introduction</td>
                       <td style="text-align:center">Introduction</td>
-                      <td style="text-align:center">Karthik Mukkavilli (Berkeley Lab)</td>
+                      <td style="text-align:center">Karthik Mukkavilli (UC Irvine)</td>
                       <td style="text-align:left">Short introduction to the session</td>
                       </tr><tr>
                       <td style="text-align:center">1</td>
@@ -345,7 +345,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">12:20</td>
                       <td style="text-align:center">Discussion</td>
                       <td style="text-align:center">Q/A And Discussion</td>
-                      <td style="text-align:center">Karthik Mukkavilli (Berkeley Lab)</td>
+                      <td style="text-align:center">Karthik Mukkavilli (UC Irvine)</td>
                       <td style="text-align:left">Live discussion and Q&A with the speakers. Post questions to slack to hear from our speakers.</td>
                       </tr><tr>
                       <td style="text-align:center">7</td>
@@ -411,7 +411,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">13:15</td>
                       <td style="text-align:center">Discussion</td>
                       <td style="text-align:center">Q/A And Discussion</td>
-                      <td style="text-align:center">Karthik Mukkavilli (Berkeley Lab)</td>
+                      <td style="text-align:center">Karthik Mukkavilli (UC Irvine)</td>
                       <td style="text-align:left">Live discussion and Q&A with the speakers. Post questions to slack to hear from our speakers.</td>
                       </tr></table>
 </html>
@@ -565,14 +565,14 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">17:20</td>
                       <td style="text-align:center">Introduction</td>
                       <td style="text-align:center">Introduction</td>
-                      <td style="text-align:center">Mayur Mudigonda (Berkeley Lab)</td>
+                      <td style="text-align:center">Karthik Mukkavilli (UC Irvine)</td>
                       <td style="text-align:left">Short introduction to the session</td>
                       </tr><tr>
                       <td style="text-align:center">1</td>
                       <td style="text-align:center">17:25</td>
                       <td style="text-align:center">Discussion</td>
                       <td style="text-align:center">Q/A And Discussion</td>
-                      <td style="text-align:center">Mayur Mudigonda (Berkeley Lab)</td>
+                      <td style="text-align:center">Karthik Mukkavilli (UC Irvine)</td>
                       <td style="text-align:left">Live discussion and Q&A with the speakers. Post questions to slack to hear from our speakers.</td>
                       </tr></table>
 </html>
@@ -892,7 +892,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">20:55</td>
                       <td style="text-align:center">Closing</td>
                       <td style="text-align:center">Closing Remarks</td>
-                      <td style="text-align:center">Karthik Mukkavilli (Berkeley Lab)</td>
+                      <td style="text-align:center">Karthik Mukkavilli (UC Irvine)</td>
                       <td style="text-align:left">Closing & Thanks</td>
                       </tr></table>
 </html>
