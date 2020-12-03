@@ -10,8 +10,7 @@ description: org
 
 <img src="images/karthik.jpg" alt="karthik" width="100"/>
 
-[S. Karthik Mukkavilli](https://www.linkedin.com/in/karthikmukkavilli/), Workshop Chair, [@DrMukkavilli](https://twitter.com/DrMukkavilli)  
-UC Irvine; 
+[S. Karthik Mukkavilli](https://twitter.com/DrMukkavilli), AI4Earth Workshop Chair, UC Irvine 
 
 ---
 
