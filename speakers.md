@@ -3,7 +3,8 @@ layout: default
 title: AI for Earth Sciences
 --- 
 
-## Overview
+
+# Speaker Info
 
 * Join our [slack](https://join.slack.com/t/ai4earth/shared_invite/zt-jkg0i982-VYRAd0HbjCG_6970Hcqfwg) to get the latest info and interact with other speakers/authors on the day of the workshop.  
 

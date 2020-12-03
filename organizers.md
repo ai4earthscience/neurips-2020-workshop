@@ -1,9 +1,3 @@
----
-layout: default
-title: AI for Earth Sciences
-description: org
----
-
 # Organizers
 
 ## Core Team 

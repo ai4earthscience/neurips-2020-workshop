@@ -1,9 +1,4 @@
----
-layout: default
-title: AI for Earth Sciences
---- 
-
-## FAQ
+# FAQ
 
 #### Q: My paper has been accepted. Now what?   
 A: Each accepted paper will be presented in a pre-recorded oral session of no more than 20 minutes.  The NeurIPS recording team, Slideslive, will contact all accepted papers via email with presentation instructions in early November. Recorded presentations for contributed talks must be uploaded no later than November 14. Camera-ready submissions should be updated on CMT before Dec. 7, though earlier is better as they will be added to the website. On the day of the workshop, we will stream pre-recorded talks and host an interactive Q&A session with all speakers. 
