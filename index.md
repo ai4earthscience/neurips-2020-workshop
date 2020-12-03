@@ -11,7 +11,7 @@ Topics include demonstrating machine learning techniques in fields related to ea
 
 ## Join our [slack for live Q&A](https://join.slack.com/t/ai4earth/shared_invite/zt-jkg0i982-VYRAd0HbjCG_6970Hcqfwg)
 
-## Overview Schedule
+## Overview Schedule in PST (Vancouver time)  
 
 | Start | End | Session | Session Chair |  
 | ---- | ---- | --------- | ---------------- |  

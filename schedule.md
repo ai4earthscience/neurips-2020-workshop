@@ -1,6 +1,6 @@
 
 
-# Overview Schedule
+# Overview Schedule in PST (Vancouver time)
 | Start | End | Session | Session Chair |  
 | ---- | ---- | --------- | ---------------- |  
 | 06:45 | 06:55 | [Opening Remarks](#welcome)                  | S. Karthik Mukkavilli |  
@@ -215,7 +215,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">1</td>
                       <td style="text-align:center">9:00</td>
                       <td style="text-align:center">Keynote</td>
-                      <td style="text-align:center">Dan Morris</td>
+                      <td style="text-align:center">Dan Morris: Taxonomizing “Impact” In Ai For Sustainability</td>
                       <td style="text-align:center"><a href="https://www.microsoft.com/en-us/research/people/dan/">Dan Morris (Microsoft)</a></td>
                       <td style="text-align:left">Program Director of Microsoft AI for Earth</td>
                       </tr><tr>

@@ -49,7 +49,7 @@ sessions = ['Welcome',
 
 top = """
 
-# Overview Schedule
+# Overview Schedule in PST (Vancouver time)
 | Start | End | Session | Session Chair |  
 | ---- | ---- | --------- | ---------------- |  
 | 06:45 | 06:55 | [Opening Remarks](#welcome)                  | S. Karthik Mukkavilli |  
