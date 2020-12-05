@@ -12,8 +12,8 @@
 | 15:25 | 17:20 | [ML Theory](#theory) | Karthik Kashinath | Stephan Mandt, Rose Yu |  
 | 17:20 | 18:00 | [People-Earth](#people-earth)          | Mayur Mudigonda | Dan Kammen, Milind Tambe  |  
 | 18:00 | 19:00 | [Solid-Earth](#solid-earth)            | Kelly Kochanski | --- |   
-| 19:00 | 20:55 | [Datasets](#datasets)            | Karthik Kashinath | Stephan Rasp | 
-| 20:55 | 21:00 | [Closing Remarks](#closing)                  | Organizers  | -- | 
+| 19:00 | 20:55 | [Datasets](#datasets)            | Karthik Kashinath | Stephan Rasp |  
+| 20:55 | 21:00 | [Closing Remarks](#closing)                  | Organizers  | -- |   
 
 ## [Join our slack for live Q&A](https://join.slack.com/t/ai4earth/shared_invite/zt-jkg0i982-VYRAd0HbjCG_6970Hcqfwg)  
 
