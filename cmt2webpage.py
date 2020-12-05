@@ -47,6 +47,11 @@ sessions = ['Welcome',
             'Solid-Earth', 
             'Datasets', 'Closing']
 
+session_panelists = {'People-Earth':[
+                  'a href="https://teamcore.seas.harvard.edu/people/milind-tambe">Milind Tambe (Harvard, Google)', 
+                  'a href="http://kammen.berkeley.edu/">Dan Kammen (Berkeley)', 
+                  'Dan Kammen']}
+
 top = """
 
 # Overview Schedule in PST (Vancouver time)
@@ -94,7 +99,7 @@ table = """
 
 abs_ids = list(abstracts['Paper ID'].astype(np.int))
 default_details = {'Introduction':'Short introduction to the session', 
-                   'Discussion':'Live discussion and Q&A with the speakers. Post questions to slack to hear from our speakers.', 
+        'Discussion':'Post questions to slack to hear from our speakers including: ', 
                    'Welcome':'Welcome', 
                    'Closing':'Closing & Thanks', 
                    }
@@ -114,6 +119,9 @@ for xx, session in enumerate(sessions):
     fo.write(table)
     session_talks = papers.loc[papers['Primary Subject Area'] == session]
     order = sorted(list(session_talks['Order'].to_numpy().astype(np.int)))
+    panelists = []
+    if session in session_panelists.keys():
+        panelists.extend(session_panelists[session])
     for ind in order:
         talk = session_talks.loc[session_talks['Order'] == ind]
         paper_id = talk['Paper ID'].to_numpy()[0]
@@ -155,6 +163,8 @@ for xx, session in enumerate(sessions):
             if type(link) == str:
                 author = '<a href="{}">{}</a>'.format(link.strip(), author.strip())
 
+            if 'Keynote' in talk_type:
+                panelists.append(author)
             # split long abstracts/bios in to visible and "more" after 2 sentences
             # hacky 
             if type(longform) != type(''):
@@ -173,6 +183,8 @@ for xx, session in enumerate(sessions):
             else:
                 longline = longform
 
+            if talk_type == 'Discussion':
+                longline += ' '.join(panelists)
             line = """<tr>
                       <td style="text-align:center">{}</td>
                       <td style="text-align:center">{}</td>
@@ -191,6 +203,7 @@ for xx, session in enumerate(sessions):
         except Exception as e: 
             print(e)
             embed()
+    print(panelists)
     fo.write("</table>\n")
     fo.write("</html>\n\n")
     session_jumps = ['[{}](#{})'.format(s, s.lower()) for s in sessions if s not in ['Welcome', 'Closing']]
