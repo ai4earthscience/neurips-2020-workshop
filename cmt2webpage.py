@@ -131,7 +131,8 @@ for xx, session in enumerate(sessions):
             talk_time = '---'
         longform = "" 
         longline = ""
-        title = talk['Paper Title'].to_numpy()[0].title()
+        title = talk['Paper Title'].to_numpy()[0]#.title() # title resulted in 'S  in "a machine learner's guide to streamflow..."
+
        
         try:
             # enter abstract
