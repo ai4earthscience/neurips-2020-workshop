@@ -99,7 +99,7 @@ table = """
 
 abs_ids = list(abstracts['Paper ID'].astype(np.int))
 default_details = {'Introduction':'Short introduction to the session', 
-        'Discussion':'Post questions to slack to hear from our authors. ', 
+        'Discussion':'Post your questions to slack to hear from our authors in live Q&A.', 
                    'Welcome':'Welcome', 
                    'Closing':'Closing & Thanks', 
                    }
@@ -190,7 +190,9 @@ for xx, session in enumerate(sessions):
 
             if talk_type == 'Discussion':
                 if len(panelists):
-                    longline += 'Panelists include: ' + ' and '.join(panelists) 
+                    longline += ' Discussion panelists include: ' + ' and '.join(panelists) 
+                if session == 'People-Earth':
+                    longline = ' Discussion panelists include: ' + ' and '.join(panelists) 
             line = """<tr>
                       <td style="text-align:center">{}</td>
                       <td style="text-align:center">{}</td>
