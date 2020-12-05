@@ -266,7 +266,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">Discussion</td>
                       <td style="text-align:center">Q/A And Discussion</td>
                       <td style="text-align:center">Natasha Dudek (McGill, Mila)</td>
-                      <td style="text-align:left">Post questions to slack to hear from our speakers including: <a href="https://www.microsoft.com/en-us/research/people/dan/">Dan Morris (Microsoft)</a> <a href="https://deleolab.stanford.edu/people">Giulio De Leo (Stanford)</a></td>
+                      <td style="text-align:left">Post questions to slack to hear from our speakers including: <a href="https://www.microsoft.com/en-us/research/people/dan/">Dan Morris (Microsoft)</a>, <a href="https://deleolab.stanford.edu/people">Giulio De Leo (Stanford)</a></td>
                       </tr></table>
 </html>
 
@@ -493,7 +493,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">Discussion</td>
                       <td style="text-align:center">Q/A And Discussion</td>
                       <td style="text-align:center">Tom Beucler (UCI, Columbia)</td>
-                      <td style="text-align:left">Post questions to slack to hear from our speakers including: <a href="https://sites.uci.edu/pritchard/">Michael Pritchard (University of California, Irvine)</a> <a href="https://sites.google.com/rams.colostate.edu/barnesresearchgroup/home">Elizabeth A Barnes (Colorado State University)*; Kirsten Mayer (Colorado State University); Benjamin Toms (Intersphere, Inc.); Zane Martin (Colorado State University); Emily Gordon (Colorado State University)</a></td>
+                      <td style="text-align:left">Post questions to slack to hear from our speakers including: <a href="https://sites.uci.edu/pritchard/">Michael Pritchard (University of California, Irvine)</a>, <a href="https://sites.google.com/rams.colostate.edu/barnesresearchgroup/home">Elizabeth A Barnes (Colorado State University)*; Kirsten Mayer (Colorado State University); Benjamin Toms (Intersphere, Inc.); Zane Martin (Colorado State University); Emily Gordon (Colorado State University)</a></td>
                       </tr><tr>
                       <td style="text-align:center">8</td>
                       <td style="text-align:center">---</td>
@@ -573,7 +573,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">Discussion</td>
                       <td style="text-align:center">Q/A And Discussion</td>
                       <td style="text-align:center">Mayur Mudigonda (Berkeley Lab)</td>
-                      <td style="text-align:left">Post questions to slack to hear from our speakers including: <a href="https://teamcore.seas.harvard.edu/people/milind-tambe">Milind Tambe (Harvard, Google) <a href="http://kammen.berkeley.edu/">Dan Kammen (Berkeley) Dan Kammen</td>
+                      <td style="text-align:left">Post questions to slack to hear from our speakers including: <a href="https://teamcore.seas.harvard.edu/people/milind-tambe">Milind Tambe (Harvard, Google), <a href="http://kammen.berkeley.edu/">Dan Kammen (Berkeley), Dan Kammen</td>
                       </tr></table>
 </html>
 
@@ -667,7 +667,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">Discussion</td>
                       <td style="text-align:center">Q/A And Discussion</td>
                       <td style="text-align:center">Karthik Kashinath (Berkeley Lab)</td>
-                      <td style="text-align:left">Post questions to slack to hear from our speakers including: <a href="http://www.stephanmandt.com/">Stephan Mandt (University of California, Irvine)</a> <a href="http://roseyu.com/">Rose Yu (University of California, San Diego)</a></td>
+                      <td style="text-align:left">Post questions to slack to hear from our speakers including: <a href="http://www.stephanmandt.com/">Stephan Mandt (University of California, Irvine)</a>, <a href="http://roseyu.com/">Rose Yu (University of California, San Diego)</a></td>
                       </tr><tr>
                       <td style="text-align:center">11</td>
                       <td style="text-align:center">---</td>

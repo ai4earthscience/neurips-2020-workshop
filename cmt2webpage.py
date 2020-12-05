@@ -164,7 +164,11 @@ for xx, session in enumerate(sessions):
                 author = '<a href="{}">{}</a>'.format(link.strip(), author.strip())
 
             if 'Keynote' in talk_type:
-                panelists.append(author)
+                if 'Elizabeth Barnes' in author:
+                    a = author.split(';')[0]
+                    panelists.append(a)
+                else:
+                    panelists.append(author)
             # split long abstracts/bios in to visible and "more" after 2 sentences
             # hacky 
             if type(longform) != type(''):
@@ -184,7 +188,7 @@ for xx, session in enumerate(sessions):
                 longline = longform
 
             if talk_type == 'Discussion':
-                longline += ' '.join(panelists)
+                longline += ', '.join(panelists)
             line = """<tr>
                       <td style="text-align:center">{}</td>
                       <td style="text-align:center">{}</td>
