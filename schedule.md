@@ -1,7 +1,7 @@
 
 
 # Overview Schedule in PST (Vancouver time)
-| Start | End | Session | Session Chair | Keynotes & Panelists  |   
+| Start | End | Session | Session Chair | Keynotes / Panelists  |   
 | ---- | ---- | --------- | ------------------- |  --------------------------- | 
 | 06:45 | 06:55 | [Opening Remarks](#welcome)  | S. Karthik Mukkavilli | --- |  
 | 06:55 | 08:55 | [Sensors and Sampling](#sensors) | Johanna Hansen | Yogesh Girdhar, Hannah Kerner, Renaud Detry |   
@@ -565,14 +565,14 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">17:20</td>
                       <td style="text-align:center">Introduction</td>
                       <td style="text-align:center">Introduction</td>
-                      <td style="text-align:center">Karthik Kashinath (Berkeley Lab)</td>
+                      <td style="text-align:center">Mayur Mudigonda (Berkeley Lab)</td>
                       <td style="text-align:left">Short introduction to the session</td>
                       </tr><tr>
                       <td style="text-align:center">1</td>
                       <td style="text-align:center">17:25</td>
                       <td style="text-align:center">Discussion</td>
                       <td style="text-align:center">Q/A And Discussion</td>
-                      <td style="text-align:center">Karthik Kashinath (Berkeley Lab)</td>
+                      <td style="text-align:center">Mayur Mudigonda (Berkeley Lab)</td>
                       <td style="text-align:left">Live discussion and Q&A with the speakers. Post questions to slack to hear from our speakers.</td>
                       </tr></table>
 </html>
