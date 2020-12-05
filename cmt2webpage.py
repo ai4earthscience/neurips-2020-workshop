@@ -50,7 +50,7 @@ sessions = ['Welcome',
 top = """
 
 # Overview Schedule in PST (Vancouver time)
-| Start | End | Session | Session Chair | Keynotes & Panelists   
+| Start | End | Session | Session Chair | Keynotes & Panelists  |   
 | ---- | ---- | --------- | ---------------- |  
 | 06:45 | 06:55 | [Opening Remarks](#welcome)  | S. Karthik Mukkavilli | --- |  
 | 06:55 | 08:55 | [Sensors and Sampling](#sensors) | Johanna Hansen | Yogesh Girdhar, Hannah Kerner, Renaud Detry |   
