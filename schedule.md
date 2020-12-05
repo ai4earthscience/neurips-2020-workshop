@@ -266,7 +266,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">Discussion</td>
                       <td style="text-align:center">Q/A And Discussion</td>
                       <td style="text-align:center">Natasha Dudek (McGill, Mila)</td>
-                      <td style="text-align:left">Post questions to slack to hear from our panelists including: <a href="https://www.microsoft.com/en-us/research/people/dan/">Dan Morris (Microsoft)</a>, <a href="https://deleolab.stanford.edu/people">Giulio De Leo (Stanford)</a></td>
+                      <td style="text-align:left">Post questions to slack to hear from our panelists including: <a href="https://www.microsoft.com/en-us/research/people/dan/">Dan Morris (Microsoft)</a>, <a href="https://deleolab.stanford.edu/people">Giulio De Leo (Stanford)</a>, Prathamesh Dharangutte (New York University)*, Maxim Samarin (University of Basel)*</td>
                       </tr></table>
 </html>
 
@@ -346,7 +346,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">Discussion</td>
                       <td style="text-align:center">Q/A And Discussion</td>
                       <td style="text-align:center">Karthik Mukkavilli (UC Irvine)</td>
-                      <td style="text-align:left">Post questions to slack to hear from our panelists including: <a href="https://gentinelab.eee.columbia.edu/people/pierre-gentine">Pierre Gentine (Columbia)</a>, Martin Gauch (University of Waterloo)*, Grey S Nearing (Google Research)*, Gonzalo Mateo-Garcia (University of Valencia)*</td>
+                      <td style="text-align:left">Post questions to slack to hear from our panelists including: <a href="https://gentinelab.eee.columbia.edu/people/pierre-gentine">Pierre Gentine (Columbia)</a>, Martin Gauch (University of Waterloo)*, Grey S Nearing (Google Research)*, Gonzalo Mateo-Garcia (University of Valencia)*, Xinrun Wang (Nanyang Technological University)*</td>
                       </tr><tr>
                       <td style="text-align:center">7</td>
                       <td style="text-align:center">---</td>
@@ -667,7 +667,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">Discussion</td>
                       <td style="text-align:center">Q/A And Discussion</td>
                       <td style="text-align:center">Karthik Kashinath (Berkeley Lab)</td>
-                      <td style="text-align:left">Post questions to slack to hear from our panelists including: <a href="http://www.stephanmandt.com/">Stephan Mandt (University of California, Irvine)</a>, <a href="http://roseyu.com/">Rose Yu (University of California, San Diego)</a></td>
+                      <td style="text-align:left">Post questions to slack to hear from our panelists including: <a href="http://www.stephanmandt.com/">Stephan Mandt (University of California, Irvine)</a>, <a href="http://roseyu.com/">Rose Yu (University of California, San Diego)</a>, Tharun Mohandoss (Radiant Earth Foundation), Raechel  D Walker (University of California, San Diego)*, Rishabh Gupta (University of Tokyo)*</td>
                       </tr><tr>
                       <td style="text-align:center">11</td>
                       <td style="text-align:center">---</td>
@@ -747,7 +747,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">Discussion</td>
                       <td style="text-align:center">Q/A And Discussion</td>
                       <td style="text-align:center">Kelly Kochanski (Boulder)</td>
-                      <td style="text-align:left">Post questions to slack to hear from our panelists including: Mandar Kulkarni (Schlumberger)*</td>
+                      <td style="text-align:left">Post questions to slack to hear from our panelists including: Mandar Kulkarni (Schlumberger)*, Weiqiang Zhu (Stanford University)*, S.Mostafa Mousavi (Stanford University)*</td>
                       </tr><tr>
                       <td style="text-align:center">6</td>
                       <td style="text-align:center">---</td>
@@ -848,7 +848,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">Discussion</td>
                       <td style="text-align:center">Q/A And Discussion</td>
                       <td style="text-align:center">Karthik Kashinath (Berkeley Lab)</td>
-                      <td style="text-align:left">Post questions to slack to hear from our panelists including: <a href="https://raspstephan.github.io/">Stephan Rasp (ClimateAI)</a>, Catherine Tong (University of Oxford)*, Samriddhi Singla (University of California, Riverside)*</td>
+                      <td style="text-align:left">Post questions to slack to hear from our panelists including: <a href="https://raspstephan.github.io/">Stephan Rasp (ClimateAI)</a>, Catherine Tong (University of Oxford)*, Samriddhi Singla (University of California, Riverside)*, Hamed Alemohammad (Radiant Earth Foundation)*, Omkar Ranadive (Northwestern University)*</td>
                       </tr><tr>
                       <td style="text-align:center">9</td>
                       <td style="text-align:center">---</td>
