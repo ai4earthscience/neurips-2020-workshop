@@ -56,7 +56,7 @@ top = """
 | 06:55 | 08:55 | [Sensors and Sampling](#sensors) | Johanna Hansen | Yogesh Girdhar, Hannah Kerner, Renaud Detry |   
 | 08:55 | 10:55 | [Ecology](#ecology) | Natasha Dudek |  Dan Morris, Giulio De Leo |   
 | 10:55 | 12:45 | [Water](#water) | S. Karthik Mukkavilli | Pierre Gentine  |   
-| 12:45 | 13:25 | [Keynote: Milind Tambe](#keynote)  | S. Karthik Mukkavilli | Stephan Mandt |  
+| 12:45 | 13:25 | [Keynote: Milind Tambe](#keynote)  | S. Karthik Mukkavilli | Milind Tambe |  
 | 13:25 | 15:25 | [Atmosphere](#atmosphere)  | Tom Beucler | Michael Pritchard, Elizabeth Barnes |  
 | 15:25 | 17:20 | [ML Theory](#theory) | Karthik Kashinath | Stephan Mandt, Rose Yu |  
 | 17:20 | 18:00 | [People-Earth](#people-earth)          | Mayur Mudigonda | Dan Kammen, Milind Tambe  |  
