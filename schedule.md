@@ -144,7 +144,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">Discussion</td>
                       <td style="text-align:center">Q/A And Discussion</td>
                       <td style="text-align:center">Johanna Hansen (McGill, Mila)</td>
-                      <td style="text-align:left">Post questions to slack to hear from our panelists including: <a href="http://warp.whoi.edu">Yogesh Girdhar (WHOI)</a>, <a href="https://hannah-rae.github.io/">Hannah Kerner (University of Maryland College Park)</a>, <a href="http://renaud-detry.net/">Renaud Detry (Jet Propulsion Lab)</a></td>
+                      <td style="text-align:left">Post questions to slack to hear from our panelists including: <a href="http://warp.whoi.edu">Yogesh Girdhar (WHOI)</a>, <a href="https://hannah-rae.github.io/">Hannah Kerner (University of Maryland College Park)</a>, <a href="http://renaud-detry.net/">Renaud Detry (Jet Propulsion Lab)</a>, <a href="https://github.com/alzayats/DeepFish">Alzayat Saleh (James Cook University), Issam Laradji, Dmitry Konovalov,  Michael Bradley, David Vazquez, Marcus Sheaves</a>, <a href="https://norlab.ulaval.ca/research/montmorencydataset">Jean-Francois Tremblay (McGill), Martin Beland (U Laval), Francois Pomerleau (U Laval), Richard Gagnon, Philippe Giguere (U Laval)</a></td>
                       </tr><tr>
                       <td style="text-align:center">8</td>
                       <td style="text-align:center">---</td>
