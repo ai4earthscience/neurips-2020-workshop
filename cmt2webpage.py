@@ -99,7 +99,7 @@ table = """
 
 abs_ids = list(abstracts['Paper ID'].astype(np.int))
 default_details = {'Introduction':'Short introduction to the session', 
-        'Discussion':'Post questions to slack to hear from our panelists including: ', 
+        'Discussion':'Post questions to slack to hear from our authors. ', 
                    'Welcome':'Welcome', 
                    'Closing':'Closing & Thanks', 
                    }
@@ -163,12 +163,13 @@ for xx, session in enumerate(sessions):
             if type(link) == str:
                 author = '<a href="{}">{}</a>'.format(link.strip(), author.strip())
 
-            if talk_type in ['Keynote', 'Session Keynote', 'Spotlight Talk', 'Invited Talk', 'Invited Paper'] :
+            if talk_type in ['Keynote', 'Session Keynote'] :
                 #if 'Elizabeth A Barnes' in author:
                 a = author.split(';')[0]
                 #    panelists.append(a)
                 #else:
                 panelists.append(a)
+            
             # split long abstracts/bios in to visible and "more" after 2 sentences
             # hacky 
             if type(longform) != type(''):
@@ -188,7 +189,8 @@ for xx, session in enumerate(sessions):
                 longline = longform
 
             if talk_type == 'Discussion':
-                longline += ', '.join(panelists)
+                if len(panelists):
+                    longline += 'Panelists include: ' + ' and '.join(panelists) 
             line = """<tr>
                       <td style="text-align:center">{}</td>
                       <td style="text-align:center">{}</td>
