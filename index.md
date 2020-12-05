@@ -13,19 +13,23 @@ Topics include demonstrating machine learning techniques in fields related to ea
 
 ## Overview Schedule in PST (Vancouver time)  
 
-| Start | End | Session | Session Chair |  
-| ---- | ---- | --------- | ---------------- |  
-| 06:45 | 06:55 | Opening Remarks                  | S. Karthik Mukkavilli |  
-| 06:55 | 08:55 | [Sensors and Sampling](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#sensors) | Johanna Hansen  |  
-| 08:55 | 10:55 | [Ecology](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#ecology)              | Natasha Dudek |   
-| 10:55 | 12:45 | [Water](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#water)                  | S. Karthik Mukkavilli |   
-| 12:45 | 13:25 | [Keynote: Milind Tambe](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#keynote)         | S. Karthik Mukkavilli |   
-| 13:25 | 15:25 | [Atmosphere](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#atmosphere)        | Tom Beucler |  
-| 15:25 | 17:20 | [ML Theory](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#theory) | Karthik Kashinath |  
-| 17:20 | 18:00 | [People-Earth](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#people-earth)         | Mayur Mudigonda |  
-| 18:00 | 19:00 | [Solid Earth](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#solid-earth)            | Kelly Kochanski |  
-| 19:00 | 20:55 | [Datasets](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#datasets)            | Karthik Kashinath |  
-| 20:55 | 21:00 | Closing Remarks                  | Organizers |   
+| Start | End | Session | Session Chair | Keynotes / Panelists  |   
+| ---- | ---- | --------- | ------------------- |  --------------------------- | 
+| 06:45 | 06:55 | [Opening Remarks](#welcome)  | S. Karthik Mukkavilli | --- |  
+| 06:55 | 08:55 | [Sensors and Sampling](#sensors) | Johanna Hansen | Yogesh Girdhar, Hannah Kerner, Renaud Detry |   
+| 08:55 | 10:55 | [Ecology](#ecology) | Natasha Dudek |  Dan Morris, Giulio De Leo |   
+| 10:55 | 12:45 | [Water](#water) | S. Karthik Mukkavilli | Pierre Gentine  |   
+| 12:45 | 13:25 | [Keynote: Milind Tambe](#keynote)  | S. Karthik Mukkavilli | Stephan Mandt |  
+| 13:25 | 15:25 | [Atmosphere](#atmosphere)  | Tom Beucler | Michael Pritchard, Elizabeth Barnes |  
+| 15:25 | 17:20 | [ML Theory](#theory) | Karthik Kashinath | Stephan Mandt, Rose Yu |  
+| 17:20 | 18:00 | [People-Earth](#people-earth)          | Mayur Mudigonda | Dan Kammen, Milind Tambe  |  
+| 18:00 | 19:00 | [Solid-Earth](#solid-earth)            | Kelly Kochanski | --- |   
+| 19:00 | 20:55 | [Datasets](#datasets)            | Karthik Kashinath | Stephan Rasp |  
+| 20:55 | 21:00 | [Closing Remarks](#closing)                  | Organizers  | -- |   
+
+## [Join our slack for live Q&A](https://join.slack.com/t/ai4earth/shared_invite/zt-jkg0i982-VYRAd0HbjCG_6970Hcqfwg)  
+
+
 
 ## Participating:
 
