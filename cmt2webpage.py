@@ -99,7 +99,7 @@ table = """
 
 abs_ids = list(abstracts['Paper ID'].astype(np.int))
 default_details = {'Introduction':'Short introduction to the session', 
-        'Discussion':'Post questions to slack to hear from our speakers including: ', 
+        'Discussion':'Post questions to slack to hear from our panelists including: ', 
                    'Welcome':'Welcome', 
                    'Closing':'Closing & Thanks', 
                    }
