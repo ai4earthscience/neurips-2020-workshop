@@ -573,7 +573,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">Discussion</td>
                       <td style="text-align:center">Q/A And Discussion</td>
                       <td style="text-align:center">Mayur Mudigonda (Berkeley Lab)</td>
-                      <td style="text-align:left">Post questions to slack to hear from our panelists including: <a href="https://teamcore.seas.harvard.edu/people/milind-tambe">Milind Tambe (Harvard, Google), <a href="http://kammen.berkeley.edu/">Dan Kammen (Berkeley), Dan Kammen</td>
+                      <td style="text-align:left">Post questions to slack to hear from our panelists including: <a href="https://teamcore.seas.harvard.edu/people/milind-tambe">Milind Tambe (Harvard, Google), <a href="http://kammen.berkeley.edu/">Dan Kammen (Berkeley)</td>
                       </tr></table>
 </html>
 

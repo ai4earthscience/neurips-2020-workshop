@@ -50,7 +50,7 @@ sessions = ['Welcome',
 session_panelists = {'People-Earth':[
                   '<a href="https://teamcore.seas.harvard.edu/people/milind-tambe">Milind Tambe (Harvard, Google)', 
                   '<a href="http://kammen.berkeley.edu/">Dan Kammen (Berkeley)', 
-                  'Dan Kammen']}
+                  ]}
 
 top = """
 
