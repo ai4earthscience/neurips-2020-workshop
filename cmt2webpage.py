@@ -164,7 +164,7 @@ for xx, session in enumerate(sessions):
                 author = '<a href="{}">{}</a>'.format(link.strip(), author.strip())
 
             if 'Keynote' in talk_type:
-                if 'Elizabeth Barnes' in author:
+                if 'Elizabeth A Barnes' in author:
                     a = author.split(';')[0]
                     panelists.append(a)
                 else:

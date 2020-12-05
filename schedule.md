@@ -493,7 +493,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">Discussion</td>
                       <td style="text-align:center">Q/A And Discussion</td>
                       <td style="text-align:center">Tom Beucler (UCI, Columbia)</td>
-                      <td style="text-align:left">Post questions to slack to hear from our speakers including: <a href="https://sites.uci.edu/pritchard/">Michael Pritchard (University of California, Irvine)</a>, <a href="https://sites.google.com/rams.colostate.edu/barnesresearchgroup/home">Elizabeth A Barnes (Colorado State University)*; Kirsten Mayer (Colorado State University); Benjamin Toms (Intersphere, Inc.); Zane Martin (Colorado State University); Emily Gordon (Colorado State University)</a></td>
+                      <td style="text-align:left">Post questions to slack to hear from our speakers including: <a href="https://sites.uci.edu/pritchard/">Michael Pritchard (University of California, Irvine)</a>, <a href="https://sites.google.com/rams.colostate.edu/barnesresearchgroup/home">Elizabeth A Barnes (Colorado State University)*</td>
                       </tr><tr>
                       <td style="text-align:center">8</td>
                       <td style="text-align:center">---</td>
