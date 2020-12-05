@@ -132,15 +132,8 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center"><a href="https://norlab.ulaval.ca/research/montmorencydataset">Jean-Francois Tremblay (McGill), Martin Beland (U Laval), Francois Pomerleau (U Laval), Richard Gagnon, Philippe Giguere (U Laval)</a></td>
                       <td style="text-align:left">Forestry is a major industry in many parts of the world, yet this potential domain of application area has been overlooked by the robotics community. For instance, forest inventory, a cornerstone of efficient and sustainable forestry, is still traditionally performed manually by qualified professionals. The lack of automation in this particular task, consisting chiefly of measuring tree attributes, limits its speed, and, therefore, the area that can be economically covered. To this effect, we propose to use recent advancements in three‐dimensional mapping approaches in forests to automatically measure tree diameters from mobile robot observations. While previous studies showed the potential for such technology, they lacked a rigorous analysis of diameter estimation methods in challenging and large‐scale forest environments. Here, we validated multiple diameter estimation methods, including two novel ones, in a new publicly‐available dataset which includes four different forest sites, 11 trajectories, totaling 1458 tree observations, and 14,000 m2. From our extensive validation, we concluded that our mapping method is usable in the context of automated forest inventory, with our best diameter estimation method yielding a root mean square error of 3.45 cm for our whole dataset and 2.04 cm in ideal conditions consisting of mature forest with well‐spaced trees. Furthermore, we release this dataset to the public (https://norlab.ulaval.ca/research/montmorencydataset), to spur further research in robotic forest inventories. Finally, stemming from this large‐scale experiment, we provide recommendations for future deployments of mobile robots in a forestry context.</td>
                       </tr><tr>
-                      <td style="text-align:center">6</td>
-                      <td style="text-align:center">8:17</td>
-                      <td style="text-align:center">Break</td>
-                      <td style="text-align:center">Break to view on-demand lightning talks</td>
-                      <td style="text-align:center">Ozkan, Chen, Fang, Pinto</td>
-                      <td style="text-align:left"></td>
-                      </tr><tr>
                       <td style="text-align:center">7</td>
-                      <td style="text-align:center">8:30</td>
+                      <td style="text-align:center">8:20</td>
                       <td style="text-align:center">Discussion</td>
                       <td style="text-align:center">Q/A and Discussion</td>
                       <td style="text-align:center">Johanna Hansen (McGill, Mila)</td>
