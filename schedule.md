@@ -1,9 +1,10 @@
 
 
-# Overview Schedule in PST (Vancouver time)
+# Overview Schedule 
+## All times are in PST (Vancouver time)
 | Start | End | Session | Session Chair | Keynotes / Panelists  |   
 | ---- | ---- | --------- | ------------------- |  --------------------------- | 
-| 06:45 | 06:55 | [Opening Remarks](#welcome)  | S. Karthik Mukkavilli | --- |  
+| 06:45 | 06:55 | [{}](#welcome)  | S. Karthik Mukkavilli | --- |  
 | 06:55 | 08:55 | [Sensors and Sampling](#sensors) | Johanna Hansen | Yogesh Girdhar, Hannah Kerner, Renaud Detry |   
 | 08:55 | 10:55 | [Ecology](#ecology) | Natasha Dudek |  Dan Morris, Giulio De Leo |   
 | 10:55 | 12:45 | [Water](#water) | S. Karthik Mukkavilli | Pierre Gentine  |   
@@ -16,10 +17,7 @@
 | 20:55 | 21:00 | [Closing Remarks](#closing)                  | Organizers  | -- |   
 
 ## [Join our slack for live Q&A](https://join.slack.com/t/ai4earth/shared_invite/zt-jkg0i982-VYRAd0HbjCG_6970Hcqfwg)  
-
-
 ---
-
 
 
 ---
@@ -56,7 +54,7 @@
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Solid-Earth](#solid-earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [People-Earth](#people-earth)  -  [Solid-Earth](#solid-earth)  -  [Datasets](#datasets)
 
 
 
@@ -169,7 +167,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Solid-Earth](#solid-earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [People-Earth](#people-earth)  -  [Solid-Earth](#solid-earth)  -  [Datasets](#datasets)
 
 
 
@@ -263,7 +261,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Solid-Earth](#solid-earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [People-Earth](#people-earth)  -  [Solid-Earth](#solid-earth)  -  [Datasets](#datasets)
 
 
 
@@ -358,13 +356,13 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">9</td>
                       <td style="text-align:center">---</td>
                       <td style="text-align:center">On-Demand</td>
-                      <td style="text-align:center">A Comparison of Data-Driven Models for Predicting Stream Water Temperature</td>
+                      <td style="text-align:center"><a href="https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_23.pdf">A Comparison of Data-Driven Models for Predicting Stream Water Temperature</a></td>
                       <td style="text-align:center">Helen Weierbach (Lawrence Berkeley )*; Charuleka Varadharajan (Lawrence Berkeley National Lab); Aranildo Lima (Aquatic Informatics); Boris Faybishenko (Lawrence Berkeley National Lab); Val Hendrix (Lawrence Berkeley National Lab); Danielle Christianson (Lawrence Berkeley National Lab)</td>
                       <td style="text-align:left">Changes to the Earth's climate are expected to negatively impact water resources in the future. It is important to have accurate modelling of river flow and water quality to make optimal decisions for water management.<details style="display:inline;"closed><summary>More</summary>Machine learning and deep learning models have become promising methods for making such hydrological predictions. Using these models, however, requires careful consideration both of data constraints and of model complexity for a given problem. Here, we use machine learning models to predict monthly water temperature records at three  monitoring locations in the Northwestern United States with long-term datasets, using meteorological data as predictors. We fit four models for comparison: a Multiple Linear Regression, a Random Forest Regression, a Support Vector Regression and a baseline persistence model. We show that all models are reasonably able to predict mean monthly stream temperatures with root mean-squared errors (RMSE) ranging from 0.63-0.91 degrees Celsius. Of the four models, the Support Vector Regression performs the best with an error of 0.63 degrees Celsius. However, all models perform poorly on extreme values of water temperature. We identify the need for machine learning approaches to predicting extreme values for variables such as water temperature, since it has significant implications for stream ecosystems and biota.</details></td>
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Solid-Earth](#solid-earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [People-Earth](#people-earth)  -  [Solid-Earth](#solid-earth)  -  [Datasets](#datasets)
 
 
 
@@ -409,7 +407,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Solid-Earth](#solid-earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [People-Earth](#people-earth)  -  [Solid-Earth](#solid-earth)  -  [Datasets](#datasets)
 
 
 
@@ -498,7 +496,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">9</td>
                       <td style="text-align:center">---</td>
                       <td style="text-align:center">On-Demand</td>
-                      <td style="text-align:center">Temporally Weighting Machine Learning Models for High-Impact Severe Hail Prediction</td>
+                      <td style="text-align:center"><a href="https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_35.pdf">Temporally Weighting Machine Learning Models for High-Impact Severe Hail Prediction</a></td>
                       <td style="text-align:center">Amanda L Burke (University of Oklahoma)*; Amy McGovern (University of Oklahoma); Nathan Snook (University of Oklahoma); David J Gagne (National Center for Atmospheric Research)</td>
                       <td style="text-align:left">We explore a new method to improve machine-learning (ML) based severe hail predictions.  A temporal weighting scheme allows the random forest models to increase importance of relevant feature data while maintaining general information about the problem domain from other feature data.<details style="display:inline;"closed><summary>More</summary>We show that the weighting scheme improves forecast skill and forecaster rust.  With a flexible design, this method can produce localized forecasts under multiple different scenarios without6increasing computational expense</details></td>
                       </tr><tr>
@@ -512,7 +510,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">11</td>
                       <td style="text-align:center">---</td>
                       <td style="text-align:center">On-Demand</td>
-                      <td style="text-align:center">Unsupervised Regionalization of Particle-resolved Aerosol Mixing State Indices on the Global Scale</td>
+                      <td style="text-align:center"><a href="https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_44.pdf">Unsupervised Regionalization of Particle-resolved Aerosol Mixing State Indices on the Global Scale</a></td>
                       <td style="text-align:center">Zhonghua Zheng (University of Illinois at Urbana-Champaign)*; Joseph Ching (Japan Meteorological Agency); Jeffrey Curtis (University of Illinois at Urbana-Champaign); Yu Yao (University of Illinois at Urbana-Champaign); Peng Xu (Southern University of Science and Technology); Matthew West (University of Illinois at Urbana-Champaign); Nicole Riemer (University of Illinois at Urbana-Champaign)</td>
                       <td style="text-align:left">The aerosol mixing state significantly affects the climate and health impacts of atmospheric aerosol particles. Simplified aerosol mixing state assumptions, common in Earth System models, can introduce errors in the prediction of these aerosol impacts.<details style="display:inline;"closed><summary>More</summary>The aerosol mixing state index, a metric to quantify aerosol mixing state, is a convenient measure for quantifying these errors. Global estimates of aerosol mixing state indices have recently become available via supervised learning models, but require regionalization to ease spatiotemporal analysis. Here we developed a simple but effective unsupervised learning approach to regionalize predictions of global aerosol mixing state indices. We used the monthly average of aerosol mixing state indices global distribution as the input data. Grid cells were then clustered into regions by the k-means algorithm without explicit spatial information as input. This approach resulted in eleven regions over the globe with specific spatial aggregation patterns. Each region exhibited a unique distribution of mixing state indices and aerosol compositions, showing the effectiveness of the unsupervised regionalization approach. This study defines “aerosol mixing state zones” that could be useful for atmospheric science research.</details></td>
                       </tr><tr>
@@ -525,52 +523,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Solid-Earth](#solid-earth)  -  [Datasets](#datasets)
-
-
-
----
-
-## People-Earth  
-
-
-  
-<html>
-<p style="display:inline";>
-<table>
-  <colgroup>
-  <col span="1" style="width: 1%;">
-  <col span="1" style="width: 2%;">
-  <col span="1" style="width: 8%;">
-  <col span="1" style="width: 20%;">
-  <col span="1" style="width: 15%;">
-  </colgroup>
-  <tr>
-    <th>#</th>
-    <th>Start Time</th>
-    <th>Type</th>
-    <th>Title</th>
-    <th>Speakers</th>
-    <th>Details</th>
-  </tr>
-<tr>
-                      <td style="text-align:center">0</td>
-                      <td style="text-align:center">17:20</td>
-                      <td style="text-align:center">Introduction</td>
-                      <td style="text-align:center">Introduction</td>
-                      <td style="text-align:center">Mayur Mudigonda (Berkeley Lab)</td>
-                      <td style="text-align:left">Short introduction to the session</td>
-                      </tr><tr>
-                      <td style="text-align:center">1</td>
-                      <td style="text-align:center">17:25</td>
-                      <td style="text-align:center">Discussion</td>
-                      <td style="text-align:center">Q/A and Discussion</td>
-                      <td style="text-align:center">Mayur Mudigonda (Berkeley Lab)</td>
-                      <td style="text-align:left"> Discussion panelists include: <a href="https://teamcore.seas.harvard.edu/people/milind-tambe">Milind Tambe (Harvard, Google) and <a href="http://kammen.berkeley.edu/">Dan Kammen (Berkeley)</td>
-                      </tr></table>
-</html>
-
-### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Solid-Earth](#solid-earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [People-Earth](#people-earth)  -  [Solid-Earth](#solid-earth)  -  [Datasets](#datasets)
 
 
 
@@ -671,7 +624,52 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Solid-Earth](#solid-earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [People-Earth](#people-earth)  -  [Solid-Earth](#solid-earth)  -  [Datasets](#datasets)
+
+
+
+---
+
+## People-Earth  
+
+
+  
+<html>
+<p style="display:inline";>
+<table>
+  <colgroup>
+  <col span="1" style="width: 1%;">
+  <col span="1" style="width: 2%;">
+  <col span="1" style="width: 8%;">
+  <col span="1" style="width: 20%;">
+  <col span="1" style="width: 15%;">
+  </colgroup>
+  <tr>
+    <th>#</th>
+    <th>Start Time</th>
+    <th>Type</th>
+    <th>Title</th>
+    <th>Speakers</th>
+    <th>Details</th>
+  </tr>
+<tr>
+                      <td style="text-align:center">0</td>
+                      <td style="text-align:center">17:20</td>
+                      <td style="text-align:center">Introduction</td>
+                      <td style="text-align:center">Introduction</td>
+                      <td style="text-align:center">Mayur Mudigonda (Berkeley Lab)</td>
+                      <td style="text-align:left">Short introduction to the session</td>
+                      </tr><tr>
+                      <td style="text-align:center">1</td>
+                      <td style="text-align:center">17:25</td>
+                      <td style="text-align:center">Discussion</td>
+                      <td style="text-align:center">Q/A and Discussion</td>
+                      <td style="text-align:center">Mayur Mudigonda (Berkeley Lab)</td>
+                      <td style="text-align:left"> Discussion panelists include: <a href="https://teamcore.seas.harvard.edu/people/milind-tambe">Milind Tambe (Harvard, Google) and <a href="http://kammen.berkeley.edu/">Dan Kammen (Berkeley)</td>
+                      </tr></table>
+</html>
+
+### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [People-Earth](#people-earth)  -  [Solid-Earth](#solid-earth)  -  [Datasets](#datasets)
 
 
 
@@ -751,7 +749,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Solid-Earth](#solid-earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [People-Earth](#people-earth)  -  [Solid-Earth](#solid-earth)  -  [Datasets](#datasets)
 
 
 
@@ -852,7 +850,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Solid-Earth](#solid-earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [People-Earth](#people-earth)  -  [Solid-Earth](#solid-earth)  -  [Datasets](#datasets)
 
 
 
@@ -890,5 +888,5 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr></table>
 </html>
 
-### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [People-Earth](#people-earth)  -  [Theory](#theory)  -  [Solid-Earth](#solid-earth)  -  [Datasets](#datasets)
+### Jump to: [Overview](#overview-schedule) - [Sensors](#sensors)  -  [Ecology](#ecology)  -  [Water](#water)  -  [Keynote](#keynote)  -  [Atmosphere](#atmosphere)  -  [Theory](#theory)  -  [People-Earth](#people-earth)  -  [Solid-Earth](#solid-earth)  -  [Datasets](#datasets)
 

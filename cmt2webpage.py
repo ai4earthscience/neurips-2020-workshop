@@ -36,28 +36,68 @@ papers = papers[papers['Accept/Reject'] != 'reject']
 papers.loc[papers['Primary Subject Area'] == 'Sensors & Sampling', 'Primary Subject Area'] = 'Sensors'
 # dont merge since some dont have abstracts
 #papers = pd.merge(papers, abstracts, on='Paper ID')
-sessions = ['Welcome', 
+sessions = ['Welcome',
            'Sensors', 
             'Ecology', 
             'Water', 
             'Keynote', 
             'Atmosphere', 
-            'People-Earth',
             'Theory',
+            'People-Earth',
             'Solid-Earth', 
-            'Datasets', 'Closing']
+            'Datasets', 
+            'Closing']
+
+# make normal dict of tuples for human name, start, end times
+# ((start end times of session), (start end times of discussion))
+session_times = {
+        'Welcome':      ('Opening Remarks',       ('06:45', '06:55'),     ()),
+        'Sensors':      ('Sensors & Sampling',    ('06:55', '08:55'),     ('08:20', '08:55')),
+        'Ecology':      ('Ecology',               ('08:55', '10:55'),     ('10:30', '10:55')),
+        'Water':        ('Water',                 ('10:55', '12:45'),     ('12:20', '12:45')),
+        'Keynote':      ('Keynote: Milind Tambe', ('12:45','13:25'),      ('13:15', '13:25')),
+        'Atmosphere':   ('Atmosphere',             ('13:25','15:25'),     ('14:55', '15:25')),
+        'Theory':       ('Theory',                 ('15:25','17:20'),     ('17:00', '17:20')),
+        'People-Earth': ('People-Earth',           ('17:20','18:00'),     ('15:25', '18:00')),
+        'Solid-Earth':  ('Solid-Earth',            ('18:00','19:00'),     ('16:45','19:00')),
+        'Datasets':     ('Benchmark Datasets',     ('19:00','20:55'),     ('20:30', '20:55')),
+        'Closing':      ('Closing Remarks',        ('20:55','21:00'),     ()),
+        } 
+
 
 session_panelists = {'People-Earth':[
                   '<a href="https://teamcore.seas.harvard.edu/people/milind-tambe">Milind Tambe (Harvard, Google)', 
                   '<a href="http://kammen.berkeley.edu/">Dan Kammen (Berkeley)', 
                   ]}
 
+#top = """
+#
+## Overview Schedule 
+### All times are in PST (Vancouver time)
+#| Start | End | Session | Session Chair | Keynotes / Panelists  |   
+#| ---- | ---- | --------- | ------------------- |  --------------------------- | 
+#| 06:45 | 06:55 | [Opening Remarks](#welcome)  | S. Karthik Mukkavilli | --- |  
+#| 06:55 | 08:55 | [Sensors and Sampling](#sensors) | Johanna Hansen | Yogesh Girdhar, Hannah Kerner, Renaud Detry |   
+#| 08:55 | 10:55 | [Ecology](#ecology) | Natasha Dudek |  Dan Morris, Giulio De Leo |   
+#| 10:55 | 12:45 | [Water](#water) | S. Karthik Mukkavilli | Pierre Gentine  |   
+#| 12:45 | 13:25 | [Keynote: Milind Tambe](#keynote)  | S. Karthik Mukkavilli | Milind Tambe |  
+#| 13:25 | 15:25 | [Atmosphere](#atmosphere)  | Tom Beucler | Michael Pritchard, Elizabeth Barnes |  
+#| 15:25 | 17:20 | [ML Theory](#theory) | Karthik Kashinath | Stephan Mandt, Rose Yu |  
+#| 17:20 | 18:00 | [People-Earth](#people-earth)          | Mayur Mudigonda | Dan Kammen, Milind Tambe  |  
+#| 18:00 | 19:00 | [Solid-Earth](#solid-earth)            | Kelly Kochanski | --- |   
+#| 19:00 | 20:55 | [Datasets](#datasets)            | Karthik Kashinath | Stephan Rasp |  
+#| 20:55 | 21:00 | [Closing Remarks](#closing)                  | Organizers  | -- |   
+#
+### [Join our slack for live Q&A](https://join.slack.com/t/ai4earth/shared_invite/zt-jkg0i982-VYRAd0HbjCG_6970Hcqfwg)  
+#---
+#"""
 top = """
 
-# Overview Schedule in PST (Vancouver time)
+# Overview Schedule 
+## All times are in PST (Vancouver time)
 | Start | End | Session | Session Chair | Keynotes / Panelists  |   
 | ---- | ---- | --------- | ------------------- |  --------------------------- | 
-| 06:45 | 06:55 | [Opening Remarks](#welcome)  | S. Karthik Mukkavilli | --- |  
+| 06:45 | 06:55 | [{}](#welcome)  | S. Karthik Mukkavilli | --- |  
 | 06:55 | 08:55 | [Sensors and Sampling](#sensors) | Johanna Hansen | Yogesh Girdhar, Hannah Kerner, Renaud Detry |   
 | 08:55 | 10:55 | [Ecology](#ecology) | Natasha Dudek |  Dan Morris, Giulio De Leo |   
 | 10:55 | 12:45 | [Water](#water) | S. Karthik Mukkavilli | Pierre Gentine  |   
@@ -70,11 +110,10 @@ top = """
 | 20:55 | 21:00 | [Closing Remarks](#closing)                  | Organizers  | -- |   
 
 ## [Join our slack for live Q&A](https://join.slack.com/t/ai4earth/shared_invite/zt-jkg0i982-VYRAd0HbjCG_6970Hcqfwg)  
-
-
 ---
-
 """
+
+
 
 table = """
 <html>
