@@ -97,7 +97,7 @@ top = """
 ## All times are in PST (Vancouver time)
 | Start | End | Session | Session Chair | Keynotes / Panelists  |   
 | ---- | ---- | --------- | ------------------- |  --------------------------- | 
-| 06:45 | 06:55 | [{}](#welcome)  | S. Karthik Mukkavilli | --- |  
+| 06:45 | 06:55 | [Welcome](#welcome)  | S. Karthik Mukkavilli | --- |  
 | 06:55 | 08:55 | [Sensors and Sampling](#sensors) | Johanna Hansen | Yogesh Girdhar, Hannah Kerner, Renaud Detry |   
 | 08:55 | 10:55 | [Ecology](#ecology) | Natasha Dudek |  Dan Morris, Giulio De Leo |   
 | 10:55 | 12:45 | [Water](#water) | S. Karthik Mukkavilli | Pierre Gentine  |   
