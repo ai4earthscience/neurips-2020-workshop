@@ -207,14 +207,14 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">1</td>
                       <td style="text-align:center">9:00</td>
                       <td style="text-align:center"><a href="https://slideslive.com/38938429">Keynote</a></td>
-                      <td style="text-align:center">Dan Morris: Taxonomizing “Impact” in AI for Sustainability</td>
+                      <td style="text-align:center">Taxonomizing “Impact” in AI for Sustainability</td>
                       <td style="text-align:center"><a href="https://www.microsoft.com/en-us/research/people/dan/">Dan Morris (Microsoft)</a></td>
                       <td style="text-align:left">Dan Morris will present an introduction to Microsoft’s AI for Earth initiative. The talk will be a tour through a few examples where AI is having a positive impact on environmental sustainability.  More importantly, we’ll put those examples into several categories that represent broad “flavors” of impact, not *only* because I like making lists (although I do like making lists), but to show the ML community the variety of ways in which ML advances can have positive environmental impact, and hopefully encourage NeurIPS folks to think about the shortest path between your own expertise and environmental sustainability, incrementally advancing my secret mission of getting *everyone* in the ML community working on conservation issues.  Finally, we’ll discuss the generally-favorable-but-lacking-in-some-areas state of publicly-available training data for sustainability and conservation problems.</td>
                       </tr><tr>
                       <td style="text-align:center">2</td>
                       <td style="text-align:center">9:25</td>
                       <td style="text-align:center"><a href="https://slideslive.com/38938427">Session Keynote</a></td>
-                      <td style="text-align:center">Giulio De Leo: ML and control of parasitic diseases of poverty in tropical and subtropical countries, with a special focus on schistosomiasis</td>
+                      <td style="text-align:center">ML and control of parasitic diseases of poverty in tropical and subtropical countries, with a special focus on schistosomiasis</td>
                       <td style="text-align:center"><a href="https://deleolab.stanford.edu/people">Giulio De Leo (Stanford)</a></td>
                       <td style="text-align:left">ML and control of parasitic diseases of poverty in tropical and subtropical countries, with a special focus on schistosomiasi. Giulio De Leo is a Professor at Stanford University and a Senior Fellow at Stanford Woods Institute for the Environment.<details style="display:inline;"closed><summary>More</summary>His lab works on theoretical ecology with a focus on disease ecology, marine conservation, and public health.</details></td>
                       </tr><tr>
@@ -301,7 +301,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">1</td>
                       <td style="text-align:center">11:00</td>
                       <td style="text-align:center"><a href="https://slideslive.com/38938323">Session Keynote</a></td>
-                      <td style="text-align:center">Pierre Gentine</td>
+                      <td style="text-align:center">Hybrid Hydrological Modeling</td>
                       <td style="text-align:center"><a href="https://gentinelab.eee.columbia.edu/people/pierre-gentine">Pierre Gentine (Columbia)</a></td>
                       <td style="text-align:left">Pierre Gentine is an Associate Professor in the department of Earth and Environmental Engineering in the School of Engineering and Applied Sciences. He is an Investigator in the Columbia Water Center and a director of the Graduate Program in Earth and Environmental Engineering.<details style="display:inline;"closed><summary>More</summary>Dr. Gentine investigates the continental hydrologic cycle though land-atmosphere interaction, boundary layer turbulence, convection, ecohydrology and remote sensing.</details></td>
                       </tr><tr>
@@ -395,7 +395,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">0</td>
                       <td style="text-align:center">12:45</td>
                       <td style="text-align:center"><a href="https://slideslive.com/38938431">Keynote</a></td>
-                      <td style="text-align:center">Keynote: Milind Tambe  </td>
+                      <td style="text-align:center">AI for Conversation and Public Health: Learning and Planning in the Data to Deployment Pipeline</td>
                       <td style="text-align:center"><a href="https://teamcore.seas.harvard.edu/people/milind-tambe">Milind Tambe (Harvard, Google)</a></td>
                       <td style="text-align:left">Milind Tambe is Gordon McKay Professor of Computer Science and Director of Center for Research on Computation and Society at Harvard University; he is also Director "AI for Social Good" at Google Research India. </td>
                       </tr><tr>
@@ -447,7 +447,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">1</td>
                       <td style="text-align:center">13:30</td>
                       <td style="text-align:center"><a href="https://slideslive.com/38938320">Session Keynote</a></td>
-                      <td style="text-align:center">Michael Pritchard</td>
+                      <td style="text-align:center">Towards Robust Neural Network Parameterizations of Convection</td>
                       <td style="text-align:center"><a href="https://sites.uci.edu/pritchard/">Michael Pritchard (University of California, Irvine)</a></td>
                       <td style="text-align:left">Michael Pritchard’s expertise is in next generation climate simulation, using new algorithms (cloud superparameterization) and new computing techniques (machine learning) to study clouds and their interaction with climate and weather, in high fidelity
 </td>
@@ -563,14 +563,14 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">1</td>
                       <td style="text-align:center">15:30</td>
                       <td style="text-align:center"><a href="https://slideslive.com/38938321">Session Keynote</a></td>
-                      <td style="text-align:center">Stephan Mandt</td>
+                      <td style="text-align:center">ML for Thermodynamics and Thermodynamic ML</td>
                       <td style="text-align:center"><a href="http://www.stephanmandt.com/">Stephan Mandt (University of California, Irvine)</a></td>
                       <td style="text-align:left">Stephan Mandt is an Assistant Professor of Computer Science at the University of California, Irvine. From 2016 until 2018, he was a Senior Researcher and Head of the statistical machine learning group at Disney Research, first in Pittsburgh and later in Los Angeles.<details style="display:inline;"closed><summary>More</summary>He held previous postdoctoral positions at Columbia University and Princeton University. Stephan holds a Ph.D. in Theoretical Physics from the University of Cologne. He is a Fellow of the German National Merit Foundation, a Kavli Fellow of the U.S. National Academy of Sciences, and was a visiting researcher at Google Brain. Stephan regularly serves as an Area Chair for NeurIPS, ICML, AAAI, and ICLR, and is a member of the Editorial Board of JMLR. His research is currently supported by NSF, DARPA, Intel, and Qualcomm.</details></td>
                       </tr><tr>
                       <td style="text-align:center">3</td>
                       <td style="text-align:center">15:55</td>
                       <td style="text-align:center"><a href="https://slideslive.com/38938433">Session Keynote</a></td>
-                      <td style="text-align:center">Rose Yu</td>
+                      <td style="text-align:center">Physics-Guided AI for Learning Spatiotemporal Dynamics</td>
                       <td style="text-align:center"><a href="http://roseyu.com/">Rose Yu (University of California, San Diego)</a></td>
                       <td style="text-align:left">Rose Yu assistant professor at UC San Diego department of Computer Science and Engineering. She works on the theory and application of machine learning, especially for large-scale spatiotemporal data.<details style="display:inline;"closed><summary>More</summary>I am generally interested in optimization, deep learning, and spatiotemporal reasoning. I am particularly excited about the interplay between physics and machine learning. My work has been applied to learning dynamical systems in sustainability, health and physical sciences. For more details, see my curriculum vitae. For prospective students, please read this before emailing me.</details></td>
                       </tr><tr>
@@ -789,7 +789,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">1</td>
                       <td style="text-align:center">19:05</td>
                       <td style="text-align:center"><a href="https://slideslive.com/38938428">Session Keynote</a></td>
-                      <td style="text-align:center">Stephan Rasp</td>
+                      <td style="text-align:center">Why Benchmarks are Crucial for Progress in AI and How to Design Good Ones for Earth Science</td>
                       <td style="text-align:center"><a href="https://raspstephan.github.io/">Stephan Rasp (ClimateAI)</a></td>
                       <td style="text-align:left">Senior Data Scientist at ClimateAI</td>
                       </tr><tr>
