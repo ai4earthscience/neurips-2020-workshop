@@ -129,7 +129,7 @@ table = """
   <tr>
     <th>#</th>
     <th>Start Time</th>
-    <th>Video Type</th>
+    <th>Video</th>
     <th>Title</th>
     <th>Author(s)</th>
     <th>Details</th>

@@ -39,7 +39,7 @@
   <tr>
     <th>#</th>
     <th>Start Time</th>
-    <th>Video Type</th>
+    <th>Video</th>
     <th>Title</th>
     <th>Author(s)</th>
     <th>Details</th>
@@ -77,7 +77,7 @@
   <tr>
     <th>#</th>
     <th>Start Time</th>
-    <th>Video Type</th>
+    <th>Video</th>
     <th>Title</th>
     <th>Author(s)</th>
     <th>Details</th>
@@ -191,7 +191,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
   <tr>
     <th>#</th>
     <th>Start Time</th>
-    <th>Video Type</th>
+    <th>Video</th>
     <th>Title</th>
     <th>Author(s)</th>
     <th>Details</th>
@@ -285,7 +285,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
   <tr>
     <th>#</th>
     <th>Start Time</th>
-    <th>Video Type</th>
+    <th>Video</th>
     <th>Title</th>
     <th>Author(s)</th>
     <th>Details</th>
@@ -386,7 +386,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
   <tr>
     <th>#</th>
     <th>Start Time</th>
-    <th>Video Type</th>
+    <th>Video</th>
     <th>Title</th>
     <th>Author(s)</th>
     <th>Details</th>
@@ -431,7 +431,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
   <tr>
     <th>#</th>
     <th>Start Time</th>
-    <th>Video Type</th>
+    <th>Video</th>
     <th>Title</th>
     <th>Author(s)</th>
     <th>Details</th>
@@ -547,7 +547,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
   <tr>
     <th>#</th>
     <th>Start Time</th>
-    <th>Video Type</th>
+    <th>Video</th>
     <th>Title</th>
     <th>Author(s)</th>
     <th>Details</th>
@@ -648,7 +648,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
   <tr>
     <th>#</th>
     <th>Start Time</th>
-    <th>Video Type</th>
+    <th>Video</th>
     <th>Title</th>
     <th>Author(s)</th>
     <th>Details</th>
@@ -693,7 +693,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
   <tr>
     <th>#</th>
     <th>Start Time</th>
-    <th>Video Type</th>
+    <th>Video</th>
     <th>Title</th>
     <th>Author(s)</th>
     <th>Details</th>
@@ -773,7 +773,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
   <tr>
     <th>#</th>
     <th>Start Time</th>
-    <th>Video Type</th>
+    <th>Video</th>
     <th>Title</th>
     <th>Author(s)</th>
     <th>Details</th>
@@ -816,7 +816,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       </tr><tr>
                       <td style="text-align:center">5</td>
                       <td style="text-align:center">20:10</td>
-                      <td style="text-align:center">Regular Talk</td>
+                      <td style="text-align:center"><a href="https://slideslive.com/38941716">Regular Talk</a></td>
                       <td style="text-align:center"><a href="https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_56.pdf">Applying Machine Learning to Crowd-sourced Data from Earthquake Detective</a></td>
                       <td style="text-align:center">Omkar Ranadive (Northwestern University)*; Suzan van der Lee (Northwestern University)</td>
                       <td style="text-align:left">We present the Earthquake Detective dataset - A crowdsourced set of labels on potentially triggered (PT) earthquakes and tremors. These events are those which may have been triggered by large magnitude and often distant earthquakes.<details style="display:inline;"closed><summary>More</summary>We apply Machine Learning to classify these PT seismic events and explore the challenges faced in segregating such low amplitude signals. The data set and code are available online.</details></td>
@@ -874,7 +874,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
   <tr>
     <th>#</th>
     <th>Start Time</th>
-    <th>Video Type</th>
+    <th>Video</th>
     <th>Title</th>
     <th>Author(s)</th>
     <th>Details</th>
