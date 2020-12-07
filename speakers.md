@@ -22,7 +22,7 @@ title: AI for Earth Sciences
 
 * It is imperative that you update your .sty files in latex to [this version](https://raw.githubusercontent.com/ai4earthscience/neurips-2020-workshop/master/misc/neurips_2020.sty) which reflects the name of the workshop. 
 
-* Please upload your camera ready versions to CMT ASAP and before Dec 7.    
+* Please upload your camera ready versions to CMT ASAP and before Dec 7. Upload a single file (if necessary - combine the paper and appendix into one file).      
 
 
 

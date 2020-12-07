@@ -1,4 +1,10 @@
 # FAQ
+ 
+### Q: Who will join in the zoom discussion at the end of each session?  
+A: All speakers/authors from the session will be able to join the zoom session. The moderator will ask questions from the audience. We also encourage you to "raise your hand" to engage with fellow speakers.   
+
+#### Q: Will the video of my talk be available after the workshop?     
+A: Yes. We'll preserve a link to the Slideslive/NeurIPS video on our website and you should also be able to find it thru their interface.  
 
 #### Q: My paper has been accepted. Now what?   
 A: Each accepted paper will be presented in a pre-recorded oral session of no more than 20 minutes.  The NeurIPS recording team, Slideslive, will contact all accepted papers via email with presentation instructions in early November. Recorded presentations for contributed talks must be uploaded no later than November 14. Camera-ready submissions should be updated on CMT before Dec. 7, though earlier is better as they will be added to the website. On the day of the workshop, we will stream pre-recorded talks and host an interactive Q&A session with all speakers. 
