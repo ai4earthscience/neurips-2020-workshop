@@ -199,7 +199,7 @@ for xx, session in enumerate(sessions):
 
             if type(talk_type) == str:
                 video_link =  talk['Video'].to_numpy()[0]
-                if type(video_link) == 'str':
+                if type(video_link) == str:
                     talk_type = '<a href="{}">{}</a>'.format(video_link.strip(), talk_type.strip())
             author = talk['Authors'].to_numpy()[0].replace('()', '')
 
