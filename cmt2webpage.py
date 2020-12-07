@@ -193,10 +193,14 @@ for xx, session in enumerate(sessions):
                                     target_link = 'papers/ai4earth_neurips_2020_%02d.pdf' %paper_id
                                     shutil.copy2(x, target_link)
                                     title = '<a href="{}">{}</a>'.format(os.path.join(sitename,target_link), title)
-                                print(title)
+                                #print(title)
                         # get the abstract
                         longform = abstracts[abstracts['Paper ID'] == paper_id]['Abstract'].to_numpy()[0]
 
+            if type(talk_type) == str:
+                video_link =  talk['Video'].to_numpy()[0]
+                if type(video_link) == 'str':
+                    talk_type = '<a href="{}">{}</a>'.format(video_link.strip(), talk_type.strip())
             author = talk['Authors'].to_numpy()[0].replace('()', '')
 
             link = talk['Link'].to_numpy()[0]
@@ -252,7 +256,7 @@ for xx, session in enumerate(sessions):
         except Exception as e: 
             print(e)
             embed()
-    print(panelists)
+    #print(panelists)
     fo.write("</table>\n")
     fo.write("</html>\n\n")
     session_jumps = ['[{}](#{})'.format(s, s.lower()) for s in sessions if s not in ['Welcome', 'Closing']]
