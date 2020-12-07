@@ -129,7 +129,7 @@ table = """
   <tr>
     <th>#</th>
     <th>Start Time</th>
-    <th>Talk</th>
+    <th>Video / Type</th>
     <th>Title</th>
     <th>Author(s) / Speaker</th>
     <th>Details</th>
