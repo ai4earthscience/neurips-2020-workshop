@@ -129,9 +129,9 @@ table = """
   <tr>
     <th>#</th>
     <th>Start Time</th>
-    <th>Video / Type</th>
+    <th>Video Type</th>
     <th>Title</th>
-    <th>Author(s) / Speaker</th>
+    <th>Author(s)</th>
     <th>Details</th>
   </tr>
 """
