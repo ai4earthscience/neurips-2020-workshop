@@ -189,9 +189,10 @@ for xx, session in enumerate(sessions):
                         st_with = 'papers/{}'.format(paper_id)
                         for x in cam_readys:
                             if x.startswith(st_with):
-                                target_link = 'papers/ai4earth_neurips_2020_%02d.pdf' %paper_id
-                                shutil.copy2(x, target_link)
-                                title = '<a href="{}">{}</a>'.format(os.path.join(sitename,target_link), title)
+                                if 'Supplement.pdf' not in x:
+                                    target_link = 'papers/ai4earth_neurips_2020_%02d.pdf' %paper_id
+                                    shutil.copy2(x, target_link)
+                                    title = '<a href="{}">{}</a>'.format(os.path.join(sitename,target_link), title)
                                 print(title)
                         # get the abstract
                         longform = abstracts[abstracts['Paper ID'] == paper_id]['Abstract'].to_numpy()[0]
