@@ -39,9 +39,9 @@
   <tr>
     <th>#</th>
     <th>Start Time</th>
-    <th>Type</th>
+    <th>Talk</th>
     <th>Title</th>
-    <th>Speakers</th>
+    <th>Author(s) / Speaker</th>
     <th>Details</th>
   </tr>
 <tr>
@@ -77,9 +77,9 @@
   <tr>
     <th>#</th>
     <th>Start Time</th>
-    <th>Type</th>
+    <th>Talk</th>
     <th>Title</th>
-    <th>Speakers</th>
+    <th>Author(s) / Speaker</th>
     <th>Details</th>
   </tr>
 <tr>
@@ -191,9 +191,9 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
   <tr>
     <th>#</th>
     <th>Start Time</th>
-    <th>Type</th>
+    <th>Talk</th>
     <th>Title</th>
-    <th>Speakers</th>
+    <th>Author(s) / Speaker</th>
     <th>Details</th>
   </tr>
 <tr>
@@ -285,9 +285,9 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
   <tr>
     <th>#</th>
     <th>Start Time</th>
-    <th>Type</th>
+    <th>Talk</th>
     <th>Title</th>
-    <th>Speakers</th>
+    <th>Author(s) / Speaker</th>
     <th>Details</th>
   </tr>
 <tr>
@@ -386,9 +386,9 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
   <tr>
     <th>#</th>
     <th>Start Time</th>
-    <th>Type</th>
+    <th>Talk</th>
     <th>Title</th>
-    <th>Speakers</th>
+    <th>Author(s) / Speaker</th>
     <th>Details</th>
   </tr>
 <tr>
@@ -431,9 +431,9 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
   <tr>
     <th>#</th>
     <th>Start Time</th>
-    <th>Type</th>
+    <th>Talk</th>
     <th>Title</th>
-    <th>Speakers</th>
+    <th>Author(s) / Speaker</th>
     <th>Details</th>
   </tr>
 <tr>
@@ -547,9 +547,9 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
   <tr>
     <th>#</th>
     <th>Start Time</th>
-    <th>Type</th>
+    <th>Talk</th>
     <th>Title</th>
-    <th>Speakers</th>
+    <th>Author(s) / Speaker</th>
     <th>Details</th>
   </tr>
 <tr>
@@ -648,9 +648,9 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
   <tr>
     <th>#</th>
     <th>Start Time</th>
-    <th>Type</th>
+    <th>Talk</th>
     <th>Title</th>
-    <th>Speakers</th>
+    <th>Author(s) / Speaker</th>
     <th>Details</th>
   </tr>
 <tr>
@@ -693,9 +693,9 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
   <tr>
     <th>#</th>
     <th>Start Time</th>
-    <th>Type</th>
+    <th>Talk</th>
     <th>Title</th>
-    <th>Speakers</th>
+    <th>Author(s) / Speaker</th>
     <th>Details</th>
   </tr>
 <tr>
@@ -773,9 +773,9 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
   <tr>
     <th>#</th>
     <th>Start Time</th>
-    <th>Type</th>
+    <th>Talk</th>
     <th>Title</th>
-    <th>Speakers</th>
+    <th>Author(s) / Speaker</th>
     <th>Details</th>
   </tr>
 <tr>
@@ -874,9 +874,9 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
   <tr>
     <th>#</th>
     <th>Start Time</th>
-    <th>Type</th>
+    <th>Talk</th>
     <th>Title</th>
-    <th>Speakers</th>
+    <th>Author(s) / Speaker</th>
     <th>Details</th>
   </tr>
 <tr>
