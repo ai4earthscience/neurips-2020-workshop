@@ -20,7 +20,7 @@ import os
 from collections import OrderedDict
 import pytz
 from datetime import datetime
-from icalendar import vDatetime, Calendar, Event
+#from icalendar import vDatetime, Calendar, Event
 import shutil
 from IPython import embed
 p = pd.read_csv("AI4Earth_Papers_all.csv") # export from google doc which was from cmt
