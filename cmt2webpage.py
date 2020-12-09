@@ -196,6 +196,8 @@ for xx, session in enumerate(sessions):
                                 #print(title)
                         # get the abstract
                         longform = abstracts[abstracts['Paper ID'] == paper_id]['Abstract'].to_numpy()[0]
+                        if int(paper_id) == 18:
+                            embed()
 
             if type(talk_type) == str:
                 video_link =  talk['Video'].to_numpy()[0]
