@@ -73,6 +73,7 @@ session_panelists = {'People-Earth':[
 top = """
 
 # Overview Schedule 
+## Live stream on [neurips.cc](https://neurips.cc/virtual/2020/protected/workshop_16105.html)
 ## All times are in PST (Vancouver time)
 | Start | End | Session | Session Chair | Keynotes / Panelists  |   
 | ---- | ---- | --------- | ------------------- |  --------------------------- | 
