@@ -1,7 +1,7 @@
 # FAQ
  
 ### Q: Who will join in the zoom discussion at the end of each session?  
-A: All speakers/authors from the session will be able to join the zoom session. The moderator will ask questions from the audience. We also encourage you to "raise your hand" to engage with fellow speakers. The zoom link is available on the [neurips workshop page](https://neurips.cc/virtual/2020/protected/workshop_16105.html) (conference registration required). 
+A: All speakers/authors from the session will be able to join the zoom session. The moderator will ask questions from the audience. We also encourage you to "raise your hand" to engage with fellow speakers. The zoom link is available on the [neurips workshop page](https://neurips.cc/virtual/2020/protected/workshop_16105.html) (conference registration required). It is imperative that those who join the zoom session close the livestream to avoid feedback.  
 
 #### Q: Will the video of my talk be available after the workshop?     
 A: Yes. We'll preserve a link to the Slideslive/NeurIPS video on our website and you should also be able to find it thru their interface.  
