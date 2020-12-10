@@ -137,7 +137,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">Discussion</td>
                       <td style="text-align:center">Q/A and Discussion</td>
                       <td style="text-align:center">Johanna Hansen (McGill, Mila)</td>
-                      <td style="text-align:left">Post your questions to slack to hear from our authors in live Q&A.</td>
+                      <td style="text-align:left">Post your questions to slack to hear from our authors in live Q&A. Discussion panelists include: <a href="https://www.cim.mcgill.ca/~mrl/"> Greg Dudek (McGill, SamsungAI)</td>
                       </tr><tr>
                       <td style="text-align:center">8</td>
                       <td style="text-align:center">---</td>

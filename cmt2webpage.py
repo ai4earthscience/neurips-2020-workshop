@@ -68,8 +68,8 @@ session_times = {
 session_panelists = {'People-Earth':[
                   '<a href="https://teamcore.seas.harvard.edu/people/milind-tambe">Milind Tambe (Harvard, Google)', 
                   '<a href="http://kammen.berkeley.edu/">Dan Kammen (Berkeley)', 
-                  '<a href="https://deleolab.stanford.edu/people">Giulio De Leo (Stanford)',
-                  ]}
+                  '<a href="https://deleolab.stanford.edu/people">Giulio De Leo (Stanford)'],
+                  'Sensors': ['<a href="https://www.cim.mcgill.ca/~mrl/"> Greg Dudek (McGill, SamsungAI)']}
 top = """
 
 # Overview Schedule 
