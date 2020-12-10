@@ -5,12 +5,14 @@ title: AI for Earth Sciences
 ---
 ## Virtual Workshop Date: Saturday, December 12th PDT    
 
-## Live stream on [neurips.cc](https://neurips.cc/virtual/2020/protected/workshop_16105.html)  
-## AI4Eearth [gather.town](https://neurips.gather.town/app/mSwJg1p1vbl7Vfxu/neurips-ai4earth) for casual conversations
-
 This workshop seeks to discuss work at the intersection of earth science and machine learning, bringing together scientists working on important geoscientific and planetary challenges together with machine learning specialists. This workshop encompasses both applied and theoretical work from both fields. 
-
 Topics include demonstrating machine learning techniques in fields related to earth-systems science across 8 sessions:
+
+## The workshop's live stream is available on [neurips.cc](https://neurips.cc/virtual/2020/protected/workshop_16105.html)  
+
+## Join the #AI4Eearth [gather.town](https://neurips.gather.town/app/mSwJg1p1vbl7Vfxu/neurips-ai4earth) for casual conversations
+
+## [Join our slack for live Q&A](https://join.slack.com/t/ai4earth/shared_invite/zt-jkg0i982-VYRAd0HbjCG_6970Hcqfwg)  
 
 ## Overview Schedule 
 ### All times are in PST (Vancouver time)
@@ -28,7 +30,6 @@ Topics include demonstrating machine learning techniques in fields related to ea
 | [19:00](https://calendar.google.com/event?action=TEMPLATE&tmeid=MmlkYWM2Ym4wb284cWtyN3NnaDdlMzk0OWogYWk0ZWFydGhzY2llbmNlQG0&tmsrc=ai4earthscience%40gmail.com) | 20:55 | [Datasets](https://ai4earthscience.github.io/neurips-2020-workshop/schedules#datasets)            | Karthik Kashinath | Stephan Rasp |  
 | 20:55 | 21:00 | [Closing Remarks](https://ai4earthscience.github.io/neurips-2020-workshop/schedules#closing)                  | Organizers  | -- |   
 
-## [Join our slack for live Q&A](https://join.slack.com/t/ai4earth/shared_invite/zt-jkg0i982-VYRAd0HbjCG_6970Hcqfwg)  
 
 
 ## Participating:
