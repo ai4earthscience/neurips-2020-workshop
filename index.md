@@ -6,7 +6,7 @@ title: AI for Earth Sciences
 ## Virtual Workshop Date: Saturday, December 12th PDT    
 
 This workshop seeks to discuss work at the intersection of earth science and machine learning, bringing together scientists working on important geoscientific and planetary challenges together with machine learning specialists. This workshop encompasses both applied and theoretical work from both fields. 
-Topics include demonstrating machine learning techniques in fields related to earth-systems science across 8 sessions:
+Topics include demonstrating machine learning techniques in fields related to earth-systems science 8 sessions. 
 
 - The workshop's live stream is available on [neurips.cc](https://neurips.cc/virtual/2020/protected/workshop_16105.html)  
 - Join the #AI4Eearth [gather.town](https://neurips.gather.town/app/mSwJg1p1vbl7Vfxu/neurips-ai4earth) for casual conversations
