@@ -6,12 +6,12 @@
 | ---- | ---- | --------- | ------------------- |  --------------------------- | 
 | 06:45 | 06:55 | [Welcome](#welcome)  | S. Karthik Mukkavilli | --- |  
 | [06:55](https://calendar.google.com/event?action=TEMPLATE&tmeid=MzBncW5hZGphamNhcTM0NWlrOXJwZWRpYzYgYWk0ZWFydGhzY2llbmNlQG0&tmsrc=ai4earthscience%40gmail.com) | 08:55 | [Sensors and Sampling](#sensors) | Johanna Hansen | Yogesh Girdhar, Hannah Kerner, Renaud Detry |   
-| [08:55](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGx1ajVkdDBidGt0aThmZ2NvZ291dWczcWMgYWk0ZWFydGhzY2llbmNlQG0&tmsrc=ai4earthscience%40gmail.com) | 10:55 | [Ecology](#ecology) | Natasha Dudek |  Dan Morris, Giulio De Leo |   
+| [08:55](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGx1ajVkdDBidGt0aThmZ2NvZ291dWczcWMgYWk0ZWFydGhzY2llbmNlQG0&tmsrc=ai4earthscience%40gmail.com) | 10:55 | [Ecology](#ecology) | Natasha Dudek |  Dan Morris & Giulio De Leo |   
 | [10:55](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXRnczQzNjQ2NmJpN2ZwbWI0cmJvOWd0b2MgYWk0ZWFydGhzY2llbmNlQG0&tmsrc=ai4earthscience%40gmail.com) | 12:45 | [Water](#water) | S. Karthik Mukkavilli | Pierre Gentine  |   
 | [12:45](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGQwc2ViYWF2NmR1am40bnZsdWNvajl0a2kgYWk0ZWFydGhzY2llbmNlQG0&tmsrc=ai4earthscience%40gmail.com) | 13:25 | [Keynote: Milind Tambe](#keynote)  | S. Karthik Mukkavilli | Milind Tambe |  
 | [13:25](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDMyOHRtMmtrazlrM3V1ZmlxODV1N3JpajggYWk0ZWFydGhzY2llbmNlQG0&tmsrc=ai4earthscience%40gmail.com) | 15:25 | [Atmosphere](#atmosphere)  | Tom Beucler | Michael Pritchard, Elizabeth Barnes |  
 | [15:25](https://calendar.google.com/event?action=TEMPLATE&tmeid=NGx1ZTNwanZuc3RnOTltYnNwZmV0bm51aWEgYWk0ZWFydGhzY2llbmNlQG0&tmsrc=ai4earthscience%40gmail.com) | 17:20 | [ML Theory](#theory) | Karthik Kashinath | Stephan Mandt, Rose Yu |  
-| [17:20](https://calendar.google.com/event?action=TEMPLATE&tmeid=MDZhdDFtNmRwamd2NnRpdmJiaGZlbnFjZTEgYWk0ZWFydGhzY2llbmNlQG0&tmsrc=ai4earthscience%40gmail.com) | 18:00 | [People-Earth](#people-earth)          | Mayur Mudigonda | Dan Kammen, Milind Tambe  |  
+| [17:20](https://calendar.google.com/event?action=TEMPLATE&tmeid=MDZhdDFtNmRwamd2NnRpdmJiaGZlbnFjZTEgYWk0ZWFydGhzY2llbmNlQG0&tmsrc=ai4earthscience%40gmail.com) | 18:00 | [People-Earth](#people-earth)          | Mayur Mudigonda | Dan Kammen, Milind Tambe, & Giulio De Leo  |  
 | [18:00](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWo0NGNibDY5a3A2dWdiZ2kwcDZ2cWUwb2QgYWk0ZWFydGhzY2llbmNlQG0&tmsrc=ai4earthscience%40gmail.com) | 19:00 | [Solid-Earth](#solid-earth)            | Kelly Kochanski | --- |   
 | [19:00](https://calendar.google.com/event?action=TEMPLATE&tmeid=MmlkYWM2Ym4wb284cWtyN3NnaDdlMzk0OWogYWk0ZWFydGhzY2llbmNlQG0&tmsrc=ai4earthscience%40gmail.com) | 20:55 | [Datasets](#datasets)            | Karthik Kashinath | Stephan Rasp |  
 | 20:55 | 21:00 | [Closing Remarks](#closing)                  | Organizers  | -- |   
@@ -666,7 +666,7 @@ Renaud Detry is the group leader for the Perception Systems group at NASA's Jet 
                       <td style="text-align:center">Discussion</td>
                       <td style="text-align:center">Q/A and Discussion</td>
                       <td style="text-align:center">Mayur Mudigonda (Berkeley Lab)</td>
-                      <td style="text-align:left"> Discussion panelists include: <a href="https://teamcore.seas.harvard.edu/people/milind-tambe">Milind Tambe (Harvard, Google) and <a href="http://kammen.berkeley.edu/">Dan Kammen (Berkeley)</td>
+                      <td style="text-align:left"> Discussion panelists include: <a href="https://teamcore.seas.harvard.edu/people/milind-tambe">Milind Tambe (Harvard, Google) and <a href="http://kammen.berkeley.edu/">Dan Kammen (Berkeley) and <a href="https://deleolab.stanford.edu/people">Giulio De Leo (Stanford)</td>
                       </tr></table>
 </html>
 
