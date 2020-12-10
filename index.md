@@ -11,11 +11,9 @@ Topics include demonstrating machine learning techniques in fields related to ea
 - The workshop's live stream is available on [neurips.cc](https://neurips.cc/virtual/2020/protected/workshop_16105.html)  
 - Join the #AI4Eearth [gather.town](https://neurips.gather.town/app/mSwJg1p1vbl7Vfxu/neurips-ai4earth) for casual conversations
 - [Join our slack for live Q&A](https://join.slack.com/t/ai4earth/shared_invite/zt-jkg0i982-VYRAd0HbjCG_6970Hcqfwg)  
-
 ---
-
 ## Overview Schedule 
-### All times are in PST (Vancouver time)
+#### All times are in PST (Vancouver time)
 | Start | End | Session | Session Chair | Keynotes / Panelists  |   
 | ---- | ---- | --------- | ------------------- |  --------------------------- | 
 | 06:45 | 06:55 | [Welcome](https://ai4earthscience.github.io/neurips-2020-workshop/schedule#welcome)  | S. Karthik Mukkavilli | --- |  
