@@ -71,9 +71,7 @@ session_panelists = {'People-Earth':[
                   '<a href="https://deleolab.stanford.edu/people">Giulio De Leo (Stanford)'],
                   'Sensors': ['<a href="https://www.cim.mcgill.ca/~mrl/"> Greg Dudek (McGill, SamsungAI)']}
 top = """
-
 # Overview Schedule 
-## Live stream on [neurips.cc](https://neurips.cc/virtual/2020/protected/workshop_16105.html)
 ## All times are in PST (Vancouver time)
 | Start | End | Session | Session Chair | Keynotes / Panelists  |   
 | ---- | ---- | --------- | ------------------- |  --------------------------- | 
@@ -90,6 +88,7 @@ top = """
 | 20:55 | 21:00 | [Closing Remarks](#closing)                  | Organizers  | -- |   
 
 ## [Join our slack for live Q&A](https://join.slack.com/t/ai4earth/shared_invite/zt-jkg0i982-VYRAd0HbjCG_6970Hcqfwg)  
+## Live stream on [neurips.cc](https://neurips.cc/virtual/2020/protected/workshop_16105.html)
 ---
 """
 
